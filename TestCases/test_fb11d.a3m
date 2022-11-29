@@ -1,0 +1,1947 @@
+#59,41,34	1,1,1
+>101	102	103
+PIAQIHILEGRSDEQKETLIREVSEAISRSLDAPLTSVRVIITEMAKGHFGIGGELASKAIAQIHICGRSDEQLCGRSDEQKETLIREGHFGIGGELASKAIAQIHILCGRSDEQKETLIREGHFGIGGELASK
+>101
+PIAQIHILEGRSDEQKETLIREVSEAISRSLDAPLTSVRVIITEMAKGHFGIGGELASK---------------------------------------------------------------------------
+>A0A7C4BER2	87	0.406	6.001E-18	0	58	59	1	59	65
+PVVTIEMWEGRTPEQKKALVEAVTSAVAGAIGCPPEAVEVIIHEVPKVNWGIGGQIASE---------------------------------------------------------------------------
+>A0A1M5AEK1	85	0.338	2.938E-17	0	58	59	1	59	68
+PIYHIEMMEGRTPEQKRKLVEAVTRVSVDILGGSPEAVHVLIHEIPRDNWATGGQLWSE---------------------------------------------------------------------------
+>A0A429EDM9	84	0.355	7.621E-17	0	58	59	1	59	61
+PMINVSMFPGRTAEQKQALVREVTDAFVRTCGGNPEGVWVTINEIPAEHWASGGTLFSE---------------------------------------------------------------------------
+>A0A7C3TX99	84	0.372	7.621E-17	0	58	59	1	59	62
+PVVTVEMWEGRTDEQKRKLAELVTNAVCEAIGCPREAVEVIMREVPRKNWAIGGKLASE---------------------------------------------------------------------------
+>A0A4P6L4R2	83	0.322	1.977E-16	0	58	59	1	59	61
+PTINVQLFEGRTPEQKRAFVQAVTQATVETLGSSPESVDIILHEVKREHWATGGKLWSE---------------------------------------------------------------------------
+>UPI0003671E29	83	0.362	1.977E-16	0	57	59	1	58	61
+PLINVTMFPGRTEEQKRELVRELTDAFARTCDANPDGVWVTINEVPPERWAVGGRLIS----------------------------------------------------------------------------
+>A0A847M6U1	83	0.379	1.977E-16	0	57	59	1	58	63
+PFVTVKMWEGRTTEQKAAIIEKVTEALIESMGVEPEHVSVVLQEYPKENWGVGGQLAS----------------------------------------------------------------------------
+>A0A7C3BUL5	82	0.322	2.716E-16	0	58	59	1	59	60
+PLVTVEMWEGRTVEQKKELAQGITSVMTDKLGIPPEAVTIIIKDVPKHNWAIGGKLSSE---------------------------------------------------------------------------
+>A0A1F9XKG5	82	0.372	3.733E-16	0	58	59	1	59	65
+PVIKIEMWKGRTHEQKKKLVEKVTSATVESIGCPPEAVQIIINEVDKENWGLAGQLASE---------------------------------------------------------------------------
+>A0A0F0E1Y4	81	0.338	5.129E-16	0	58	59	1	59	61
+PILRLEMHPGRTPEQKRDFVREVTQVAVEVLKCPPESVDVVIYEVPREQWAKAGKLVSE---------------------------------------------------------------------------
+>UPI0011096F0C	81	0.355	5.129E-16	0	58	59	1	59	63
+PTYHVEMFEGRSPEQKKQLVEEVTRVTAETLGCSPEAVDIIITEVKRENWSTGGKLWSE---------------------------------------------------------------------------
+>A0A4Q3J2V2	81	0.389	5.129E-16	0	58	59	1	59	64
+PTIHVQMFEGRSAEQKRDFVREVTEAACRTLGCKPDSVDIIIQDVSRANWASGGKLWSE---------------------------------------------------------------------------
+>UPI00168717C6	81	0.310	5.129E-16	0	57	59	1	58	64
+PFVVVHMWDGRSVEQKRELAKAITDAMVEHAGARPDALHVAIQEYPKENWARAGVLGS----------------------------------------------------------------------------
+>UPI00197BDC4A	81	0.392	7.048E-16	2	57	59	1	56	66
+--IHVEMYPGRTPEQKADLVREVTDAFVRTCGGNPDGVWVVIQEVPGEHWGVGGQLAS----------------------------------------------------------------------------
+>UPI00069C494D	81	0.305	7.048E-16	0	58	59	1	59	83
+PVVIIEMYPGRTPEQKRALVKAVTEAMVEHAGARPDHLHVILHEVAPENWALAGRLGTE---------------------------------------------------------------------------
+>A0A8J3FTW4	81	0.338	9.684E-16	0	58	59	1	59	64
+PLIRVSMFPGRTEEQKRELVAELTEAFLRTCGGKREGVWVVIDEVPREHWAVGGRLSSE---------------------------------------------------------------------------
+>UPI00124B17A4	80	0.327	1.829E-15	0	57	59	1	58	61
+PTINVQMFAGRSAEQKRAFVKAITDATCESLGCKPEGVDVIIQEVKREDWATGGKLWS----------------------------------------------------------------------------
+>A0A662P0H6	80	0.440	1.829E-15	0	58	59	1	59	61
+PIVEIKMWAGRTEEQKERLVKEITEAVTRALGVEPEETQVIIIEIPKSNWGVSGRLASK---------------------------------------------------------------------------
+>UPI0015FCCAFB	80	0.310	1.829E-15	0	57	59	1	58	61
+PHITVQHLAGRSTEQKRELAREITDAYVRVTGIKPESVWVTFQDVPAEDWAVGGTPIA----------------------------------------------------------------------------
+>A0A2S1XR35	80	0.293	1.829E-15	0	57	59	1	58	62
+PLINVQLFEGRTPEQKRAYAKALTDASVEVLGCSPEAVDVIFHDVKKSDWASGGKLWS----------------------------------------------------------------------------
+>A0A327JYV8	80	0.288	1.829E-15	0	58	59	1	59	63
+PVVTVEMWTGRSREQKRALVRAITDAMVTHAGAKPDNLHVIIHEVPKEDWALAGVMGDE---------------------------------------------------------------------------
+>A0A7V8JTY1	79	0.379	2.513E-15	0	57	59	1	58	60
+PTFNIQLFEGRSLEQRRELVKAITEVTCKTLQCPPESVDIIIQEVKKENWATGGKLWS----------------------------------------------------------------------------
+>A0A7C6ZGD0	79	0.327	2.513E-15	0	57	59	1	58	61
+PIVRVEMWEGRTVEQKRELAKAITEDMVKIAGAKPEAVVVIFEDVPKHNWATGGVLWS----------------------------------------------------------------------------
+>UPI0005AB22ED	79	0.362	2.513E-15	0	57	59	1	58	61
+PLIQVKQLAGRSEEQKRAIARELTDAFVRATGVRPEAVWVTIDELPPENWAIGGTLVA----------------------------------------------------------------------------
+>A0A259Q5T5	79	0.338	2.513E-15	0	58	59	1	59	61
+PAIRIDMFEGRSPEVKKELVENITQAVVETLKCSPEAVDIILNEVPKSHWATGGKLWSE---------------------------------------------------------------------------
+>A0A4Q5PQQ5	79	0.355	2.513E-15	0	58	59	1	59	62
+PTFHVEMFEGRTPEQKKSLVEKVTQAAVDALGCKPESVDIIITDIRKDNWSTGGKLWSE---------------------------------------------------------------------------
+>A0A1H0IHK0	79	0.303	3.453E-15	0	55	59	1	56	59
+PHISVSMYPGRTQEQKRELVAKLTDAFVETCGGNREGVWVVINEVPAENWGVGGEL------------------------------------------------------------------------------
+>A0A2D5UR44	79	0.305	3.453E-15	0	58	59	1	59	60
+PVVTVDMWDGRTVEQKKQLAEGITALMTTKLGVPPEAVIIIINDIPKHNWAIAGKLASE---------------------------------------------------------------------------
+>A0A7C4MEF0	79	0.389	3.453E-15	0	58	59	1	59	61
+PVVQISMWAGRSDEQKKKIIEGVTNVLCDVLGIRPENVTVIIYEVEKKNWGKSGKPASE---------------------------------------------------------------------------
+>UPI00187D392A	79	0.338	3.453E-15	0	58	59	1	59	64
+PTLRVEMLEGRTPEQKRALVQALTQAVVDTLGSKPESVDVLLYDIPRAHWATGGELWSE---------------------------------------------------------------------------
+>A0A7K0LTZ6	79	0.448	3.453E-15	0	57	59	1	58	65
+PFVQITMLEGRTIEQKHDLIRRLTDATAESLGGDPGRIRVVIYEVSADSWGIGGEPVS----------------------------------------------------------------------------
+>A0A1F9X2B9	79	0.355	3.453E-15	0	58	59	1	59	65
+PVVEIQLWAGRSKDQKRNMVQKVTAAVCETIECPPESVHIIITDVEKDNWGLAGKLASE---------------------------------------------------------------------------
+>A0A1Q9PEN7	79	0.338	4.746E-15	0	58	59	1	58	60
+PVVQVQMWEGRTEEQIKEIIKGITDVFVNQ-GSKPGSVRVLIQEYPKDRWGVGGKPASE---------------------------------------------------------------------------
+>A0A0M3GN73	79	0.406	4.746E-15	0	58	59	1	59	61
+PILHLQMHPGRTDEQKRAFAREATKAAVETLACPPESVEILITEIAKDSWAVGGKLKSE---------------------------------------------------------------------------
+>A0A1G7KU16	79	0.448	4.746E-15	0	57	59	1	58	61
+PVVQIDMLEGRTLEQKRELVKKVTEVIVETANCPPEAVTIIIREMPKEHLGKAGKLRS----------------------------------------------------------------------------
+>UPI0004763954	79	0.278	4.746E-15	0	57	59	1	61	62
+PMITVEMYPGRTPEQKQALAARLTEAFMETCGSPgqsPDGVWVVIREVPRENWAIGGKMHA----------------------------------------------------------------------------
+>A0A7K0P3G4	79	0.431	4.746E-15	0	57	59	1	58	73
+PFVQITMLEGRTVEQKHDLIKRLTDATAGALGGDPARVRVVIYEVSADSWGIGGEPVS----------------------------------------------------------------------------
+>UPI0009EAB443	79	0.327	4.746E-15	0	57	59	1	58	191
+PFVTVHMWEGRSVEQKRRLAKAITEAMVEHAGANPEHFHVAISEYAPEDWSRAGVLGA----------------------------------------------------------------------------
+>A0A0U1NTZ3	78	0.457	6.522E-15	0	58	59	1	59	67
+PIIQVHLLEGRSAELKRQLISEVTAAVSRTLGNPPETVRVLLHEVSEENWGVGGVPIVE---------------------------------------------------------------------------
+>UPI000A032403	78	0.293	6.522E-15	0	57	59	34	91	96
+PFVVVEMWEGRTTDQKRNLVRAITDAMVTHCDCKPDHLHVVIHDVPKDSWGRAGVLGS----------------------------------------------------------------------------
+>A0A7V2KUG5	78	0.322	8.963E-15	0	58	59	1	58	61
+PVVIVEMWEGRTVEQKKQLVEGITDTFTRI-GVPKEALHVIIQDVPKHNWGHAGRLASE---------------------------------------------------------------------------
+>UPI0004C1BC98	78	0.396	8.963E-15	0	57	59	1	58	61
+PLIQVKQLTGRTDEQKRALVRELTDAYVRVMGNKPESVWVTIDELPAENWATGGTLLS----------------------------------------------------------------------------
+>UPI0004864019	78	0.305	8.963E-15	0	58	59	1	59	61
+PILRIEMHPGKTLEQKRELARGITDVFVETLSCPPEVVEIVFSEIPKDAWATGGKLKSE---------------------------------------------------------------------------
+>A0A353Y5C8	78	0.338	8.963E-15	0	58	59	1	59	62
+PTIRVEMFEGRTPEQKREFVKAITEATVQTLGSSPEAVDVIITDIKKSDWATGGVLWSE---------------------------------------------------------------------------
+>A0A6H2HDF3	78	0.288	8.963E-15	0	58	59	1	59	63
+PFYHVEMMEGRTPAQKKQLVEAMTRTSVEILGGKPESVTIIITDVKRENWSSGGKLWSE---------------------------------------------------------------------------
+>A0A849E840	78	0.333	8.963E-15	0	56	59	1	57	64
+PIIRVEMFKGRSREQKRELVQALTDAMVKTTGANPEAVWVVLSDVEKEDWGFGGELG-----------------------------------------------------------------------------
+>UPI001C2CB4F7	78	0.372	8.963E-15	0	58	59	1	59	65
+PTINVQLFEGRSVEQKRAFVEAVTEATCRSLGCAPGSVDIIIQDVSRDNWATGGRLWSE---------------------------------------------------------------------------
+>UPI001F207D34	78	0.457	8.963E-15	0	58	59	1	59	88
+PLIQMHILEGRTAETKRQLISEVTDAVSRTLGAKPESIRVLLYELPKEHWAVGGVTMAE---------------------------------------------------------------------------
+>A1HMV4	78	0.465	1.232E-14	0	57	59	1	58	61
+PVVQIDMLEGRTLEQKRQLVKKVTEAIVETANCPPDAVTIIIREMPKEHLGKAGVLRS----------------------------------------------------------------------------
+>A0A7Z1Y9D0	78	0.491	1.232E-14	0	58	59	1	59	61
+PIVHIELLEGRTNEQKQAMVKEVTEAISRTSGAPKENIHVVIQEMKKEHYAIAGKLKSE---------------------------------------------------------------------------
+>A0A7M3DLS7	78	0.389	1.232E-14	0	58	59	1	59	61
+PILHLQMHPGRTDDQKRAFAREVTKAAVETLACPPESLEILITEVAKDSWAVGGKLKSE---------------------------------------------------------------------------
+>A0A857J6P2	78	0.338	1.232E-14	0	58	59	1	59	62
+PTYHIEMMEGRTVEQKRKLVEEITRVTVEVLGGSPESVDILITDVARHNWATGGKLWSE---------------------------------------------------------------------------
+>A0A2S9VFR1	78	0.610	1.232E-14	0	58	59	1	59	62
+PIAHLEILEGRTAEQRAKLISEVTDAISRSIDAPKERVRVIITEIPKANWGIGGVPASE---------------------------------------------------------------------------
+>A0A4D7CVZ2	78	0.491	1.232E-14	0	58	59	1	59	62
+PIVHIELLEGRTDEQKKSMVQEVTEAISKTSGAPKENIHVVIQEMKKEHYAVGGVLKSE---------------------------------------------------------------------------
+>A0A1F8MZD0	78	0.327	1.232E-14	0	57	59	1	58	63
+PIVRVEMWPGRTHAQKAELARLITEALVTVARIPPEATTVIFEDVPKENWAVGGVLAS----------------------------------------------------------------------------
+>A0A849KE44	78	0.288	1.232E-14	0	58	59	1	59	64
+PTIRVDLFEGRTPEQKRNLVKALTQACVETLGSKPESVDILLFDVKPSDWATGGELWSE---------------------------------------------------------------------------
+>A0A378YGH3	78	0.344	1.232E-14	0	57	59	1	58	64
+PTFHVEMFEGRTVEQKRAFVKAVTEAAVTTLGCSPESVDIIITDIKRENWATGGTLWS----------------------------------------------------------------------------
+>A0A6N7M0G7	78	0.322	1.232E-14	0	58	59	1	59	65
+PLVNVDLWEGRKVDEKKKLVAGITNLFVEITGCPKEAVTVIIRDVPKHNWGIGGELSSE---------------------------------------------------------------------------
+>G8U0B3	78	0.440	1.232E-14	0	58	59	1	59	73
+PLIHIELLDGRTSEQKRQLIREVTEAVHRTIGAPTENIRVILTEVPFDHWAVGGVTMAE---------------------------------------------------------------------------
+>X1TDG4	77	0.305	1.693E-14	0	58	59	1	58	60
+PVVTVEMWEGRTIEQKKQLAEGITSSLVKI-GVPQEAVHIIIKDNPKHNWAAGGKLASE---------------------------------------------------------------------------
+>A0A3D5K5M2	77	0.344	1.693E-14	0	57	59	1	58	61
+PIIRVEMFPGRTIDQKRDLARELTDGFVRACGGAGEKLHVVITEVERENWGVGGELMS----------------------------------------------------------------------------
+>A0A073A0L9	77	0.338	1.693E-14	0	58	59	1	59	62
+PTFRIEMFEGRTADQKRKLVEEVTRVTCETLGCPPGAVDIIIAEVKRENWATGGLLWSE---------------------------------------------------------------------------
+>A0A357NBJ9	77	0.482	1.693E-14	0	55	59	1	56	62
+PIIQVEMLEGRTIEQKRQMVKKVTEAVVDSVHCPPEAVRVIIREMPKEHFAVAGKL------------------------------------------------------------------------------
+>A0A538HRP5	77	0.298	1.693E-14	0	56	59	1	57	64
+PVVTVQLWEGRTVEQKRALVQAITEAMIEHAGAKPDALHVILQEIPRENWGRAGVLG-----------------------------------------------------------------------------
+>A0A2N2F8Y1	77	0.379	1.693E-14	0	57	59	1	58	67
+PVVNIKMVKGRTVEQKRNLVRAVTDAVAQTIDVKPDAVWVLIEEYEKENWAAGGELFS----------------------------------------------------------------------------
+>A0A7V4SRW9	77	0.338	1.693E-14	0	58	59	1	59	68
+PFVTVHMWPGRSKEAKAKVIKAITDALTESAGIPAEATQVAIIEVPQENWGIGGVCASE---------------------------------------------------------------------------
+>UPI0008267164	77	0.372	1.693E-14	0	58	59	1	59	102
+PLIQITLLEGRTEAQKAALIKAVTKAVVEAIGAPPESVRIALYELPRTHWAVGGVTKAE---------------------------------------------------------------------------
+>UPI001B8D2868	77	0.338	2.326E-14	0	58	59	1	59	60
+PTFNVQIFEGRSAEQKRAFVQAITEVTCKTLDCGPESVDIIIQEVKRENWATAGKLWSE---------------------------------------------------------------------------
+>UPI000E0B5B70	77	0.355	2.326E-14	0	58	59	1	59	62
+PTYRIELFEGRSVEQKRKLAEEITRVTTEVLGSAPESVDIIITDVPRHNWASGGKLWSE---------------------------------------------------------------------------
+>A0A7Y6Z1T0	77	0.542	2.326E-14	0	58	59	1	59	63
+PLVQVNILEGRTDEQKEALIHELTEACYKAIGAPRETVRVLINEMPKQNWGIGGQSAKK---------------------------------------------------------------------------
+>A0A497BS27	77	0.327	2.326E-14	0	57	59	1	58	63
+PIVRVEMWSGRTHEQKADLARLITEAVVNVAGTRPEVVTVIFEDVPRENWAVGGVLAS----------------------------------------------------------------------------
+>UPI000D00F5E7	77	0.344	2.326E-14	0	57	59	1	58	64
+PTFHVDLFEGRSTEQKRRFIEAITRVTCETLDCPPSAVDIILHEVKKENWATGGKLWS----------------------------------------------------------------------------
+>A0A7V8WJG9	77	0.252	2.326E-14	0	58	59	1	63	65
+PVVTVQLWEGRTPEQKRKLMRALTEAMVEHAGTRPEGLHIVLQEIPKENWGsvstLGGVDRTE---------------------------------------------------------------------------
+>A0A256ZBH4	77	0.288	2.326E-14	0	58	59	27	84	88
+PVVIVEMWEGRTAEQKKKLIEGITKAF-EGLGVKPEWLHIIIHDVPRTNWGTRGRQASE---------------------------------------------------------------------------
+>C3X5T1	76	0.362	3.197E-14	0	57	59	1	58	60
+PTINIQIFEGRTVEQKRELAKAVTEATCKTLKCDPGAVDIIIHDVKKENWATAGKLWS----------------------------------------------------------------------------
+>A0A0A3ILU0	76	0.465	3.197E-14	0	57	59	1	58	61
+PIVTVKMLEGRTPEQKRALVEKVTEAVSETTGAPAANVTIIIEDMPKSHYATGGVLAS----------------------------------------------------------------------------
+>A0A2N3FIT0	76	0.440	3.197E-14	0	58	59	1	59	61
+PIVHIHMLEGRNVDQKRELVRSMTEAVVNSVDAPPERVHIVIHEMKRENFAEAGILNSE---------------------------------------------------------------------------
+>A0A074LVN2	76	0.385	3.197E-14	0	56	59	1	57	61
+PFVHIEMVEGRTVEQKRELAKRVTEAVSEIAGVPAERVHVIFQDMKKEDYASGGTLV-----------------------------------------------------------------------------
+>UPI000FDC4AD2	76	0.322	3.197E-14	0	58	59	1	59	62
+PYIKIEMNEGRTPEQKAALARAITDAVVEHAGAKRESVWIVFDDVARQNWAVAGELLDK---------------------------------------------------------------------------
+>A0A2I6S7P6	76	0.305	3.197E-14	0	58	59	1	59	62
+PTFRVELFEGRTPEKKKELMEAITKESCRVLGCGPESVDVIIYDIPKHDWGTAGKPWSE---------------------------------------------------------------------------
+>D3NUS2	76	0.344	3.197E-14	0	57	59	1	58	62
+PTINIQLFEGRTVEQKRDYAKALTEATVKVLGCPPSAVDIIFQDVKKSDWASGGELWS----------------------------------------------------------------------------
+>A0A345SXA8	76	0.293	3.197E-14	0	57	59	1	58	63
+PLIQVKQIAGRTAEQKREIVRELTEAYVRATGVKPENIWVTIDEIPAENWATGGTPIA----------------------------------------------------------------------------
+>A0A3N6LWC4	76	0.350	3.197E-14	0	56	59	1	57	63
+PVVTVEMYEGRSDEQKQELVEDITDAMVEHVDATPETLHVIIHDVPKENWGRDGLLG-----------------------------------------------------------------------------
+>A0A2N2ENA8	76	0.338	3.197E-14	0	58	59	1	59	64
+PFVRIDLWKGRDKGTKKKLIKNVTSAVVESIGCPPEAVQVVIGEVEKENWGLGGAPADE---------------------------------------------------------------------------
+>A0A2H5YEE6	76	0.338	3.197E-14	0	58	59	1	59	65
+PIVRIEMWPGRTKAQKAELARVITEAMVTIAHTTPEAVIVVFEEVPKENWAQGGRLASE---------------------------------------------------------------------------
+>A0A5E4X292	76	0.310	3.197E-14	0	57	59	1	58	66
+PTFHVEMFEGRTVEQKRAFVKAVTEAAVKTIGCTPESVDIIITDVKPENWATAGTLWS----------------------------------------------------------------------------
+>UPI00101FB2DE	76	0.389	4.394E-14	0	58	59	1	59	60
+PMIRLEMLPGRTAEQKRNFAREVTRLAVETLNCKPESVDVIITEIPKSHWAKGGVLPEE---------------------------------------------------------------------------
+>A0A842KU15	76	0.355	4.394E-14	0	58	59	1	59	61
+PVVQISMWAGRSDEQKKKIIEGVTNVLCDVLGIKPENVTVIIYDVEKKNWGKSGKPSSE---------------------------------------------------------------------------
+>A0A328WTE8	76	0.293	4.394E-14	0	57	59	1	58	62
+PTFHIEMFEGRSVEQKRQLAAALTDTTCKVLGVEPQSVDIIFHDVKPENWATAGKLWS----------------------------------------------------------------------------
+>A0A1D9HAH2	76	0.474	4.394E-14	0	58	59	1	59	63
+PIMQVFLIEGRTEEQKARLIAALTDAAVESIGAPRETVRVMLQEMPKEHFGIGGKTAKE---------------------------------------------------------------------------
+>UPI000EA135E5	76	0.379	4.394E-14	0	57	59	1	58	63
+PIIDVTLLDGRTPERKAALIRELTDAAERVLGVSRESIRVLLRELPAENWGVGGEPKA----------------------------------------------------------------------------
+>A0A0M2SX05	76	0.406	4.394E-14	0	58	59	1	59	64
+PIVQVHLLEGRSKELKQQLIAEITAAVSRTLGNSPETIRVLLHDVPPENWGAAGLPMSK---------------------------------------------------------------------------
+>UPI001BCB2A91	76	0.322	4.394E-14	0	58	59	1	59	65
+PMIQVQMYAGRSPDQKRALVKALTEAFVTTAGGTPQAVQVVLQEVEKSDWATGGVLASE---------------------------------------------------------------------------
+>A0A7J2U327	76	0.338	4.394E-14	0	58	59	1	58	67
+PIVHVYMWSGVSKEAKQKIVKGITKVF-EELGIPPQAVEVVIHEIPKESWGVGGELASE---------------------------------------------------------------------------
+>A0A3S2TKH4	76	0.327	4.394E-14	0	57	59	1	58	69
+PTIHVQLFAGRTVEQKRALAKALTDATVATLGAKPESVDVIFTDVQREDWATGGVLWS----------------------------------------------------------------------------
+>A0A2N0W1A4	76	0.410	6.039E-14	0	55	59	1	56	59
+PVIHLEMLPGRTTEQKRDFAREVTRVAVETLKCKPESVDVVITEVPKIHWAKGGEL------------------------------------------------------------------------------
+>A0A7X7AH22	76	0.362	6.039E-14	0	57	59	1	58	60
+PTITVQLLEGRTSEQKRHFVKAITDAAAKTLDCNPGSIHVIIHEIRKEDWATGGKLWS----------------------------------------------------------------------------
+>UPI001F3E2010	76	0.338	6.039E-14	0	58	59	1	59	61
+PTFHIELFEGRTLEQKRQFVEAITKATCESLGVEPNSVDIILTEVRRENWATGGKLWSE---------------------------------------------------------------------------
+>A0A0Q6WBW1	76	0.362	6.039E-14	0	57	59	1	58	61
+PTINVQLFEGRSPEQKRAFVKAITEATCATLGSTPDSVDVLIHEVKKEHWATAGRLWS----------------------------------------------------------------------------
+>W8X5S6	76	0.338	6.039E-14	0	58	59	1	59	62
+PTMHIELFEGRTPEKKRELVRALTERTCEVLGCAPESVDIILTEISKDRWATGGVFWSE---------------------------------------------------------------------------
+>A0A2R8CEJ1	76	0.389	6.039E-14	0	58	59	1	59	64
+PIIRVEMFTGRSEEQKRALVQDLTEAFVGAAGGNPDSVHVVITDVDKGNWGSGGQLCSE---------------------------------------------------------------------------
+>A0A2N2M399	76	0.379	6.039E-14	0	57	59	1	58	67
+PVVNVKIVKGRTVEQKRNLARAVTDAVAQTIDVKPDAVWVLIEEYEKENWAAGGELYS----------------------------------------------------------------------------
+>A0A2E0KX50	76	0.310	6.039E-14	0	57	59	1	58	68
+PVVIVEMWEGRTDDQKRRLVKAITDAMVEHANAKPDSLHVIIHDVPKNSWARAGTLSS----------------------------------------------------------------------------
+>B4W4B8	76	0.275	6.039E-14	0	57	59	1	58	70
+PFVTVQIAKGHSVDQKRELAKALTDTLVSTLGTKPEWVTIHIDEFERENWAVGGELHS----------------------------------------------------------------------------
+>A0A2W6AI83	76	0.275	6.039E-14	0	57	59	1	58	71
+PVVTVQMFRGRTLEQKRALVRAITDAMVEHAGAKPDALIVVIQETEPENWAMAGRLAA----------------------------------------------------------------------------
+>A0A1F2YKF2	76	0.491	6.039E-14	0	58	59	1	59	86
+PLIQINILEGRTDEVKQGLIREVTDAVHRSLGADLESIRVLLYELPKQNWAVGGKSMAE---------------------------------------------------------------------------
+>A0A366GXD0	76	0.719	6.039E-14	0	56	59	1	57	88
+PVAQINILEGRTDEQKETLIREVTDAIARSLGSPAENVRVIITEMPKQHFGIGGQSV-----------------------------------------------------------------------------
+>A0A6I6INL2	76	0.362	6.039E-14	0	57	59	87	144	148
+PVIRVEMFAGRSAEQKRALAKELTEAFIRTAGGKPESVQVVLTDVEKENWASGGVLFS----------------------------------------------------------------------------
+>A0A0H5CL67	75	0.285	8.300E-14	0	55	59	1	56	59
+PLISVSMYPGRTPEQKAELVAKLTDAFVETCGGTRDGVWVMVNEVAPENWAVGGEL------------------------------------------------------------------------------
+>A0A419GQT5	75	0.285	8.300E-14	0	55	59	1	56	59
+PFIEVKLYEGRTQEQKQALVDRITEAFVEVAGTPKEHVWIVFRDVPRDQWGMAGEL------------------------------------------------------------------------------
+>UPI00046CBBB5	75	0.362	8.300E-14	0	57	59	1	58	60
+PIVNIDWLEGRTQDQKREIVRRVTDVIVEVTGCPPEAVTVIFTDHPRHDIGKAGKLLS----------------------------------------------------------------------------
+>A0A2D6D3Z6	75	0.322	8.300E-14	0	58	59	1	59	62
+PFITVKMLEGRTQDQKRALVKEITEAIERTCNATPENTLVLIEDVSPDQWAKGGVMISE---------------------------------------------------------------------------
+>A0A0V0PNC8	75	0.474	8.300E-14	0	58	59	1	57	63
+PLVQMSILEGRSAETKRALIREVTDAVVRTLGVQPDAVRVLLYEMPKANWAVGG--VSK---------------------------------------------------------------------------
+>UPI0011E91E33	75	0.465	8.300E-14	0	57	59	1	58	63
+PITHIHLLEGRSVEQKQELIRSVTQAITHTLGTSPEQVRVLLMEVPKENWGTGGVTKA----------------------------------------------------------------------------
+>UPI001455DF6A	75	0.517	8.300E-14	0	57	59	1	58	63
+PIINVHLMEGRTDEQKARLIGALTDAAIESIGAPRESVRVLLIEIPKTHFGIGGKTAS----------------------------------------------------------------------------
+>UPI001469B623	75	0.440	8.300E-14	0	58	59	1	59	64
+PMIRVEMFAGRSAEQKKTLIKSLTKATSEAIGVSEASVDVVITEVAKENWGLGGEPASE---------------------------------------------------------------------------
+>A0A2A4UPJ7	75	0.263	8.300E-14	0	56	59	1	57	65
+PVVTVQLWTGRTVDQKRKLTKAITEAMVEHVGADPSGMHVIIQEIPPENWARAGVLG-----------------------------------------------------------------------------
+>A0A0F8ZIX2	75	0.396	8.300E-14	0	57	59	1	58	65
+PVVRIDLWKGREKEKKKELIKNITSAVVDAIGCPVEAVQVIINEVEKDNWGIGGERAS----------------------------------------------------------------------------
+>UPI001AE2CF8D	75	0.315	8.300E-14	0	56	59	1	57	66
+PLVVVEMWEGRSVEQKRNLVKAITKAMVEEAACKPDHLHVVIHETPKDSWGRGGILG-----------------------------------------------------------------------------
+>A0A5Q0BRD1	75	0.338	8.300E-14	0	58	59	1	59	67
+PYVNIQITKGASREQKAQLVREVTDSLVRVLGKNPEHTHVVIQEIDEENWGYAGLLTDE---------------------------------------------------------------------------
+>UPI0004A77CCC	75	0.338	8.300E-14	0	58	59	1	59	67
+PVIQVNLMQGRTNEQKKLLAQRITQSVVEVLGAKPESVRVLIHEMGPYDFAVGGVPMAE---------------------------------------------------------------------------
+>A0A4Y8MK71	75	0.396	8.300E-14	0	57	59	1	58	70
+PLIQVTLIEGRTIDAKAALIGGLTDAAVTALGVPRESVRVIIQEVPAAHWGVGGLPKS----------------------------------------------------------------------------
+>A0A522ZPJ4	75	0.338	8.300E-14	0	58	59	1	59	71
+PIIQVNMLQGRTIEQKRNLAKRMTEAVVEALGVKPQNVRILIHELGPYDFAVAGVPAAE---------------------------------------------------------------------------
+>A0A7J3MNG9	75	0.338	1.141E-13	0	58	59	1	58	60
+PVVIVEMWEGRTEEQKEKLIKGITRAF-EEIGVKPEWLNIIIHDVPKSNWGVRGEQASK---------------------------------------------------------------------------
+>A0A7V6GB08	75	0.465	1.141E-13	0	57	59	1	58	61
+PIVQMEILKGRTLEQKQEMVKEVTEAICRTLLCPPEAVSIIIREMEKDNYAVAGKLYS----------------------------------------------------------------------------
+>UPI000A067FB1	75	0.293	1.141E-13	0	57	59	1	58	61
+PTLHLEMHPGRTLEQKRAFVREATQVAVETLGCPPESVDILISEVPRDAWAKGGKLLA----------------------------------------------------------------------------
+>A0A5C1WD76	75	0.344	1.141E-13	0	57	59	1	58	61
+PVLRLEMHPGRTPEQKRDFVRAATKAVVETLVCPPESVEIIITEVPKDAWAVAGKLKS----------------------------------------------------------------------------
+>A0A512CLZ8	75	0.481	1.141E-13	0	53	59	1	54	63
+PLIQMSILEGRSKEAKKAAMKEVTDAVVRTLGVPPETVRVLIYEMPKEHWSVGG--------------------------------------------------------------------------------
+>A0A3P4B5K5	75	0.491	1.141E-13	0	56	59	1	57	63
+PIIQVQLMEGRTDEQRAALIEELTDAAHRAIGAPRESVRVVLVEVPKTNFGIGGKTA-----------------------------------------------------------------------------
+>UPI000FDB1274	75	0.327	1.141E-13	0	57	59	1	58	64
+PIIRVEMFPGRTTDQKREMVKALTDAFVATAGGTPASVHVVITDIEKSNWGTGGELNS----------------------------------------------------------------------------
+>A0A7V5FME6	75	0.305	1.141E-13	0	58	59	1	59	66
+PIVRVELWEGRSKDDKKKIAKGITKVLNEIVNCPPQAVEVLFTDVPKDNWAIGGELCSE---------------------------------------------------------------------------
+>A0A5C6EZB2	75	0.237	1.141E-13	0	58	59	1	59	69
+PYINVQITKGATRDQKSRLVRRMTDALVEELGKKPEHIHIVIQEVDDENWGYAGMLTDE---------------------------------------------------------------------------
+>UPI001D09EFDF	75	0.310	1.141E-13	0	57	59	1	58	71
+PVIKVEMFSGRTVDQKRQLAKALTDSYVNVCGGKPQSVHIIIEDVDKTNWGIGGELCS----------------------------------------------------------------------------
+>UPI00026ED3E7	75	0.423	1.141E-13	0	58	59	1	59	75
+PIVTIKLLEGRSREQKTALMREVTAAVVNSLGVAPPAVRVLLEEVSPEHWSVGGISKAE---------------------------------------------------------------------------
+>A0A7V2APU5	74	0.296	1.568E-13	0	53	59	1	54	59
+PIVKVTLWKGRSGEQKKELAKAITDSMVETINVKPESVQVIFIEVDRENWAVGG--------------------------------------------------------------------------------
+>UPI00132FEB75	74	0.410	1.568E-13	0	55	59	1	56	60
+PMIRLEMLPGRTTEQKRDFAREVTRVAVETLKCKPESVDVVITEIPKSHWAKGGEL------------------------------------------------------------------------------
+>A0A2R4N457	74	0.446	1.568E-13	0	55	59	1	56	61
+PIVQIDMLEGRTLEQKRELVKRVTEAIVETAKCPPEAVKIILREMKPEHLGEAGVL------------------------------------------------------------------------------
+>A0A1W6BBD5	74	0.288	1.568E-13	0	58	59	1	59	61
+PIIRLEMPPGRTPEQKRSFASEVTRVAVETLNCKPESLDVLIIEVPKEHWAKAGKFMTE---------------------------------------------------------------------------
+>UPI0008DA40BD	74	0.275	1.568E-13	0	57	59	1	58	61
+PILHLELQPGRTPEQKRAFASEATRVMVETLGCPPESVDILINEVSRENWAKAGTLYA----------------------------------------------------------------------------
+>A0A839VNH6	74	0.344	1.568E-13	0	57	59	1	58	61
+PIIHVEMFAGRTLEQKRAFVSEVTRVASETLACPPESVDVLFTEFARENWAKAGKLVA----------------------------------------------------------------------------
+>UPI001E5482B3	74	0.327	1.568E-13	0	57	59	1	58	62
+PTINVQMFEGRTLEQKRAFVKAVTEASAQTLGCSADAVDIIIQEVKREDWASGGTLWS----------------------------------------------------------------------------
+>F3KP83	74	0.338	1.568E-13	0	58	59	1	59	62
+PILHVEMLAGRTPEQKKQYAQALTEATIRTLGVAPEAVDVLITEVQRPDWFVGGVPFSE---------------------------------------------------------------------------
+>A0A317DTE0	74	0.372	1.568E-13	0	58	59	1	59	62
+PIINVTLIEGRTPEVKRALIKELTDAAERATGTPRNAVRVIIWEVPAANFAVAGVPKSE---------------------------------------------------------------------------
+>UPI001EEEE96B	74	0.448	1.568E-13	0	57	59	1	58	63
+PITHIHLLEGRSVEQKQELIQNVTQAITQTLGTTPEQVRVLLMEIPKENWGTGGVTKA----------------------------------------------------------------------------
+>A0A7V4KID1	74	0.389	1.568E-13	0	58	59	1	59	63
+PNVKIEMWEGRSIEIKKELVKKITEVICQVLNCPAQAVNIVIYDIPKHNWGQGGELASE---------------------------------------------------------------------------
+>A0A0J6EWY3	74	0.288	1.568E-13	0	58	59	1	59	63
+PIIRVEMFPGRTPEQKAKLAERFTQAFVEEANAKAESVQIVFTDVPPSDWAVGGKLCAK---------------------------------------------------------------------------
+>UPI001B32FF37	74	0.322	1.568E-13	0	58	59	1	59	63
+PTYHIEMLEGRTIEQKKKLVEEITRVSVEVLGGKPDSVDILITDVKRENWATGGVLWTE---------------------------------------------------------------------------
+>A0A3M1FZE7	74	0.298	1.568E-13	0	56	59	1	57	64
+PVVTVQVWSGRTVEQKRRLVRAITDAMVEHMDAKPDGLHVIIQDIPPDSWGRAGVLG-----------------------------------------------------------------------------
+>X1N5N4	74	0.396	1.568E-13	0	57	59	1	58	65
+PVVRIDLWKGRDKEKKKELIEKITSAVADAIDCPIEAVQVIINEVEKDNWGIGGTPAS----------------------------------------------------------------------------
+>V4NIA2	74	0.300	1.568E-13	0	58	59	1	60	67
+PYVNIKVTrEGVTPEQKSALIKGATDLLVEVLGKNPATTFVVIDEVEIDNWGIAGEPVSE---------------------------------------------------------------------------
+>A0A4Y7B4U9	74	0.366	1.568E-13	0	58	59	1	60	67
+PYVNIQITrEGVSREQKAELIRGVTDLLVRVLDKSPATTHVVIQEVDLDNWGVGGLPVPE---------------------------------------------------------------------------
+>A0A7V1V2X7	74	0.285	1.568E-13	0	55	59	1	56	68
+PVVIVEMWEGRTVEQKRTLIQAITAAMVEHAKTDPEHLHVVIHDVPRHNWGRAGRL------------------------------------------------------------------------------
+>A0A1E4CMT2	74	0.305	1.568E-13	0	58	59	1	59	69
+PYVRVELIEGRDEEKKAELARRITQAMVECAGATPESVFVVFEDVKPHNWAVGGELISE---------------------------------------------------------------------------
+>A0A257HI52	74	0.271	1.568E-13	0	58	59	1	59	71
+PVITIQVLEGPTREQKAEIVRDFTDTLVRVLGKNPENTHIVFQEVSTENWGQGGLLVDE---------------------------------------------------------------------------
+>A0A800LTU6	74	0.310	1.568E-13	0	57	59	1	58	72
+PLITVEMFEGRTVDQKRELVRALTDTFCEVAGGSPAAVQIMIRDVAKSNWGAGGELCS----------------------------------------------------------------------------
+>A0A4S4AQ39	74	0.403	1.568E-13	0	56	59	17	73	79
+PFAQIYMIEGRTEEQKRAVIEKVTAALVEAVGAPKENVRVWVHDVPKENWGIAGVSA-----------------------------------------------------------------------------
+>A0A8J7CSQ5	74	0.474	1.568E-13	0	58	59	1	59	85
+PLVQIHMLEGRSEEQKKRMMVEVTEAIARTLNAPVESIRIAIYEIPRSHWSVGGITMEE---------------------------------------------------------------------------
+>A0A2V6SWP8	74	0.285	1.568E-13	0	55	59	1	56	129
+PIVTVAMYEGRTLDQKRELVKGITDVVARVTGNTPDGVHVVIEDVKRENWAIGGRL------------------------------------------------------------------------------
+>A0A6B0Z1E6	74	0.355	2.155E-13	0	58	59	1	59	61
+PVVHIHMFEGRTDDQKSAIVKGVTKAISEAAGIPESATTVVIHDTKRSNWAEGGVLASE---------------------------------------------------------------------------
+>A0A1M5WPX7	74	0.448	2.155E-13	0	57	59	1	58	61
+PIVQIELLEGRTLEQKRSLVEKVTQAIIESTGAAPETVSIIIRDMPKENYAKAGKLAS----------------------------------------------------------------------------
+>A0A2E7JTY9	74	0.327	2.155E-13	0	57	59	1	58	61
+PFINVKMLSGRSTEQKRDLVEALTNAIVETCGADREGTSVVIEEYEREHWARGGVLIA----------------------------------------------------------------------------
+>A0A315EZ42	74	0.288	2.155E-13	0	58	59	1	59	62
+PTIRVELLEGRTPEQKKELAKALTEATCQTLGSSPAAVDVLFFDIPRHDWATGGVPWSE---------------------------------------------------------------------------
+>A0A1E3ZFP5	74	0.491	2.155E-13	0	56	59	1	57	63
+PLIQVQMMEGRTDEQRAALIEELTEATHRAIGAPRESVRVVLVEVPKTNFGIGGKTA-----------------------------------------------------------------------------
+>A0A2E9M6N8	74	0.254	2.155E-13	0	58	59	1	58	63
+PVVTVEMWEGRTLGQKKQLVTGITAAFVEI-GVSPEAIHIILKDNPKHNWATGGQLASE---------------------------------------------------------------------------
+>A0A836VHT5	74	0.288	2.155E-13	0	58	59	1	59	64
+PFVSVKMLRGRSEQQKKELVKAMTDAMVEICGAPAEGTMVVIEEFESDQWAVGGTMVSE---------------------------------------------------------------------------
+>A0A421K846	74	0.389	2.155E-13	0	58	59	1	59	65
+PLIQATIMEGRSQEQKEAFYQGITQVVVDTLNVKPEQVRVVIQEVPKTHWAIGGISVAK---------------------------------------------------------------------------
+>A0A256YIE4	74	0.355	2.155E-13	0	58	59	1	58	65
+PIVQITMWSGRSVEFKKKLVEKIT-SVFEELGIPCEAVTIVIYEIPKENWGSGGVLHSE---------------------------------------------------------------------------
+>UPI001E6240C6	74	0.372	2.155E-13	0	58	59	1	59	65
+PILRVETWAGISREQKRDFVEVLTRESVRILDCPPEAVTVIIEEVPKENWGAAGELCSE---------------------------------------------------------------------------
+>A0A2M7B1S2	74	0.305	2.155E-13	0	58	59	1	59	66
+PFVRIDMWKGRDKGTRKKLIKNVTSAVVESIGCSPEAVQVVISEVEKENWGLGGAPADE---------------------------------------------------------------------------
+>A0A3S0KYD2	74	0.322	2.155E-13	0	57	59	1	59	71
+PYVNIRVTrEGVSADQKRQLIEGATDLLLKVLGKPPESTFVVIDEVDPDNWGVAGESVS----------------------------------------------------------------------------
+>A0A0F9R0D3	74	0.344	2.155E-13	0	57	59	29	86	87
+PYISIETFEGKTVEQKKALIQEVTKAVTSTLNVPPESVWIVIKDVPRCNWGEKGQPIS----------------------------------------------------------------------------
+>A0A1H1HPN6	74	0.338	2.962E-13	0	58	59	1	59	61
+PTFHIELFEGRSLDQKREFVEAITKATCDSLGVEPNSVDIILTEVKRENWATGGRLWSE---------------------------------------------------------------------------
+>UPI0019623D6D	74	0.406	2.962E-13	0	58	59	1	59	61
+PLINVQIMEGRPPEKVTELIQNLTNTVQETLNAPRESIRVIVTEIPKTHWGIAGVPASE---------------------------------------------------------------------------
+>F8GV98	74	0.525	2.962E-13	0	58	59	1	59	63
+PIMQIYLMEGRTEEQKAGLIAALTDAAVASIGVPSESVRVLITEMPKTHFGIGGKSAKE---------------------------------------------------------------------------
+>A0A4R5J3B4	74	0.508	2.962E-13	0	58	59	1	59	63
+PIMQVFLMEGRTDEQKARLIAALTDAAVEAIGAPVESVRVIVTEMPKTQFGIGGKTAKE---------------------------------------------------------------------------
+>F0JKB8	74	0.350	2.962E-13	0	58	59	1	60	65
+PFVNIRITnEGATTEQKQRLIKGVTDLLADVLGKNPKTTFVIIDEVDTDNWGIGGESVTE---------------------------------------------------------------------------
+>A0A5Q2N6D8	74	0.344	2.962E-13	0	57	59	1	58	66
+PIVQVTMLEGRTEEQKRELAKAITQAFVDTCGAKAESVTLSIHDVPTENIALGGTLIS----------------------------------------------------------------------------
+>A0A484SJ29	74	0.406	2.962E-13	0	58	59	1	57	68
+PLIQVTLIEGRPDEAKAELLKGLTQAAVEALGAPRESIRVILQEVPAAHWGVGG--VSK---------------------------------------------------------------------------
+>T1XA11	74	0.396	2.962E-13	0	57	59	1	58	68
+PLIQVTMIEGRSADTKTALIRGLTDAAVDATAAPRESIRVILQEVPGAHWGVGGVPKS----------------------------------------------------------------------------
+>UPI001E4CABB0	74	0.322	2.962E-13	0	58	59	1	59	71
+PVINVDMWQGRSEEDKAVLARELTDAFQRACGSTRERIYVIIRDVPKENWAIGGEMCTE---------------------------------------------------------------------------
+>UPI000347D425	74	0.474	2.962E-13	0	58	59	1	59	85
+PLVQIHMLEGRTEEQKKRMMVEVTEAIARTLNAPVESIRIAIYELPKSHWSVGGITMEE---------------------------------------------------------------------------
+>A0A7K2E8R0	74	0.413	2.962E-13	0	57	59	1	58	86
+PLVNVHMAEGRSPEQKRALMDAITDAMVEHVGAPRESVRVWILEFPNTDFMAGGELLA----------------------------------------------------------------------------
+>A0A7V4TCQ6	73	0.333	4.071E-13	0	56	59	1	57	59
+PIVRIEMWAGRDKETKKKLIEKVTQTVCEVIKCPPEAVTVVIQDVPKENWGQKGEQA-----------------------------------------------------------------------------
+>UPI0006AFC641	73	0.355	4.071E-13	0	58	59	1	59	61
+PVVNVALWKGNSTDQRRELVTELTDSVARIADCPKEAVTVILTEVERDHWGKGGRLASE---------------------------------------------------------------------------
+>A0A6L7VYP1	73	0.338	4.071E-13	0	58	59	1	59	61
+PFINVKMLEGRTHEQKRELARAITDAMVNICDAKADGTMVVIEDISRDHWARGGTLLSE---------------------------------------------------------------------------
+>A0A6L7MDF6	73	0.344	4.071E-13	0	57	59	1	58	61
+PIVRVEMWPGRTHEQKQELAKAITEAVVEIGKAPADATFVIFEDVAKENWAQAGTLAS----------------------------------------------------------------------------
+>A0A259UQ92	73	0.413	4.071E-13	0	57	59	1	58	61
+PIVQIDMLEGRSLEQKRDLVKKVTQAIVETAKCPPEAVTIVLREAPTQHIAKAGVLAS----------------------------------------------------------------------------
+>A0A2N3GYH1	73	0.413	4.071E-13	0	57	59	1	58	61
+PIVHIHLLEGRTLDQKRELVRTVTDAVVNSVNAAPERVHIVLHEMERENFGEAGVLNS----------------------------------------------------------------------------
+>A0A5P0ZF23	73	0.413	4.071E-13	0	57	59	1	58	61
+PLVHIDLIEGRSPEQLKAMVKEVTDAISKNTGAPAEHIHIVLNEMPKNHYSVGGVLAS----------------------------------------------------------------------------
+>A0A3D5G0C9	73	0.327	4.071E-13	0	57	59	1	58	61
+PSIHVYMHEGRTVDQKRGLAQDITAAIVKNTGAPAEATEVVIHDVPKTNWAIAGKLAS----------------------------------------------------------------------------
+>A0A1W2A533	73	0.413	4.071E-13	0	57	59	1	58	61
+PIVQIDMLEGRSLEQKREMVKKVTEAIVETAKCPPEAVTIVLREAPTQHIAKAGVLAS----------------------------------------------------------------------------
+>UPI00057964E8	73	0.508	4.071E-13	0	58	59	1	59	63
+PIMQVFLMEGRTDEQKARLIAALTDAAVDSIGAPRETVRVMLTEMPKAHFGIGGKTAQE---------------------------------------------------------------------------
+>A0A142JRF7	73	0.474	4.071E-13	0	58	59	1	59	63
+PIMQVFLIEGRTEEQKARLIRALTDAAVEAVGAPVETVRVMITEVPKTQFGIGGKTARE---------------------------------------------------------------------------
+>A0A4Z0C7W7	73	0.288	4.071E-13	0	58	59	1	59	63
+PTLRVELMEGRTPEQKKELARALTEAVVKTLGSKPESVDILMYDIKRHDWATGGVLWTE---------------------------------------------------------------------------
+>A0A515EKS7	73	0.322	4.071E-13	0	58	59	1	59	63
+PTYHIELLEGRTLEQKKKLVEEITRVSVEVLGVSPGSVDIVFTDVQRHNWATGGKLWSE---------------------------------------------------------------------------
+>A0A2N7X9Z3	73	0.431	4.071E-13	0	57	59	1	58	63
+PLIQVTLIEGRTINAKAALIDHLTEAAVEALGAPRESVRVIIQEVPAAHWGVGGVPKS----------------------------------------------------------------------------
+>A0A4U0GPY7	73	0.327	4.071E-13	0	57	59	1	58	64
+PIIRIEMLEGRSREQKRELSEALTREYVRICGGRAEAIYVVIDDIPKENWAVGGQLLA----------------------------------------------------------------------------
+>UPI000F65722F	73	0.410	4.071E-13	0	55	59	1	56	64
+PIIRLEMQPGRTDEQKRNFAREVTNVAVETLKCKPESVDVVIIEVPKAHWAKGGEL------------------------------------------------------------------------------
+>W6JYJ6	73	0.322	4.071E-13	0	58	59	1	59	66
+PFIDVTLAEGRSPEQLRTLITKLTDAAVEAVGAPRESIRVVLREVPPTHWAAGDVTIAE---------------------------------------------------------------------------
+>A0A379NCP7	73	0.327	4.071E-13	0	57	59	1	58	67
+PIIHIHAFEGRTVEQKRRLVEGITRATVEAYACPPEAVQIVIHDTPRTDMAVAGILAS----------------------------------------------------------------------------
+>A0A842MUC7	73	0.288	4.071E-13	0	58	59	1	58	67
+PLVHVYVWKGFSEDAKRKVIDGVTRVFVE-LGVPAEAVEVLVHEVPKENWGVGGQPASE---------------------------------------------------------------------------
+>UPI000BB6A13C	73	0.491	4.071E-13	0	58	59	1	59	68
+PIAKIHILEGRSREQKQELIQEVTGAINRSLGANPEKIKVLLIEIPKDNWATAGVTKSE---------------------------------------------------------------------------
+>A0A2J6MRZ8	73	0.310	4.071E-13	0	57	59	1	58	70
+PYVKIEMLKGRSPEQKASIAKIVTDALVEHGGAKPESVFVVFDDYEPSDWAVGGTPIS----------------------------------------------------------------------------
+>A0A8J7T309	73	0.305	4.071E-13	0	58	59	1	59	71
+PVIRVSWWEGRTREQKERLAEAMTKDFCEVAGTPREHVWIVFEDVKKSDWAIGGELCDK---------------------------------------------------------------------------
+>A0A367PMI6	73	0.508	4.071E-13	0	58	59	9	67	71
+PIMQVFLMEGRTEEQKAGLIGALTDAAVASIGVPRESVRVLITEMPKAHFGIGGKSATE---------------------------------------------------------------------------
+>A0A1X0YC87	73	0.344	4.071E-13	0	57	59	1	58	72
+PFVNIKLTTGVSTEQKQELIAGVTDLLVRVLNKNPASTHVVIEEIDPENWGIRGESVA----------------------------------------------------------------------------
+>A0A292YFR2	73	0.344	4.071E-13	0	57	59	1	58	76
+PIITIRLAKGRSVEQKRDLARAITNTVVEKLDVNPEWVTVLFDEFDRENWATAGELHS----------------------------------------------------------------------------
+>A0A4R8LU23	73	0.440	4.071E-13	0	58	59	25	81	87
+PLVQMSILEGRSADTKRALIQEVTDAVVRTLGVQPDAVRVLLYEMPKANWAVGG--VSK---------------------------------------------------------------------------
+>UPI001BC7EEA5	73	0.357	4.071E-13	0	55	59	17	72	87
+PIVSIKMAKGRTIEQKRILVRAITDSVVSTLDVEPEWVTVLIEELDRENWATGGEL------------------------------------------------------------------------------
+>UPI001127F92E	73	0.372	4.071E-13	0	58	59	31	89	97
+PTIRIELFEGRTPQQKAALAREVTEACVRVLGGSADSVDVLFYDVRREDWATGGVLWSE---------------------------------------------------------------------------
+>A0A7X9R230	73	0.327	4.071E-13	0	57	59	45	102	103
+PLIQISQTPGLTPEQKRAVIAAVTSAYAEAAGKNPDKVWVTITEVPGENWGVGGVPLS----------------------------------------------------------------------------
+>UPI00054F9EF3	73	0.375	5.596E-13	0	55	59	1	56	59
+PFVHIELVAGRTPEQKANLVKEVTEAVVKNTGAPSEKVHVILNEMQPENYAHNGKL------------------------------------------------------------------------------
+>D1YXM8	73	0.254	5.596E-13	0	58	59	1	58	60
+PVIDVYMWAGRTPEQKKNIIKGITDVFVKD-GVPAGAVTVILHDIPKEDWGTAGKSADE---------------------------------------------------------------------------
+>A0A3A3G854	73	0.298	5.596E-13	0	56	59	1	57	60
+PTINVQMFEGRTVEQKRAFAKAVTEAAAATLQCKPESVDIVFQDVKKEDWATGGKLW-----------------------------------------------------------------------------
+>A0A2N2EH50	73	0.339	5.596E-13	0	55	59	1	56	61
+PIVNISLWPGRTKEQKSQLVQAITDDFVHILNAKPESVQIIFNEVDKDNWAIMGKL------------------------------------------------------------------------------
+>A0A1F2WWD3	73	0.392	5.596E-13	0	55	59	1	56	61
+PLIIVKMLEGRSVEQKRRLVREITDVVVKLTDAPEDQVDVIIEDYPRENWAKGGTL------------------------------------------------------------------------------
+>UPI0003736D0E	73	0.362	5.596E-13	0	57	59	1	58	62
+PYIRVEMLEGRSDEQKAKLAQAITNAMVEHAGAKPDSIFVVIEDVKKSNWATGGTLMS----------------------------------------------------------------------------
+>A0A1F9DUR9	73	0.406	5.596E-13	0	58	59	1	59	62
+PLIHVHMFEGRTTEQKKKLVGAMTEAVVKSLDVKPDAVRIILHDMAKQNYAIAGVLQSE---------------------------------------------------------------------------
+>A0A3N5NV61	73	0.310	5.596E-13	0	57	59	1	58	63
+PFIHVRLYEGRTVEQKRAFVEAVTRETARTLSCPPEAVDIVFDDVKKSDWASGGKLAS----------------------------------------------------------------------------
+>UPI001655D879	73	0.474	5.596E-13	0	58	59	1	59	63
+PIIHVHLMEGRTDEQKARLIGALTDAAIESIGAPRESVRVLLIEIPKTQFGIGGKTAFE---------------------------------------------------------------------------
+>A0A7X8RIW9	73	0.465	5.596E-13	0	57	59	1	58	63
+PITHIHLLEGRSVEQKQELIQNVSKAITDTLGVAPEQVRVLLMEIPKENWGTGGVTKA----------------------------------------------------------------------------
+>A0A4R2QZJ8	73	0.357	5.596E-13	0	55	59	1	56	63
+PFVHIEWMEGRSLEQKRELTKRITDAVAEIAGIPQDRVHVFIKDMKADEYAVGGEL------------------------------------------------------------------------------
+>A0A1T2XXU4	73	0.508	5.596E-13	0	56	59	1	57	63
+PIMHVYLMEGRDDEQKARLIEALTDAAVESIQAPPESVRVIITEVPKTQFGIAGKTA-----------------------------------------------------------------------------
+>UPI000BF2047C	73	0.310	5.596E-13	0	57	59	1	58	64
+PTFHVDLFEGRSAEQKRRFIEAITRVTCETLDCPPSAVDIILHDVKKENWATGGKRWS----------------------------------------------------------------------------
+>UPI0019273399	73	0.385	5.596E-13	0	56	59	1	57	64
+PFVQIHIWEGRSVEQKRALTKAVTDAMVEHVDADPSGLHVAIAEYPRENWSRAGVLG-----------------------------------------------------------------------------
+>A0A2U2CW70	73	0.344	5.596E-13	0	57	59	1	58	64
+PIIRVEMFEGRTPDQKRALVRELTDAFVRVTGASAEAVDVMLVDMDKANWGKAGTLYA----------------------------------------------------------------------------
+>A0A1W6YI99	73	0.362	5.596E-13	0	57	59	1	58	66
+PYVRIEMLEGRTEEQKAAIAKVVTQAMEDHAGAPPQSVFVVFEDVARENWAVGGTLIS----------------------------------------------------------------------------
+>UPI0013570F4D	73	0.333	5.596E-13	0	58	59	1	60	66
+PYVNIKITnEGATAEQKKRLIEGVTELLVKVLNKNPATTVVVIDEVETDNWGIGGVPVTE---------------------------------------------------------------------------
+>UPI001BEB52DE	73	0.322	5.596E-13	0	58	59	1	59	67
+PTIRVELFEGRTVEQKRALAQALTEATVRTLGGSPDAVDILFYDIAKHDWATGGKLWSE---------------------------------------------------------------------------
+>UPI0018E60F02	73	0.300	5.596E-13	0	58	59	1	60	68
+PFVNIKITrEGATPDQKKQLIKGATQLLVDVLGKNPATTFVIIDEVETDNWGIGGKSVTE---------------------------------------------------------------------------
+>A0A1J0VVH2	73	0.300	5.596E-13	0	58	59	1	60	70
+PFVNIKVTdEGVTPEQKSRLIKGVTDLLHDVLGKDPDSTFVVIDEVPLTDWGVGGVNVAE---------------------------------------------------------------------------
+>U7QA23	73	0.327	5.596E-13	0	57	59	1	58	71
+PFVTIQIGEGHSIEKKRELAKAVTDTLVETLGTKREWVTIHIDEFNRDNWAVGGELHS----------------------------------------------------------------------------
+>A0A401FR93	73	0.339	5.596E-13	0	55	59	1	56	71
+PIVSVKMAKGRSLEQKRKLTKAITDSLVSVLDVRPEWVSVLIEEYERDNWSTGGEL------------------------------------------------------------------------------
+>UPI001C44C5C2	73	0.423	5.596E-13	0	58	59	19	77	79
+PIINVQLMEGRPPEKVAAVIRNITNTVSETLNAPKESIRVIVTEVPKTHWGIAGTPASE---------------------------------------------------------------------------
+>A0A4R5ZWA9	73	0.413	5.596E-13	0	57	59	28	85	88
+PYVTVKMLPGRTDAQKRALVEKVTDAVSETTGAPKEAVVVFIEEMQKEHYGVAGVRAS----------------------------------------------------------------------------
+>A0A7W1JE80	73	0.233	5.596E-13	0	58	59	1	60	89
+PYVNVRITKdGVTTAQKRQIVEEITQTLVRVLGKRPEHTHIIIDEVEPENWGFAGMLTTE---------------------------------------------------------------------------
+>A0A2R6Y0J2	73	0.491	5.596E-13	0	58	59	1	59	101
+PLIQITLLEGRTEEQKEALIEEVTLAVHRSIGAPLESIRIALYELPKSHWAVGGKTMAK---------------------------------------------------------------------------
+>UPI001A9DAEFA	73	0.338	5.596E-13	0	58	59	1	59	191
+PIVRVEWLAGRSTQARRELVRRITDALQEVAGSPRESIKVILHDVPPGNYGSGGELLSE---------------------------------------------------------------------------
+>A0A1F8PM97	72	0.271	7.692E-13	0	58	59	1	58	60
+PVVIIEMWEGRTIEQKKHLAEGITDVFVKI-GTPPQAVHIIMKDNPKHNWASAGKLSSE---------------------------------------------------------------------------
+>UPI001A8C9A32	72	0.454	7.692E-13	0	54	59	1	55	60
+PIVHIELLEGRTQEQKNALVREVTDAIVRTTGAKEEAVHIVIQDMEKGNYAVGGK-------------------------------------------------------------------------------
+>A0A1F4RN20	72	0.355	7.692E-13	0	58	59	1	59	61
+PIVRIEMWPGRDEETKGELIQNVTKVVAESAHCQAEDVTVVIEDIPKENWGFGGKQASK---------------------------------------------------------------------------
+>A0A6L6QBT8	72	0.327	7.692E-13	0	57	59	1	58	61
+PILYLEMHPGRTLEQKRAFVSEVTRVSVETLACPPDSLQIVITEVPREHWAKAGKLLS----------------------------------------------------------------------------
+>UPI00099515D8	72	0.448	7.692E-13	0	57	59	1	58	61
+PIVHIQILEGRTTEQKRALVERVTTAVSETINSPAERVSVVIDEMKTENFAVGGVLQS----------------------------------------------------------------------------
+>UPI000554E535	72	0.413	7.692E-13	0	57	59	1	58	61
+PIVHIELVAGRTLEQKINLVKEVTEAVVKNTGAPSERVHVILNEMQPENYALNGELLS----------------------------------------------------------------------------
+>G2G1S0	72	0.413	7.692E-13	0	57	59	1	58	61
+PIVQVELLEGRTLAQKRLLVEKVTQAIVEATGAPAERVSIIIRDMPKENYANAGKLAS----------------------------------------------------------------------------
+>A0A498H3U9	72	0.322	7.692E-13	0	58	59	1	59	61
+PVVTIQMSKGRSLEQKRQLVEEITNTIVNTLGVDPGWVTVLINELERENIAKSGKLLSE---------------------------------------------------------------------------
+>A0A1F8RWE2	72	0.288	7.692E-13	0	58	59	1	59	62
+PIVRVEMWPGRTQAQKRELARAITEVVCNVAHTTPEATIVVFQEIAKEDWAQAGRLASE---------------------------------------------------------------------------
+>A0A1J3BYH4	72	0.396	7.692E-13	0	57	59	1	58	62
+PLVHIDLIEGRSPEQLKALVKDVTDAIVKDTGAPAEHIHIVLNEMAKEHYSVAGVLAS----------------------------------------------------------------------------
+>A0A833L005	72	0.491	7.692E-13	0	58	59	1	59	62
+PIVKIEIWEGRNEETKEILIRNITKAVSDSINCPPEKVIVVITDTPKANWGIGGVQASK---------------------------------------------------------------------------
+>A0A1H6YG57	72	0.627	7.692E-13	0	58	59	1	59	63
+PIVHVHLIEGPTREQKETMIREVSQAISRSLDSPLERIRIIIHEIPKTDFGIAGEPASK---------------------------------------------------------------------------
+>UPI001ADA9B3A	72	0.474	7.692E-13	0	58	59	1	59	63
+PIANIHILEGRNVEQKRHLIAEVTDAISRSLGADPSTIKVLLIEIPKENWATAGVTKAE---------------------------------------------------------------------------
+>A0A7C3FU36	72	0.305	7.692E-13	0	58	59	1	58	64
+PLVIVEMWEGRTVDQKKKLVEGITDSFVQI-GVPQNAVQVIIKDNPKHNWAIAGKLASE---------------------------------------------------------------------------
+>A0A6P0NGU7	72	0.344	7.692E-13	0	57	59	1	58	64
+PIIRVEILPGRTVEQKRELVETLTRETARIAGCSVESIYVVIEDVKKENWGVGGQLCS----------------------------------------------------------------------------
+>F1ZC22	72	0.542	7.692E-13	0	58	59	2	60	64
+PIIQTFLLEGRSREQKAGFIRAVTDAAVETLGVPVESVRVIITEMPKTDFGIAGRTAEE---------------------------------------------------------------------------
+>A0A2N0ZA75	72	0.474	7.692E-13	0	58	59	1	59	64
+PIVHVHLLSGRTAEQNRQIIREVSEATAKSADVPLENVRVLLHEVPKSNWGTGGILKDE---------------------------------------------------------------------------
+>UPI0004913B4D	72	0.457	7.692E-13	0	58	59	1	59	67
+PLVQITLLAGRTPEQLAALGREVTEAVQRSLGAPAESVRVVVRESEPDLWFVGGESVAE---------------------------------------------------------------------------
+>A0A1G7FA50	72	0.410	7.692E-13	0	55	59	1	56	68
+PLIQVTLIEGRSAEAKTALIRGLTDAAVEATAAPRESIRVILQEVPAAHWGVGGVP------------------------------------------------------------------------------
+>Q8XRG1	72	0.413	7.692E-13	0	57	59	1	58	70
+PLIQVTLIEGRTMEAKAALIGSLTQAAVATLGAPRESVRVIIQEVPAAHWGVAGVPKS----------------------------------------------------------------------------
+>UPI001B99E1B1	72	0.271	7.692E-13	0	58	59	13	71	74
+PTFNIQLFEGRTVDQKRAFVEAITRVTCETLGCAPGSVDIILTDVKKENWATAGKLWSE---------------------------------------------------------------------------
+>S5ZAE5	72	0.474	7.692E-13	0	58	59	22	80	88
+PLVQIHMLEGRTEEQKKQMIAEVAEAIARTLNAPKGNIRIAIYELPKSHWSVGGVTLDE---------------------------------------------------------------------------
+>A0A1F4SVE2	72	0.333	1.057E-12	0	56	59	1	57	59
+PIINIQMWQGRDKETKKKLIDNVTKATCEAIKCPPEAVQIVIEDIPKENWGINGKQA-----------------------------------------------------------------------------
+>A0A3G1KUW9	72	0.379	1.057E-12	0	57	59	1	58	60
+PIIQVEILKGRTVAQKREMVKEVTGAVCKTLSCPPEAVSIVIREMEKEDYAVAGKLYS----------------------------------------------------------------------------
+>A0A419DGK3	72	0.355	1.057E-12	0	58	59	1	58	61
+PVVTVEMWQGRTIEQKKQLVEGIAEAFVKI-GTPREKVTVILKDNAKHNWGEGGKLASE---------------------------------------------------------------------------
+>UPI000418FB4B	72	0.344	1.057E-12	0	57	59	1	58	61
+PIIRVEMHPGRTQEQKRAFVREATKAAVETLVCPPESVEIILAEISKESWAKGGKFKS----------------------------------------------------------------------------
+>J7J0V0	72	0.448	1.057E-12	0	57	59	1	58	61
+PIVQIDLLEGRTLDQKRLLVEKVTQAITESTGAPPESISIIIRDMLKENYAKAGKLAS----------------------------------------------------------------------------
+>A0A2W6VSB9	72	0.321	1.057E-12	0	55	59	1	56	62
+PLIHVNILKGRTTEQKARFASGVTDAAVDTLGVKREQVRVLIHEIEPEHWFTAGLP------------------------------------------------------------------------------
+>A0A2E8KV19	72	0.271	1.057E-12	0	58	59	1	59	62
+PIIRVEMFEGRTIDQKKELVKELTNSFVKTCGGTSEGLHIVIDEINKENWGVSGVLSSE---------------------------------------------------------------------------
+>A0A644XKG2	72	0.410	1.057E-12	0	55	59	1	56	63
+PIVNIYMYEGRSVDQKRKLAAEVTDAICRALDVGPEVVRIMINDMPRENMAVAGVL------------------------------------------------------------------------------
+>A0A1F8N9Q8	72	0.275	1.057E-12	0	57	59	1	58	63
+PIVTVQMWPGRTQAQKAELARRITDAMVTVANTTPDATIVVFEDVAKENWAVAGVLAS----------------------------------------------------------------------------
+>A0A2W6T3P5	72	0.413	1.057E-12	0	57	59	1	58	64
+PILHANILAGRSQEQKAAFARAVTQAAVEHLGVPPTAVRVLIHEIPPNDWFTAGEAKS----------------------------------------------------------------------------
+>UPI0007D08FD8	72	0.392	1.057E-12	0	55	59	1	56	64
+PITHLHIIEGRSAEVKQRLMETITHSICECLGTSPEQVRVLIHEVPKENWGVGGAP------------------------------------------------------------------------------
+>A0A536DP71	72	0.310	1.057E-12	0	57	59	1	58	65
+PLITVHMYPGRTPAQKEAVVRGITEVMVREANAKPESVEILIMEVPREHWAMAGKLQT----------------------------------------------------------------------------
+>A0A6G6FIZ8	72	0.375	1.057E-12	0	55	59	1	56	65
+PIIRVEMFEGRSTEQKRNLVSELTTAFVETCGGTPASVQVVITDFTSENWGVGGQL------------------------------------------------------------------------------
+>A0A832K587	72	0.457	1.057E-12	0	58	59	1	59	65
+PIVRVEIWEGRDDATKEALIKNVADAVAKTLGILIEHVTVILQEFPKKHWGIGGVPASK---------------------------------------------------------------------------
+>A0A135ZZ44	72	0.362	1.057E-12	0	57	59	1	58	66
+PIVRIEMWEGKSVEQKRELVEVYTREMSRITGNKPESIYVVIEEVKKENWGVAGMLCS----------------------------------------------------------------------------
+>A0A6I3SFK6	72	0.362	1.057E-12	0	57	59	1	58	66
+PIVNITMLEGRTEEQKRNMVKAVTEAIVETSGARPENVTITIVDVPPTNVATGGVLNS----------------------------------------------------------------------------
+>A0A7Y5IBI7	72	0.250	1.057E-12	0	58	59	1	60	68
+PYVNVKITRdGVTVEQKAQVVKEITDTLQRVLGKRPEHIHIVIDEVETENWGYAGQLTSE---------------------------------------------------------------------------
+>A0A1L9QHI7	72	0.283	1.057E-12	0	58	59	1	60	69
+PYVHIQVTdEGVSKEQKAELIKGTTDLLVDVLNKEPSTTFVVIEEVPLENWGIAGVPVTE---------------------------------------------------------------------------
+>UPI0009FF8691	72	0.457	1.057E-12	0	58	59	1	59	72
+PIIDVTMLEGRPPEKKAALIRELTDAAVRAIDAPIQSVRVIIREVPPEHFAAAGVSKAE---------------------------------------------------------------------------
+>A0A1F4AXA9	72	0.436	1.057E-12	0	54	59	1	55	75
+PLVSITMLEGRSPEKKKAMFKAVTEAIVQTLGAPRESVRISIHEVPSNHYAVGGV-------------------------------------------------------------------------------
+>A0A2D4SGK3	72	0.406	1.057E-12	0	58	59	1	59	88
+PIVHIEMMERRSTETKRRMVAAVTHALSNSLNAPPESVRIVIQELQPDHYAVGGVTAAE---------------------------------------------------------------------------
+>UPI0012924B1C	72	0.310	1.057E-12	0	57	59	43	100	105
+PTFHIELFEGRTIEQKRAFIAAITQASVQTLGVAPNTIDIILTEVKRENWATGGQLWS----------------------------------------------------------------------------
+>A0A3B8KSL9	72	0.288	1.057E-12	0	58	59	59	117	121
+PIVRIELWAGRSNDSNIELAKAITDVVVEKVGCPVEAVTVKIEESPKENWVIGGKPATE---------------------------------------------------------------------------
+>A0A0U3P687	72	0.446	1.453E-12	0	55	59	1	56	59
+PFIHIELVEGRTAEQKANLVKEVTEAVVKNTGASKESVHVILNEMKKSNYAKGGEL------------------------------------------------------------------------------
+>A0A1I5YQW5	72	0.410	1.453E-12	0	55	59	1	56	59
+PFVHVELVEGRTAEQKAGLVKDITEAVVKNADVPAERVHVIINEMKKTDYAVGGEL------------------------------------------------------------------------------
+>A0A1Q8R2C7	72	0.446	1.453E-12	0	55	59	1	56	61
+PIVQVELLEGRTIEQKRDLVEKVTQAIVESVGSPAENVTVIIRDMPKENLGKAGKL------------------------------------------------------------------------------
+>A0A1I5DZ76	72	0.237	1.453E-12	0	58	59	1	59	61
+PTLHIELFAGRTPEKKRELVEALTSETCRVLGCEPGAVDIILIDVERENWATGGKMWSE---------------------------------------------------------------------------
+>A0A7Y7J0U0	72	0.254	1.453E-12	0	58	59	1	59	61
+PMIRAELLTGKTQEQKRELVEALTRETARVLGVREQSVWVVLQEVEPENWAVAGTPLSE---------------------------------------------------------------------------
+>A0A2U3LXR0	72	0.465	1.453E-12	0	57	59	1	58	61
+PIVQIELLEGRTVAQKRSLVEKVTQAIVESIGAPAEKVTIIIRDMAKENYAKAGKLAS----------------------------------------------------------------------------
+>A0A212LR94	72	0.396	1.453E-12	0	57	59	1	58	61
+PIVQIDLIEGRSLEQKREMVKKVTEAIVETAKCPPEAVTIVVREASPQHIGKAGKLVS----------------------------------------------------------------------------
+>A0A7K0PMW1	72	0.355	1.453E-12	0	58	59	1	59	61
+PFVEVHLVEGRTHEQKKALTNAITEALVQHANANPEFLHVVISEYSKGNWARGGTLLSE---------------------------------------------------------------------------
+>A0A1X7MSP1	72	0.413	1.453E-12	0	57	59	1	58	61
+PFVHIELVAGRTVEQKINLVKEVTEAVVKNTDAPSEKVHVILNEMQPENYAVNGELLS----------------------------------------------------------------------------
+>A0A1E4QN24	72	0.293	1.453E-12	0	57	59	1	58	62
+PTFHVEMFEGRTIEQKRTFVEAVTRVTCETLGCEPAAVDIVITDVKRENWATGGELWA----------------------------------------------------------------------------
+>A0A375F9T1	72	0.508	1.453E-12	0	56	59	1	57	63
+PILQVFLIEGRTDEQKARLIRALTDAAVEAVGAPVETVRVMITEVPKTQFGIGGTTA-----------------------------------------------------------------------------
+>UPI001F1A1E2B	72	0.310	1.453E-12	0	57	59	1	58	63
+PFVTIELLEGRTPEQKRELMEKITKVVCETVNVPAERVHVFIEDLKKDHYAVAGKFMS----------------------------------------------------------------------------
+>A0A7V8GKJ2	72	0.413	1.453E-12	0	57	59	1	58	65
+PIVHAHILAGRSPEQKQAFARAVTEAATAHLGVPASAVRVLVHEIPPAQWFTAGEPKS----------------------------------------------------------------------------
+>UPI0019072D0E	72	0.327	1.453E-12	0	57	59	1	58	66
+PVIRVEMFKGRTVDQKRQLVKELTDAFIRTCGGTPESVQIVITDVAKEDWGGAGILMS----------------------------------------------------------------------------
+>A0A514BNI2	72	0.305	1.453E-12	0	58	59	1	59	67
+PYVNMRITPGATRRQKAELIAGVTELLVRVLDKNPETTHVVIDEVDLENWGLGGLPVEE---------------------------------------------------------------------------
+>A0A660N3H9	72	0.322	1.453E-12	0	58	59	1	62	68
+PYVNIKVTGGReapSAEQKAELIAGVTDLLARVLNKNPETTVVVIDEVDMDNWGIGGKSVTE---------------------------------------------------------------------------
+>A0A318AJD7	72	0.465	1.453E-12	0	57	59	1	58	69
+PIITVNLLTGRDAEKKNALIREIADAAVRTLGVPLASVRVILNEVPPEHWGIGNETKA----------------------------------------------------------------------------
+>A0A8A1BFU1	72	0.338	1.453E-12	0	58	59	1	59	71
+PFIDVTLVEGRSPDQLRALITALTEAAVSTVDAPRESIRVVIREVPPTHWAAGDVTVAE---------------------------------------------------------------------------
+>A0A0F7JXM9	72	0.333	1.453E-12	0	58	59	1	60	72
+PYVNIKITnEGASAEQKAALIEGVTRLLQETLNKNPATTVVVIEEVPTDNWGIGGRPVTE---------------------------------------------------------------------------
+>A0A522V3G7	72	0.362	1.453E-12	0	57	59	1	58	74
+PVVSIKIVKGRSVEAKRELAKRVTDAVVQSIDVKPEWVTVVIEEYERENWATAGELHS----------------------------------------------------------------------------
+>UPI001D11EE23	72	0.508	1.453E-12	0	56	59	26	82	88
+PLAHIHILEGRTEDQKRAVIEKVTAALVEALDAPQQSVRVLIQEVPKTNWGIAGQSA-----------------------------------------------------------------------------
+>UPI001EF0891D	72	0.344	1.453E-12	0	57	59	41	97	103
+PIVTIQQFP-RDLEQKRELARRVTEAFVEVYGAEPQSVQVFFSEVEAENWAKGGVMGS----------------------------------------------------------------------------
+>A0A1J5R6G1	71	0.428	1.998E-12	0	55	59	1	56	59
+PIVEITLMEGRSKDKKAALMKSVTEAVVASIGAPSEAVRVILREVPPEHFAVGGVP------------------------------------------------------------------------------
+>UPI0003FF4E3D	71	0.344	1.998E-12	0	57	59	1	58	61
+PILRLEMRAGRTLEQKRAFAREVTRLAVDILACPPDSVDVVITEVPHENWAKAGTLVA----------------------------------------------------------------------------
+>UPI0017494D3F	71	0.310	1.998E-12	0	57	59	1	58	61
+PMISVAMFPGRTPAQKSALVRELTDAFVRTCGGKPEGVQVTLVEIGADHWASGGVLYS----------------------------------------------------------------------------
+>G7WFN7	71	0.491	1.998E-12	0	56	59	1	57	61
+PIVQIELFEGRSVEQKRLLAEKVTQAIMESIGAPAESVSIIIRDMAKENYAKAGKLA-----------------------------------------------------------------------------
+>A0A645ADK1	71	0.500	1.998E-12	0	57	59	1	58	61
+PIVQIDMLEGRTVDQRRELVKRVTEAISESADCPPSAVTIIIREMDKEHLGQGGVLRA----------------------------------------------------------------------------
+>A0A0P9ENU2	71	0.355	1.998E-12	0	58	59	1	59	61
+PFVQVNLIEGRTEEQREKLVKAITDAMVEVLGVSKEVVWIYFNDMPKTHFASGGVLRSK---------------------------------------------------------------------------
+>A0A847YPV0	71	0.431	1.998E-12	0	57	59	1	58	61
+PIVQIDLLEGRTVDQKRAMVAKVTQAIQETANCPADAVTIIIREMPPAHLGKGGKLRS----------------------------------------------------------------------------
+>A0A4Q0VQB1	71	0.525	1.998E-12	0	58	59	1	59	63
+PIAHIHILEGRTREQKKDLIREVTLAISRSLQAPPEKVKVLVIEIPKDNWATSGITKAE---------------------------------------------------------------------------
+>A0A0F0FNC2	71	0.474	1.998E-12	0	58	59	1	59	63
+PIMQVFLIEGRTEEQKARLISALTDAAVESIGAPIESVRVMITEVPKTQFGIAGKTAKE---------------------------------------------------------------------------
+>C6BZ76	71	0.344	1.998E-12	0	57	59	1	58	64
+PVIKVEMFEGRTIEQKRELVEVLSKETARITGCSVESIYVVIDEVKKENWGAGGKLCS----------------------------------------------------------------------------
+>A0A223D0C7	71	0.375	1.998E-12	0	55	59	1	56	64
+PFVHIEWMEGRTLEQKRELTKRISDAVAEVAGIPQDRVHVFIKDMKADEYGFGGEL------------------------------------------------------------------------------
+>A0A1Y0ICV8	71	0.283	1.998E-12	0	58	59	1	60	65
+PYIHIQVTdEGVTKEQKQQLIQGATQLVVDVLNKNPETTHVVITEIPTDNWGVKGEQVTE---------------------------------------------------------------------------
+>A0A0F2S3R1	71	0.482	1.998E-12	0	55	59	1	56	65
+PIVEITLLEGRSPQKKVALMRKVTDAVVEAIDAPRDSVRVILREIPPEHFAAGGEP------------------------------------------------------------------------------
+>UPI0011CC757A	71	0.372	1.998E-12	0	58	59	1	59	65
+PIMRVETWEGITKAQKLDLVQSMTETACRVLGCPREAVSVIIVEIPKENWGAAGELCSE---------------------------------------------------------------------------
+>UPI0018818D81	71	0.288	1.998E-12	0	58	59	1	59	66
+PYVNVQITTGATREQKSELVKEFTESLVRILGKKPEHTHIVIQEIADENWGFSGMLTDE---------------------------------------------------------------------------
+>UPI0013D1878A	71	0.362	1.998E-12	0	57	59	1	58	66
+PIIKVEMFEGRTIEQKRELVEVFSKEMARITGCSVESIYVVLDEVKKENWGAGGELCS----------------------------------------------------------------------------
+>A0A1F8YKP4	71	0.283	1.998E-12	0	58	59	1	60	67
+PYVNVKITrEGATAEQKAEVIRRMTQVLVEVLGKNPETTIVVIEEVDTDNWGIGGKTVTE---------------------------------------------------------------------------
+>C7LQ48	71	0.410	1.998E-12	0	55	59	1	56	69
+PIISIRMAKGRSIEQKRKLVAEVTRAVSETLDLPPDIVSIQLHEFERENWATGGEL------------------------------------------------------------------------------
+>A0A0Q9HMG6	71	0.258	1.998E-12	0	57	59	1	58	69
+PYVNLQITKGATREQKAEIVKDFTQTLVRVLGKNPQNTHIVIQEIEREDWGHGGELVA----------------------------------------------------------------------------
+>A0A4R4WXF6	71	0.322	1.998E-12	0	58	59	1	59	69
+PLVQVTLAAGRTPDQIRELISEVHDAVVRSTGTDPARVRVLVHELPPTHWAAGGITLAE---------------------------------------------------------------------------
+>A0A1Z4LY60	71	0.275	1.998E-12	0	57	59	1	58	71
+PFITIQIAKGHSIEKKRELAKAITDAMVSTMGTKPEWVTIHIDEFERDNWSVGGTLHS----------------------------------------------------------------------------
+>A0A077FBG2	71	0.355	1.998E-12	0	57	59	1	59	71
+PYVHIRVTqEGVSAEQKRALIEGTTELLFQVLNKPPASTFVVIEEVPTDNWGVGGETVT----------------------------------------------------------------------------
+>UPI001918025D	71	0.327	1.998E-12	0	57	59	1	58	71
+PVIKVEMFSGRSDDKKRALAKAITDSFVEICGGKPTSVHVIFDDVAKSDWAVGGELCS----------------------------------------------------------------------------
+>A0A6S7CBP6	71	0.322	1.998E-12	0	57	59	1	59	72
+PYINIQITrEGATREQKAELIRGATDLVVRVLGKDPQATFVVIEEVDTDNWGVAGETVT----------------------------------------------------------------------------
+>A0A1Z3M0J9	71	0.333	1.998E-12	0	58	59	1	60	72
+PYVNIRITrEGATREQKAQLIAGVTDLLYEVLDKPPAVTFVVIDEVPLEDWGVGGLPVDE---------------------------------------------------------------------------
+>A0A1C0ACF7	71	0.293	1.998E-12	0	57	59	1	58	73
+PFINLKLAKGRTVEQKERFVKAITREAVEILNVKAEWVTVVIDEYDRDNWATGGELHS----------------------------------------------------------------------------
+>UPI000A304F30	71	0.525	1.998E-12	0	58	59	18	76	81
+PFIQVNILEGRSAEKKERLIREMTSVASEVLEAPEQSVRVMINELKPEHWGIAGESVKK---------------------------------------------------------------------------
+>UPI001CD8ECAA	71	0.344	1.998E-12	0	57	59	24	81	84
+PIITVKMFEGRTDDQKKALVEKVTDAVVETTGASKEAVTIVIEEMTKNNYAVAGKRAS----------------------------------------------------------------------------
+>A0A2X4TQ02	71	0.344	2.746E-12	0	57	59	1	58	59
+PLIQISQTPGLTAEQKSAVIAAVTEAYAEAAGKNPDKVWVTITEVPGENWGVGGVPLS----------------------------------------------------------------------------
+>A0A1I3AXJ4	71	0.410	2.746E-12	0	55	59	1	56	59
+PFIHVELVEGRTAEQKAGLVKDITEAVVKNADVPKERVHVIINEMKKTDYGMGGKL------------------------------------------------------------------------------
+>UPI00166DCC08	71	0.410	2.746E-12	0	55	59	1	56	59
+PIIHVHVIEGRTDEQLSMLMERLTDAAAESLDVKKEQVRVLIQEVPNKHWGVGGKP------------------------------------------------------------------------------
+>A0A1Q2D4W7	71	0.436	2.746E-12	0	54	59	1	55	59
+PIVHIELLEGRTQEQKDAMVKDVTDAISKHTGAPKENVHIIISDMEKGNYAVGGV-------------------------------------------------------------------------------
+>A0A2B8TR25	71	0.406	2.746E-12	0	58	59	1	59	60
+PIIQIQLIEGRSPELKKQLMREINEVVCRTLDVGPPQVRILINEIKKENWSVGGVAKDE---------------------------------------------------------------------------
+>UPI0002CCE92E	71	0.355	2.746E-12	0	58	59	1	59	60
+PVLHLELQPGRSPEQKRDFAREVTRVAVETLKCKAESVDVVIVEIPKTHWAKGGVLPTE---------------------------------------------------------------------------
+>A0A1V6A5P8	71	0.357	2.746E-12	0	55	59	1	56	61
+PIIRIDLFEGRTTEQKRRAAKGITDVCCSEFGLPPESVRIIFNDMKKEDFAVGGKL------------------------------------------------------------------------------
+>A0A8I2CYW0	71	0.368	2.746E-12	0	56	59	1	57	61
+PIIEVHMFEGRTVDQKRKLVAEMTDAVVKSIGVKPEDVRIILQDMARYDYSIAGKLA-----------------------------------------------------------------------------
+>L0FAA4	71	0.482	2.746E-12	0	57	59	1	58	61
+PFVQIDLLEGRTHEQKRQMVEKVTQAIVESTGAKPESVSIIIREMARGDFATGGILAT----------------------------------------------------------------------------
+>A0A7J3QAW6	71	0.288	2.746E-12	0	58	59	1	58	62
+PIVEVTTWAGTSLEFKKKLVEGLTKVF-EELGIPREAVTIVIREVPKENWATGGQLHSE---------------------------------------------------------------------------
+>UPI00145591FE	71	0.362	2.746E-12	0	57	59	1	58	63
+PVIRIEMFEGRTTDQKRACAEAVTKAWVETCGGTPQSVTVIFTDVAKSDWATGGRLAS----------------------------------------------------------------------------
+>A0A0J5JWB6	71	0.517	2.746E-12	0	57	59	1	58	63
+PIAHIHLLEGRSVEQKQELIQNVTIAISQSLGASPEKVRVLLMEVSKENWGTGGVTKA----------------------------------------------------------------------------
+>A0A7C3XN56	71	0.406	2.746E-12	0	58	59	1	59	63
+PYVQVNLLEGRSEEQIERLVEAITDAFVNILGVPKEVVWIEFNEMPKNRFAQGGVLRSK---------------------------------------------------------------------------
+>A0A0S7Y270	71	0.372	2.746E-12	0	58	59	1	59	63
+PIVRIGLWSGRDEATKEKLIQNVTKTVCENVKCPPEAVIVIIDDIPKENWGHGGKQASK---------------------------------------------------------------------------
+>A0A661IYT6	71	0.327	2.746E-12	0	57	59	1	58	63
+PLVRIDLIEGRSIEQKRKIVQEITETLVRVAGVKPEDVHIVIVDHPKENLASGGKLLS----------------------------------------------------------------------------
+>A0A4R2RL63	71	0.362	2.746E-12	0	57	59	1	58	64
+PIVNITMIEGRTEEQKRQLVKKVTDAIVETCEAPPEAVTITILDIPKTNVANAGILRS----------------------------------------------------------------------------
+>A0A7Z0NIX5	71	0.271	2.746E-12	0	58	59	1	59	64
+PTIRVELLPGRSRDQKREIAKGLTDVLVQQGGATPASVHVIFTEVDPSDWAVAGTLIAE---------------------------------------------------------------------------
+>A0A522YQW3	71	0.258	2.746E-12	0	57	59	1	58	66
+PFINLKMTPGPTPEQKARFIEAVTKLAAEVLGKNPATTHVVIEEVPADSWGIAGETVA----------------------------------------------------------------------------
+>UPI00097BDB8B	71	0.344	2.746E-12	0	57	59	1	58	67
+PTIRVEMFEGRTVEQKRAFAEALTEAAVRTIGASPDSVDVIFFDIQKQDWATGGKLWS----------------------------------------------------------------------------
+>A0A2D7H702	71	0.316	2.746E-12	0	58	59	1	60	67
+PMINVKITrEGATPAQKKQVMAEMTEVLARVLGKNPETTIVIIEEVETENWGIAGEPVSE---------------------------------------------------------------------------
+>A0A0F5LHV5	71	0.300	2.746E-12	0	58	59	1	60	68
+PYVNVRILDdGVTAEQKAEVIAGITEIMVRVLNKNPESTFVVIDEVPLDNWGFKGKPVSE---------------------------------------------------------------------------
+>UPI000E56A843	71	0.338	2.746E-12	0	58	59	1	62	69
+PYVNIKVTGGKeapSTEQKAELIQGVTELLGRVLGKNPETTVVVIDEVDTDNWGIGGKSISE---------------------------------------------------------------------------
+>A0A1T4WDR0	71	0.372	2.746E-12	0	58	59	1	59	69
+PLIQATILQGRTPEQKAAFFQDVTAAAVKNLNVKPEQVRVVINEVAPEHWCIGGVSKAE---------------------------------------------------------------------------
+>A0A0X3XBP1	71	0.389	2.746E-12	0	58	59	1	59	81
+PIIEVSVLTGRDKDRIRSLIRALHETTVRVLGAPPESVRVLIREIPPEHWGSGGSTMAE---------------------------------------------------------------------------
+>A0A0R2GVV8	71	0.338	2.746E-12	0	58	59	46	104	106
+PLVHIELLEGRTPEQLKGLVQDVTAAIAKNANVPEERIHIVLSEMKPDHYAVGGTLKSE---------------------------------------------------------------------------
+>A0A1F4RYX5	70	0.403	3.775E-12	0	56	59	1	57	59
+PIINIQMWPGRDKEAKKRLIDSVTEAVSSSICCPKEAVQIIIEDIPKENWGINGKQA-----------------------------------------------------------------------------
+>A0A0F2TK53	70	0.339	3.775E-12	0	55	59	1	55	60
+PIVTIQQGP-RTVEQKRELVKKVTDAFVEALEVPAESVMVWVQEYPAENWGVAGTL------------------------------------------------------------------------------
+>A0A0U1L4B0	70	0.413	3.775E-12	0	57	59	1	58	61
+PIVQIDLIEGRSLEQKREMVKKVTEAIVDTAKCPPEAVTIVVREAPAQHIGKAGVLAS----------------------------------------------------------------------------
+>UPI001C0632FA	70	0.428	3.775E-12	0	55	59	1	56	61
+PFVQIDFLEGRTIEQKRALVKKVTEAIVETTNCPAEAVNIILREMPKEHLANAGKL------------------------------------------------------------------------------
+>A0A418WFS3	70	0.440	3.775E-12	0	58	59	1	59	61
+PIIDVTLIEGRPPEAKRALIEELTAAAERSIGAPRQSVRVILREVPAAHFGVAGVPKSE---------------------------------------------------------------------------
+>A0A7J3BB75	70	0.389	3.775E-12	0	58	59	1	59	62
+PYVHVHLLEGRTEEQKERLAKAITDAFVQITGVPKDAVWIEFSDMAKVNFATGGVLRSK---------------------------------------------------------------------------
+>M8D1J0	70	0.440	3.775E-12	0	58	59	1	59	62
+PIVQIQVLEGRDKQQIARLIASVTEAVVESLEVRPEQVRVIVSEVPPTHWGVGGVTKEK---------------------------------------------------------------------------
+>A0A2U1W8V6	70	0.472	3.775E-12	0	54	59	1	55	63
+PIVNITLIKGRSQEKKAAMYREVTEAIHRTLGAPRESVRIMVNEIEPEHFAVAGE-------------------------------------------------------------------------------
+>A0A5D4SXU7	70	0.465	3.775E-12	0	57	59	1	58	63
+PITYIHLLEGRSIEQKQELIQNVTQAITHTLGTAPEQVRVLLMEIPKGNWGTGGVTKA----------------------------------------------------------------------------
+>UPI0011C99821	70	0.423	3.775E-12	0	58	59	1	59	63
+PLIEISLVEGRSPETIRALIHELHEAAVRALDVPPASVRVIVREVPATHWAAGDVTISE---------------------------------------------------------------------------
+>A0A0F0GBA7	70	0.379	3.775E-12	0	57	59	1	58	64
+PLIHVNQVAGKTAEQKAELIRELTETYVRVTGAKPESVWVTVEETAKENWGIAGETIA----------------------------------------------------------------------------
+>UPI001EFFD2CA	70	0.423	3.775E-12	0	58	59	3	61	64
+PIVEINLLEGRPPEQIRELIRRVHEAVEGALDAPASSIRILVREIPPAHWAAGGVTKDE---------------------------------------------------------------------------
+>UPI00145C6A91	70	0.448	3.775E-12	0	57	59	1	58	66
+PITHIHLLEGRSAEQKQDLIQNVTQAITHTLETAPEQVRVLLIEIPKENWGTGGVTKA----------------------------------------------------------------------------
+>A0A246PZI4	70	0.327	3.775E-12	0	57	59	1	58	66
+PYVRIEMLEGRTTEQKAAIAKVVTQAMQDHAGATPQSVFVVFEDVPRDNWAIAGTLIS----------------------------------------------------------------------------
+>A0A1T1HAT2	70	0.220	3.775E-12	0	58	59	1	59	66
+PYVNVQITKGVTREEKAEIVKDITASLQRVLGKPPEYTHIVIQEIEEENWGYAGLLTDE---------------------------------------------------------------------------
+>A0A2E4DSQ4	70	0.327	3.775E-12	0	57	59	1	58	67
+PFITVKMLKGRNQDQKRQLVQAITDAMVDICDAKPDGTMVVIEEVEKDHWSRGGVLIS----------------------------------------------------------------------------
+>A0A2S4MK73	70	0.237	3.775E-12	0	58	59	1	59	67
+PYVNLQITKGATREQKAEIVKAFTDTLVRVLGKNPANTHIVIQEIERENWGHAGALVDK---------------------------------------------------------------------------
+>A0A1Q5I6Q8	70	0.288	3.775E-12	0	58	59	1	59	68
+PVITVNWWQGNDRESRRDLVAGITDVFTRISGCPDEAVTVIIRDVAPDHWGKGGQLADE---------------------------------------------------------------------------
+>UPI001EF1943A	70	0.316	3.775E-12	0	58	59	1	60	68
+PYVNIKITrEGATPAQKAELIAGVTDLLKQVLNKDPETTFVVIDEVEMDHWGIGGLPVAE---------------------------------------------------------------------------
+>A0A7W8XRA7	70	0.327	3.775E-12	0	57	59	1	58	69
+PTIHLEMHPGRTLEQKRDFVRKVTQVTAETLACPTDSVDVLISEVPREHWAKGGQLVA----------------------------------------------------------------------------
+>E0SSE6	70	0.305	3.775E-12	0	58	59	3	60	69
+PLIQITMWSGLSDEAKKKIVEGITKVF-EDLGIPREAIEIIIYEVPKENWAIGGVRHSE---------------------------------------------------------------------------
+>A0A519FR44	70	0.327	3.775E-12	0	57	59	1	58	71
+PLIRVEFFEGRTVEQKRALAAALTEATMKTLGSPAEAVDVMFFDVPKHDWATAGVLAS----------------------------------------------------------------------------
+>A0A519EPG3	70	0.344	3.775E-12	0	57	59	1	58	71
+PLIRVELFEGRTVEQKRALAAALTEATMRTLGSPADAVDVMFFDVPKHDWASAGVLAS----------------------------------------------------------------------------
+>UPI0011EB0A82	70	0.316	3.775E-12	0	58	59	1	60	72
+PIVTIQITrEGTTPEQKAALIKGATDLLVNVLNKPPALTFVVIEEVELENWGVGGLPTPE---------------------------------------------------------------------------
+>A0A1M6BT31	70	0.322	3.775E-12	0	58	59	1	59	73
+PFINVNITKGATNEQKAELIEGITDLMVKILDKNPFSTHVIINEVETENWGIAGRSVKK---------------------------------------------------------------------------
+>A0A1Q9PWM9	70	0.418	3.775E-12	0	54	59	18	72	78
+PIVTVQLLEGRSDDQKRALVEKVTDAVSETTGAPAERISVIIDEMKPTNFAVNGK-------------------------------------------------------------------------------
+>UPI001AEA8B4D	70	0.298	3.775E-12	0	58	59	1	67	85
+PYVNIQITrEGAtpgeaaaTPEQKAALIKGVSDLLYEVLNKPPEVTFVVIDEVPLENWGQGGLPVAE---------------------------------------------------------------------------
+>UPI001C44FCCD	70	0.321	5.190E-12	0	55	59	1	56	59
+PLIQITQPPGFDSDQKRATIEAITHAYVDATGKPPSSVWVTITEVPRESWGVGGTP------------------------------------------------------------------------------
+>A0A2H0Y1T6	70	0.315	5.190E-12	0	56	59	1	57	59
+PIVNIQMWPGRDKETKKKVIEKVSQTVAETVGCPIEAVTVVIEDIPKENWGFEGKQA-----------------------------------------------------------------------------
+>UPI001C968CE5	70	0.375	5.190E-12	0	55	59	1	56	59
+PIIHVHVIEGRTEEQLRNLMESLTNAAAESLEVKKEQVRVLIQEVPNKHWGVGGKP------------------------------------------------------------------------------
+>A0A1G0JCT6	70	0.344	5.190E-12	0	57	59	1	58	61
+PIIRVEMYEGRTIEQKRELVAVFTNEACRILKCGPESVHVVIDNISKENWGLSGKLSS----------------------------------------------------------------------------
+>UPI0009DFC68F	70	0.310	5.190E-12	0	57	59	1	58	61
+PILRLEMHPGRTSDQKREFVQEVTRIAVEILRCPPESVDVLIQEVPKHAWAKAGKLLA----------------------------------------------------------------------------
+>A0A517DTH6	70	0.362	5.190E-12	0	57	59	1	58	61
+PIVQIDMLEGRSLEQKREMVKKITAAIVETAKCPPEAVTIVLREAPTQHIAKAGILAA----------------------------------------------------------------------------
+>A0A2E5LRS8	70	0.310	5.190E-12	0	57	59	1	58	61
+PTIHVEMYEGRTKEQKAELAKAITKAIVDIAKSTPESTHIIFYDVPKSNMAHGGVLAS----------------------------------------------------------------------------
+>A0A644T0U4	70	0.448	5.190E-12	0	57	59	1	58	62
+PIVQIDMLEGRTVDQRRELVKRVTEAISETASCPPSAVTIIIREISKEHLGQGGKLRA----------------------------------------------------------------------------
+>G9QIX2	70	0.423	5.190E-12	0	58	59	1	59	62
+PFIQIHLLEGRSEEKIKDVIKNVTDCVADTLDAPLESIRVVVTEIPPTHWGTAGKTKAE---------------------------------------------------------------------------
+>UPI00047FA397	70	0.375	5.190E-12	0	55	59	1	56	62
+PIVRVDMLEGRTTEQKRVLVEKITEAVCTSVGVPPERVTVVIQDVPKTNLGSAGKL------------------------------------------------------------------------------
+>A0A0K1JKN2	70	0.385	5.190E-12	0	55	59	1	55	62
+PIVTV--LQGpRDIEKKRALVKGVTEAFVDSLGVPPESVQVWIQETPPENWGAAGTL------------------------------------------------------------------------------
+>UPI001CF1A029	70	0.288	5.190E-12	0	58	59	1	59	62
+PIVTVQQSPGRTKEQRELLVKRITEAFSEAYGTNPEAVTIFLQDFDDEHWAKGGKLHSE---------------------------------------------------------------------------
+>A0A3T0KLH1	70	0.389	5.190E-12	0	58	59	1	59	63
+PIVEMKIIEGRDQEIKNRLIENVTQTVSETLGVSPESIRILIHEIPSIHWAIGGETVQK---------------------------------------------------------------------------
+>A0A7J3KJ94	70	0.372	5.190E-12	0	58	59	1	59	63
+PFVQVHLLEGRTEKQREEIAKAFTDALVKILGVPKEVVWIQFIDMPKSHFAVGGVLKSK---------------------------------------------------------------------------
+>A0A6H2CWR4	70	0.310	5.190E-12	0	57	59	1	58	64
+PVIRVEMWEGRNEDQKRELVEVMTREMARITNCSEESIYIIIDEVKKQNWGAGGQLCS----------------------------------------------------------------------------
+>UPI001E4677DD	70	0.333	5.190E-12	0	56	59	1	57	64
+PFIEIHMFEGRTAEQKRALTKAVTEAMVEHAGAKAEGLHVAISEYSLDNWARAGVLG-----------------------------------------------------------------------------
+>UPI0008727A07	70	0.389	5.190E-12	0	58	59	1	59	66
+PLISVQMIRGRTAEQKRAFMKELAEAAIRTLGVPEQSVRVIVTEIEPEHWGIGLTTKAE---------------------------------------------------------------------------
+>A0A6J4K066	70	0.423	5.190E-12	0	58	59	1	59	67
+PLVQITLARGRSPEQLAALGEEVTAAVSRAVGAPPGNVRVVVTECEPEHWFVGGESLAE---------------------------------------------------------------------------
+>A0A0B8WGV4	70	0.220	5.190E-12	0	58	59	1	59	68
+PYVNVQIIKGATKEQKAQIIADITQSLVNVLGKKPEHTHIVIQEIAEEDWGFAGLPTDE---------------------------------------------------------------------------
+>A0A7K2XB30	70	0.254	5.190E-12	0	58	59	1	59	68
+PVITVNWWQGNDRESRRDLVAGITDVVTRVSGCPDEAVTVIVRDVEPDHWGKGGQLADE---------------------------------------------------------------------------
+>I3CEC2	70	0.277	5.190E-12	0	53	59	1	54	69
+PYINIQVIQGITREQKQQLVQEITDSLVRILGKKPEHTHIVIQEIAEENWGFAG--------------------------------------------------------------------------------
+>UPI0008335B75	70	0.241	5.190E-12	0	57	59	1	58	69
+PYVNLQITKGATRAQKAEIVKAFTDTLVRVLGKNPQNTHIVIQEIEREDWGHGGELVA----------------------------------------------------------------------------
+>A0A2A4V618	70	0.288	5.190E-12	0	57	59	1	59	71
+PFVNIRVTrEGVTPDQKARLIKGVTELLVDVLGKSPATTFVVIDEVDMENWGVGGMPVA----------------------------------------------------------------------------
+>UPI00191EC04D	70	0.333	5.190E-12	0	58	59	1	60	72
+PYIKIDVTrEGVTKEQKKALIKGVTDLITDVLNKDPQLTHVVIQEHDLDNWGFGGEQVSE---------------------------------------------------------------------------
+>A0A517YE88	70	0.350	5.190E-12	0	58	59	1	60	74
+PIVTVQITrEGATPQQKAEVIRGMTEVLTRVLDKPPALTHVLIQEVETENWGVGGLPALE---------------------------------------------------------------------------
+>UPI0011C906BD	70	0.258	5.190E-12	0	57	59	1	58	76
+PVITIKMAKGRSVEQKQQFVEKVTKEAVKTLGVKPEWVTILFEEYERENWASNGQLHS----------------------------------------------------------------------------
+>A0A0Q9LV98	70	0.305	5.190E-12	0	58	59	1	59	78
+PLVEVTMVEGRTPEQVRALVSALTRAVVETVDAPLENVRVVVREVPATHWAAGDVTIAE---------------------------------------------------------------------------
+>UPI000D0496B7	70	0.293	5.190E-12	0	57	59	1	58	85
+PYINLKLAKGRTIEQKKRFVKAITKEAVEILNVKAEWVTVIIDEYDRSNWATGGELHS----------------------------------------------------------------------------
+>A0A6A8QKJ2	70	0.464	7.135E-12	0	55	59	1	56	59
+PICEITLVAGRTPEMKKILIRDVTDSVMRSLDVPAQSVRVILREVPPEHFAVGGVP------------------------------------------------------------------------------
+>A0A542EQZ3	70	0.385	7.135E-12	0	55	59	1	55	60
+PIVTV--LQGpRTPELKRELVQKVTDAFVDSLGVPAESVQVWIQETPPDSWAIGGTL------------------------------------------------------------------------------
+>H5XVT3	70	0.431	7.135E-12	0	57	59	1	58	61
+PIVQIDLLEGRTLDQKRLLVEKVTQAIMESTGAPAESISIILRDMARENYAKAGKLAS----------------------------------------------------------------------------
+>UPI00164B0669	70	0.275	7.135E-12	0	57	59	1	58	61
+PLLHLEMHPGRTLDQKRAFVCEVTRVTAETLNCPPESIDIVITEIARDDWAKAGKLVA----------------------------------------------------------------------------
+>A0A4Z0QPS8	70	0.438	7.135E-12	0	56	59	1	57	61
+PIVQVELLEGRTVEQKRLMVEKVTQAIVESTGAPAENVSIIIRDMSKESYAKGGKLA-----------------------------------------------------------------------------
+>A0A356PCX6	70	0.438	7.135E-12	0	56	59	1	57	61
+PIVQVELIEGRTVEQKRLLVAKVTQAIVESIGAPAESVTIIIRDMPKENLAKAGILA-----------------------------------------------------------------------------
+>A0A1F8P2X4	70	0.280	7.135E-12	1	57	59	2	58	61
+-VILINMWEGRTEDQKRKIVKAVTDAMVESAGVNPEGLTIIIHDIPKDSWARAGILAS----------------------------------------------------------------------------
+>A0A2G2IXX9	70	0.448	7.135E-12	0	57	59	1	58	62
+PIVHISVIEGRSNEAKAHLIAEVTDAIERTIGAPKATIRVLINEIPAAHWGVAGVPKS----------------------------------------------------------------------------
+>UPI001E51B801	70	0.466	7.135E-12	0	58	59	1	60	63
+PLVQISLTRGRTPEQLQALGEAVTEAVAASLGAPAASVRVLLQEVEPAHWFVGGEtLASK---------------------------------------------------------------------------
+>A0A497RAL2	70	0.372	7.135E-12	0	58	59	1	59	63
+PVVKIDMWEGRDRETKRKLIQTITRAVSETLDISVEHIHIILNEVSKDNWGLKGEQASK---------------------------------------------------------------------------
+>UPI0018E1778D	70	0.482	7.135E-12	0	55	59	1	56	63
+PIVEIHLLEGRNVEQKRKLVKEVTDAICRAVDVKPDAVRIIIDDMPLTNFAVAGEL------------------------------------------------------------------------------
+>A0A348ZTG5	70	0.403	7.135E-12	0	56	59	1	57	63
+PIVEIKLLEGRTLEQKKKLASAVTDAVVQSLGVNPDSVRITLLEMAQENYAVAGVLW-----------------------------------------------------------------------------
+>A0A1H9SHQ2	70	0.338	7.135E-12	0	58	59	1	59	65
+PLIQVQQTPGKTTEQKSELVRELTEAYVRATGSKPESVWVTVQEIATDSWSIAGETLAE---------------------------------------------------------------------------
+>UPI001BE59003	70	0.350	7.135E-12	0	58	59	1	59	66
+PFIEVKHI-GRcSAEQKRALVRELTEAYARALGKDPGRVWVTLQEFDAQDWATGGQLVSE---------------------------------------------------------------------------
+>A0A359C8B0	70	0.283	7.135E-12	0	58	59	1	60	67
+PYVNVRITkEGATPEQKAEVIRRVTQVLVEVLKKNPETTVVVIDEVEADNWGVGGATVTE---------------------------------------------------------------------------
+>UPI001F32381A	70	0.310	7.135E-12	0	57	59	1	58	67
+PLIQVKQTPGKTAEQKAELVRELTDAYTRVTGSTPESVWVTVEEVAPDSWSVGGRTLT----------------------------------------------------------------------------
+>A0A6M5IY31	70	0.355	7.135E-12	0	58	59	1	59	67
+PIIQVSLVQGRTPEQLRALIHGLTKTASETIGAPVETVRVVITEVPPTHWGSGHQTIAE---------------------------------------------------------------------------
+>A0A418W1G9	70	0.266	7.135E-12	0	58	59	1	60	68
+PYVNLKITKdGVTKEQKAELVRGITDLLVRVLNKKPEHTHIVIDEIDVENWGYCGVLTSE---------------------------------------------------------------------------
+>A0A353D9C0	70	0.392	7.135E-12	0	55	59	1	56	69
+PIVSIRMAKGRDVDQKRRLAAEVTRAVAQSLDLPPELVSIQIEEFDRENWATGGEL------------------------------------------------------------------------------
+>UPI00178343E4	70	0.300	7.135E-12	0	58	59	1	60	70
+PFVHVRITRdGTSQAQKRQLVREITDTLERVLGKQPDLTHIVIDEIDTDNWGHGGELVTE---------------------------------------------------------------------------
+>UPI000F8E8DD8	70	0.327	7.135E-12	0	57	59	1	58	74
+PIITVRIAKGRTTETKRALAAALTRSAAEALDVPAEWVTVLIEEYDRENWATGGELHA----------------------------------------------------------------------------
+>A0A1H4D6I3	70	0.288	7.135E-12	0	57	59	1	59	74
+PYITIQVTrEGVTREQKKELIAGATDLVVRVLNKDPATTFVVIDEVDLDNWGVGGRPVA----------------------------------------------------------------------------
+>UPI001BE4D29E	70	0.310	7.135E-12	0	57	59	1	58	78
+PYVKIEVIEGVTREQKAGLVADVTQSLVTRLGKKPETVFVVIHEVPAENWGAGGGLVA----------------------------------------------------------------------------
+>A0A850Q750	70	0.428	7.135E-12	0	55	59	1	56	79
+PVIQIHLMEGRTTAQKQALMREVTRAAVETLGVSPQSVRILLQELQSGHFAVAGEP------------------------------------------------------------------------------
+>A0A4S4B0V0	70	0.338	7.135E-12	0	57	59	1	59	87
+PYVHIRITdEGVTTEQKAELVARSTQMLVDVLGKNPSTTVVVIEEVPLENWGIGGELVS----------------------------------------------------------------------------
+>A0A6G8AQJ5	69	0.413	9.808E-12	0	57	59	1	58	59
+PIVHIELLEGRTQEQKNAMVKEVTEAIVKTTGAKEEAVHIVITDMEKGNYAVGGKTKA----------------------------------------------------------------------------
+>A0A523YEJ7	69	0.271	9.808E-12	0	58	59	1	58	59
+PVVRVTMWP-RPIEQKRELAKAITDAIVRIAKAPPDETYVIFEDIEKENWAKSGTLFEE---------------------------------------------------------------------------
+>UPI0019501BB9	69	0.410	9.808E-12	0	55	59	1	56	59
+PFVHIELVEGRTAEQKAGLVKDITEAVMKNADVPADRVHVIIEEMKKTDYAVGGKL------------------------------------------------------------------------------
+>A0A402BQQ0	69	0.500	9.808E-12	0	57	59	1	58	61
+PIVQIDMLEGRTVEQRRELVKKVTEAISESANCPASAVTIIIREMTKEHLGQGGKLRA----------------------------------------------------------------------------
+>A0A1G8WVF4	69	0.338	9.808E-12	0	58	59	1	59	61
+PVVTIRMASGRTLEQKRILAAEITAAITRTLGVDPEQVFVFFEEHDKENIAQAGRLFSE---------------------------------------------------------------------------
+>A5D1I0	69	0.355	9.808E-12	0	58	59	1	59	61
+PVVNIQLLEGRSVEQKAKIAKAVTDILVEIGGARPEAVTVIFSDIKKSDLAVGGKLASE---------------------------------------------------------------------------
+>A0A2E5KJ05	69	0.254	9.808E-12	0	58	59	1	59	61
+PTIEVKWFEGRSTEQKAKLAKAITDAVVEIGNTTPDATHIIYHDIKKSDWAQSGKLVSE---------------------------------------------------------------------------
+>A0A0F2SHD6	69	0.456	9.808E-12	0	56	59	1	57	61
+PIVQVELLEGRTIEQKRLLAEKVTQAIVESIGAPAESVSIIIRDMSKENYSKAGVLA-----------------------------------------------------------------------------
+>A0A101WBV1	69	0.438	9.808E-12	0	56	59	1	57	61
+PIVQVELLEGRTLEQKRLLVEKVTQAIVDSIGAPAENVSIIIRDMPSENFSKAGKLA-----------------------------------------------------------------------------
+>A0A6I1QN27	69	0.237	9.808E-12	0	58	59	1	59	61
+PIIRVEMWKGRTEAQKRELARAITNAMVEIAQTTADATIVVFEDIERENWAEGGKLATE---------------------------------------------------------------------------
+>A0A498R8T1	69	0.413	9.808E-12	0	57	59	1	58	61
+PIVQIDMVEGRSAEQKRALAKKVTEAIVETAQCPAEAVTIVIRETTKQNIAKAGVLMS----------------------------------------------------------------------------
+>UPI001BDC4C89	69	0.310	9.808E-12	0	57	59	1	58	61
+PFVRIDWFPGRTVEQKRELVEVLTREICRIGKCDPDSVGIIFTDVDKEDWGRAGKLFA----------------------------------------------------------------------------
+>A0A7U7B0A6	69	0.344	9.808E-12	0	57	59	1	58	61
+PIVTIQLFKGRSVESKRLLAAKVTEAVAETIDLAPETVTVLFEEYEREDWATGGKLFS----------------------------------------------------------------------------
+>UPI001357545F	69	0.275	9.808E-12	0	57	59	1	58	61
+PMIRVEMFPGRTVEQKRALAKALTEAFVTHGKTSPEAVSIVFVDVAKEDWATAGVLAS----------------------------------------------------------------------------
+>A0A643FVT1	69	0.491	9.808E-12	0	56	59	1	57	63
+PIMQVFLIEGRTDEQKARLIQALTDAAVESIGAPVESVRVMITEVPNTQFGIAGKTA-----------------------------------------------------------------------------
+>UPI00036E458D	69	0.327	9.808E-12	0	57	59	1	58	64
+PIIRVEMFQGRSLEQKRALVKTLTEETARITGCNRDAVYVVIDDVNKENWGAGGILCT----------------------------------------------------------------------------
+>UPI00146C1EB0	69	0.333	9.808E-12	0	56	59	1	57	64
+PIVRVEMFEGRDNETKRELVQALTREMVRVTGCKEASVSIVITDISKDNWGVGGEIA-----------------------------------------------------------------------------
+>UPI00046F0A8D	69	0.298	9.808E-12	0	56	59	1	56	64
+PIITIQQFP-RSTEQKRELAQRITDALVETYQVAPESVQVFFQESSSDNWAKGGVLG-----------------------------------------------------------------------------
+>A0A2E0E4J9	69	0.305	9.808E-12	0	58	59	2	60	65
+PIIRVEMFXGRTADQKSNLVKQLTDSXINACGGNRESVDVIITDVEKNNWGKAGKLYSE---------------------------------------------------------------------------
+>A0A3D2AQH3	69	0.293	9.808E-12	0	57	59	1	58	65
+PLLTLEMFEGRTVEQKRQIVAGLTKTLCDITGGSPSAVQVMIRDVPKTDWGFGGELCS----------------------------------------------------------------------------
+>A0A4Q9DYP1	69	0.406	9.808E-12	0	57	59	1	59	66
+PYVNIKITkEGATADQKEQLIRGVTELLANVLGKNPQSTFVIIDEVDTDNWGIGGESVT----------------------------------------------------------------------------
+>UPI00041F0A74	69	0.440	9.808E-12	0	58	59	1	59	66
+PIIQIQVLEGRGQEQIRSLIADVTDAAVKNLDVKPEQVRVLVTEIADTHWGVGGKTKRE---------------------------------------------------------------------------
+>A0A0A1F8T5	69	0.321	9.808E-12	0	55	59	1	56	66
+PYVNIQITKGASRQQKEELVKDVTASLVRVLGKKPEQTHIVIQEINEDDWGFGGML------------------------------------------------------------------------------
+>A0A2L2BCX6	69	0.258	9.808E-12	0	57	59	1	58	66
+PYVNVQITAGATREQKAALVKDITDSLVRHLGKKPELTHIVIQEIAEEDWGYAGQLID----------------------------------------------------------------------------
+>A0A1V5CNP5	69	0.305	9.808E-12	0	57	59	1	59	67
+PFVNIKITKdGVSPEKKAEVIKGVTQLLVDVLGKNPQNVMVLIEEVETDNWGVGGESVT----------------------------------------------------------------------------
+>A0A542BF12	69	0.241	9.808E-12	0	57	59	1	58	69
+PYINVQITKGATRAQKAEIVKTFTETLVRVLGKDPQNTHIVIQEIEREDWGHGGVLVA----------------------------------------------------------------------------
+>A0A1G3JTH9	69	0.316	9.808E-12	0	58	59	1	60	70
+PYINVKITrEGVTDEQKAQLIQGITDLVVSILNKNPSTTFVVIEEIAMENWGIGGLPVEE---------------------------------------------------------------------------
+>A0A109XXI2	69	0.305	9.808E-12	0	57	59	1	59	72
+PYINIQITrEGATREQKAELIKGATDLVVRVLGKDPQATFVVIEEVDTDSWGVAGETVT----------------------------------------------------------------------------
+>UPI00145D1E0C	69	0.322	9.808E-12	0	58	59	1	59	80
+PFVTIQIAEDHSIELKRKLAQAVTNALVSTLNTKPEWVTVHIDEFERENWAVGGVLHSE---------------------------------------------------------------------------
+>A0A8A9AL31	69	0.338	9.808E-12	0	58	59	1	59	85
+PFIDVSLGAGRTPEQVRALIHELTEAAHRAVGAPKANIRVVIREIAPEHWAAGDVTIAE---------------------------------------------------------------------------
+>UPI000551321C	69	0.400	1.348E-11	0	54	59	1	55	59
+PFVHIEMLTGRTPEQKQQLVKEVTEAVVRNTGAPSEKIHVIIREMLPTEYAQDGV-------------------------------------------------------------------------------
+>C8NIW2	69	0.392	1.348E-11	0	55	59	1	56	59
+PFIHVEMIEGRSREQKEALVKEVTEVVSKHTGAPTEHIHIIIQEIKAENLGQNGKL------------------------------------------------------------------------------
+>A0A5N9BWU4	69	0.305	1.348E-11	0	58	59	1	58	60
+PIVKIEMWKGRTSDQKAQLAKEITDSFER-LGTDRDATIVVFNDVSKDNWAQGGTLASE---------------------------------------------------------------------------
+>UPI001A90A86E	69	0.418	1.348E-11	0	54	59	1	55	60
+PIVHIELLEGRTQEQKNEMVKEVTEAIVKTTGANRDAVHIVINDMEKGNYAVGGK-------------------------------------------------------------------------------
+>A0A839XKQ5	69	0.327	1.348E-11	0	57	59	1	58	61
+PHVQIHWFEGRTAEQKRELAEALTNEICRIGRCEPESVGIVFTDVDTSDWARAGKLFS----------------------------------------------------------------------------
+>UPI000B7DC50D	69	0.446	1.348E-11	0	55	59	1	56	61
+PVVQMEILKGRTLEQKRAMVKEVTEAITRTLTCPPEAVTIIIREMEKDEYATAGVL------------------------------------------------------------------------------
+>A0A6M8FXB0	69	0.423	1.348E-11	0	58	59	1	59	61
+PIIQIQLLEGRSTEMKKQLMREINEVVCRTLDVQPPQVRILINEFQKENWSVGGVAKDE---------------------------------------------------------------------------
+>UPI0012E6FB37	69	0.423	1.348E-11	0	58	59	1	57	61
+PLINVQLLAGRTPDQKSALMRGLAQAAIDALGVPEQSVRVILTEVEPQHWGIG--LKSK---------------------------------------------------------------------------
+>A0A4Q5S4N3	69	0.379	1.348E-11	0	57	59	1	58	62
+PIVQANILKGRTAEAKADFARAVTDAAVAHLGVPPQAVRVLISEVEPEHWFTAGEPKA----------------------------------------------------------------------------
+>UPI000C1B65E9	69	0.465	1.348E-11	0	57	59	1	58	62
+PLVHIDLVEGRSDEQLRNLVKEVTEAISRTADVPAERVHIVLNEMSKNNYSVGGTLKS----------------------------------------------------------------------------
+>A0A1Q7X358	69	0.271	1.348E-11	0	58	59	1	59	62
+PNITIQWYAGRTQEQKRQLVAAITDAMVKIGKTTPDQVHIVFQDVEKSNWGINGKLAGE---------------------------------------------------------------------------
+>UPI000469C555	69	0.406	1.348E-11	0	58	59	1	59	62
+PIVQIQVLEGRDKQQIARLIASVTEAVVASLEVKPEQVRVLVSEVPPTHWGVGGVTKEE---------------------------------------------------------------------------
+>W0EB15	69	0.355	1.348E-11	0	58	59	1	59	62
+PIVQIDLLEGRTYEQKKAMVEKITEVLMETAEAKRESISIIIRDMPRENYAHAGQLASE---------------------------------------------------------------------------
+>A0A075HPW0	69	0.345	1.348E-11	0	54	59	1	55	62
+PLVTVRLFEGRSLEQKSELAKKLTDAVTASLNVPIDSVEVILDEVPRENWTKAGV-------------------------------------------------------------------------------
+>A0A0C4YPW4	69	0.457	1.348E-11	0	58	59	1	59	63
+PIMQVFLIEGRTEEQKAGLIRALTDAAVESIGAPVESVRVMITDVPNTQFGIAGKTAKE---------------------------------------------------------------------------
+>A0A2D6WKY4	69	0.288	1.348E-11	0	58	59	1	58	64
+PVVIVEAWAGKTIEQKKQLVEGITSVIT-NMGIPPQEVHIIIKDNPKHNWATGGKLASE---------------------------------------------------------------------------
+>A0A1F5UGD9	69	0.305	1.348E-11	0	58	59	1	59	64
+PFVEIKMWKGRDKETRKKMIAKVTDAIAETIQCPKDAVQVVVFEVEKDDWAIGGQICSE---------------------------------------------------------------------------
+>A0A8J6UKC0	69	0.275	1.348E-11	0	57	59	1	58	65
+PVVTVRTVEGISAEKKEELMERITTALKEVLGKNPEATHVVIEEIPPENWGIRGKTVA----------------------------------------------------------------------------
+>A0A7C1YTT0	69	0.372	1.348E-11	0	58	59	1	59	65
+PLINVNMATGRTPEQKRKLMAAITAAVQESIGAPLGSIRVWISEFEPEEFMAAGELLSE---------------------------------------------------------------------------
+>A0A5B2TKF1	69	0.310	1.348E-11	0	57	59	1	58	65
+PFVRIDLFPGRTDEQKANTARAITEALVQHAGCTPQSVQIVFAEVKKSDWATAGVMAS----------------------------------------------------------------------------
+>UPI001962ADF0	69	0.474	1.348E-11	0	58	59	1	59	65
+PIAHLHILEGRSQEVKSKLILSVTKSISESLGTNPEKIRVLIHEIQKENWGTGGVAKSE---------------------------------------------------------------------------
+>A0A3M8DT11	69	0.454	1.348E-11	0	54	59	1	55	65
+PIINIQLIEGRDAEQIESLIAEVTETVVRNLQVRPEQVRVLVTEIPATHWGVGGK-------------------------------------------------------------------------------
+>A0A2S6NGK0	69	0.431	1.348E-11	0	57	59	1	58	65
+PIVDITLIEGRSDEAKARLCAGVTEAVVSAIGAPREAVRVILREVPPQHFAVGGVTKA----------------------------------------------------------------------------
+>UPI001AE0F08C	69	0.310	1.348E-11	0	57	59	1	58	66
+PYVNIKITPAATPEQKAALIKGVTDLLVTVLDKNPETTFVVIDEIDADNWGIGGDTVT----------------------------------------------------------------------------
+>A0A2E7ECD4	69	0.254	1.348E-11	0	58	59	1	59	66
+PYVNVQITEGASRDQKRKLVEDITASLVNNLGKQPEHIHIVIQEVAEQNWGYSGMLTDE---------------------------------------------------------------------------
+>A0A4V6CRJ0	69	0.322	1.348E-11	0	58	59	1	59	67
+PHVAITLSAGRSPEQVRALLHEVHDAVVRAAGARPEHVRVVVHEVPRTHWATGDVTLAE---------------------------------------------------------------------------
+>A0A420A2B3	69	0.392	1.348E-11	0	55	59	1	56	68
+PFIQVTMIEGRGHDAKVELIRELTEATIKTIGAPRESVRVVLHEVPAAHWGVAGVP------------------------------------------------------------------------------
+>UPI0010BFCBB1	69	0.275	1.348E-11	0	57	59	1	58	70
+PVINIQMFHGRTLAQKRAIAKSVTQSFVEAAGGNPQSVHVIFTEVSQDDWAVAGDLCS----------------------------------------------------------------------------
+>A0A0A6SSJ8	69	0.327	1.348E-11	0	57	59	1	58	70
+PTFHIEMFEGRSVEKKRELAAALTETTCKVLGVDAQSVDIIFTDVKTEDWATGGKLWS----------------------------------------------------------------------------
+>A0A1I7MX43	69	0.310	1.348E-11	0	57	59	1	58	73
+PIIRVEMFKGRTPDQKQRLVKAFTETVTDVCGLKPQAVQVIFQDMDPGDYGVSGELFS----------------------------------------------------------------------------
+>A0A1E3H591	69	0.275	1.348E-11	0	57	59	1	58	73
+PNITVQLFPGRSVETRRELVAELTRTTCAVLGCSPAAVTVILQDVEPHNWGVGGDLFS----------------------------------------------------------------------------
+>A0A074JI94	69	0.446	1.348E-11	0	55	59	1	56	86
+PVIQIHLMEGRTEAQKEALMREVTRAAVDTLGVKPESVRILLQELRSGHFAVAGEP------------------------------------------------------------------------------
+>A0A8E2LIE0	69	0.446	1.348E-11	0	55	59	1	56	86
+PVIQIHLMEGRTEAQKEALMREVTRAAVDTLGVKPESVRILLQELRSGHFAVAGEP------------------------------------------------------------------------------
+>A0A558ABQ1	69	0.338	1.348E-11	0	58	59	37	95	104
+PMVEITLAEGRTPQQIRTLLAAVSDAVHRSIGVPKANIRVVVREVPPTHWCAGGVTLAE---------------------------------------------------------------------------
+>UPI0019089541	69	0.344	1.348E-11	0	57	59	42	99	104
+PTIHVEMLAGRSNDQKRALVKGLTECFTSHCGGTPASVQVVISEFGKDQWAVGGELIS----------------------------------------------------------------------------
+>UPI001783F9CC	69	0.275	1.348E-11	0	57	59	51	108	115
+PWIRIDLSEGRSVEQKQKTAKAITNALVEFCNCTPESVSIVFNDVNADNWAFGGTLIS----------------------------------------------------------------------------
+>A0A429ZID6	68	0.428	1.854E-11	0	55	59	1	56	58
+PLVHIELLEGRTPEQKEALVKDVTEAIVKNTGAKTENVHIVISDMAKGNYAVGGKM------------------------------------------------------------------------------
+>A0A1X6WQ11	68	0.418	1.854E-11	0	54	59	1	55	59
+PIVHIELLEGRTQEQKNEMVKEVTAAIVKTTGANEEAVHIVITDMEKGNYAVGGK-------------------------------------------------------------------------------
+>A0A1G8CTB9	68	0.303	1.854E-11	0	55	59	1	56	59
+PLIQISQTPGLSTAQKRAVIEGVTRAYADATGKDPAKVWVTLTDVPRENWGVGGEP------------------------------------------------------------------------------
+>UPI00165AFA37	68	0.357	1.854E-11	0	55	59	1	56	59
+PFVHVELVEGRTAEQKAGLVKDITEAVVKNTGATEDRVHVIIEDMKKTNYAVGGKL------------------------------------------------------------------------------
+>A0A1I7IKC2	68	0.446	1.854E-11	0	55	59	1	56	59
+PLIQVTLIEGRPMEAKAELIRTLTEAAVASLNAPREAVRVIVQEVPAAHWGVGGVP------------------------------------------------------------------------------
+>A0A349AMU3	68	0.271	1.854E-11	0	58	59	1	57	59
+PVIIIEMWQGRTLKQKKQLAEGITAEFVKI-GVPAEQVQIIFKDNPKQNWAIGGKL-SE---------------------------------------------------------------------------
+>A0A3N5VW28	68	0.406	1.854E-11	0	58	59	1	59	61
+PIIQVHMLEGRTQELKKKLVANMTEAVVKSLGVKPEDVRIILMDMAKSNYSIAGVMKSE---------------------------------------------------------------------------
+>UPI000DA62A2E	68	0.465	1.854E-11	0	57	59	1	58	61
+PIVQIDMLEGRTVEQRRELVKRVTEAISETANCPQSAVSIIIREMTPTHLGQGGKLRA----------------------------------------------------------------------------
+>A0A099SCD1	68	0.396	1.854E-11	0	57	59	1	58	61
+PFVQIDLLEGRTLDQKRLLVEKVTQAIIESTGAAPENISIIIRDMLKENYAKAGKLAS----------------------------------------------------------------------------
+>A0A7X0AKX2	68	0.310	1.854E-11	0	57	59	1	58	61
+PTLHLEMHPGRTLDQKRAFVREVTKTTCETLGCPVESVEILISEVSRELWASGGQLKS----------------------------------------------------------------------------
+>A0A521XW71	68	0.310	1.854E-11	0	57	59	1	58	62
+PIVRVEMFPGRTHAQKQELARAITEAVANIAHTTPDATIVIISEVEREDWAQAGKLAS----------------------------------------------------------------------------
+>A0A7V4YPZ0	68	0.389	1.854E-11	0	58	59	1	59	63
+PVVEITMFKGRTDEQKAELIKSVSKTIAEVLKIPAEEVYVIIREITKADWGPQGKPYGE---------------------------------------------------------------------------
+>UPI001EDA061D	68	0.413	1.854E-11	0	57	59	1	58	63
+PIVNITLIKGRPQDKKAAMYREVTDAIHRTLGAPRESVRIILNEVEPQHFAVAGEAKT----------------------------------------------------------------------------
+>UPI00186629A2	68	0.474	1.854E-11	0	58	59	1	59	63
+PTVHVYMMSGRSQQQKEALIGEVTDAVVSSLSAPKENVRVIISEVPKSEYGIGGVTGEK---------------------------------------------------------------------------
+>A0A246RZP1	68	0.457	1.854E-11	0	58	59	1	59	63
+PTVHVYMMSGRTQQQKESLISEVTDAVVSSLSAPKENVRVIISEVPKSEYGIGGVTGEK---------------------------------------------------------------------------
+>A0A0Q8PY84	68	0.315	1.854E-11	0	56	59	1	57	63
+PVLHVYLFEGRTEEQKALLMKALTDAVVTTLGSPTGNVRIMIQELQKEDYAVGGVSV-----------------------------------------------------------------------------
+>A0A1W6Z0N2	68	0.237	1.854E-11	0	58	59	1	59	64
+PIIKVELLAGRSEDQKQAIAKRFTEVMKEEAGVKPESLHIVFHDVPASDWAVAGQLVSK---------------------------------------------------------------------------
+>A0A2T6MYM9	68	0.322	1.854E-11	0	58	59	1	59	65
+PLIQATILQGRTQMQKEAFYKGITQVVSETLNVKPEQVRVIIQEVPTSHWAVAGVSIAE---------------------------------------------------------------------------
+>UPI0006B55B5E	68	0.316	1.854E-11	0	58	59	1	60	66
+PYVNIKITkEGATSEKKAQLIQGVTDLLVSVLGKNPQTTVVVIEEIDTDNWGIGGRTVSE---------------------------------------------------------------------------
+>A0A3G9A9Z1	68	0.305	1.854E-11	0	58	59	1	59	66
+PLLHVTQTPGQSAEAKRELLKKLTAAYVEATGAKPASVWVTIEEVSKDDWAIGGETLTE---------------------------------------------------------------------------
+>A0A357M0F1	68	0.327	1.854E-11	0	57	59	1	58	66
+PVIRVEMWEGRTLEQKREIVESLSSELARIAGCDVASIYVIIDEVCKDNWGAGGVFCS----------------------------------------------------------------------------
+>UPI000F8DAF67	68	0.300	1.854E-11	0	58	59	1	60	67
+PYVNIKITdENVTITQKKELIKGVTQLLVDILNKRPETTHVVIDEVPIDNWGVQGELYSE---------------------------------------------------------------------------
+>A0A519ZTT3	68	0.350	1.854E-11	0	58	59	1	60	67
+PYVNIKITdEGVSTEQKARLVAGVTQLLSDVLNKKPESTFVVIDEVDTNNWGTAGELVTE---------------------------------------------------------------------------
+>W7ZJV2	68	0.444	1.854E-11	0	53	59	7	60	67
+PIVTIQLLEGRTDEQKKALVEKMTAAVSETIDAPPERVSIIINEMKPTNFAQAG--------------------------------------------------------------------------------
+>A0A1V4WY15	68	0.355	1.854E-11	0	57	59	1	59	67
+PYVNIKVTrEGVTAEQKEKLIRGVTQLLFDVLGKKPQTTYVIIDEVETDNWGVGGETVT----------------------------------------------------------------------------
+>UPI000B8913AC	68	0.327	1.854E-11	0	57	59	1	58	68
+PIVRVEMLPGRTQAQKAEYAREVTRLTVEILGCTAEAVDVIFSEIDRQDWARAGELYS----------------------------------------------------------------------------
+>A0A157KP03	68	0.327	1.854E-11	0	57	59	1	58	69
+PYVRIEILEGRTEDQKAAIAASVTQALVEHAGANPQSVFVVFDDVAPQNWATAGTLVS----------------------------------------------------------------------------
+>A0A4R1FF98	68	0.300	1.854E-11	0	58	59	1	60	70
+PYVNIKVTdEGVTTDQKAQLIRGVTDLLREVLGKAPDSTYVVIDEVPLTDWGVGGVNVTE---------------------------------------------------------------------------
+>A0A4U8Z4H6	68	0.266	1.854E-11	0	58	59	1	60	71
+PFVNIKIARdGATPEQKAALIQGMTDVLVKVLNKSPNGTFVVIDEVDLENWGVGGLPLDE---------------------------------------------------------------------------
+>A0A0Q8PZS7	68	0.457	1.854E-11	0	58	59	1	59	74
+PIVEVHIMEGRTVEQKRAMVAAVTQALSSTMAAPESAVRVIIHELVPEHYGIGGITAGE---------------------------------------------------------------------------
+>A0A7V4XG50	68	0.362	1.854E-11	0	57	59	1	58	74
+PIIEVKIARGRSIETKRALAKALTAAAVQTLDVQPDWVTVIIDEYDRDNWATAGELHS----------------------------------------------------------------------------
+>A0A2A2MR94	68	0.327	1.854E-11	0	57	59	13	70	76
+PVVTIQQSPGRTKEQKQLLIKRITEAFEEAYGMPPEGVTVFFQNFDDEHWGKGGYLHA----------------------------------------------------------------------------
+>A0A3N6GAS8	68	0.288	1.854E-11	0	58	59	1	59	79
+PVISVDWWKGNDRAQRQELVSELTACVSRIAGCPEEAVTVIVRDVDPDHWGKGGVLADE---------------------------------------------------------------------------
+>A0A7W1MXF3	68	0.339	2.548E-11	0	55	59	1	56	59
+PIVTIEWYEGRSAEQKAEIARRLTDLLVEVGKTQPEQVWIRFNDSDKGDWAIGGEL------------------------------------------------------------------------------
+>A0A7Y6YXS6	68	0.535	2.548E-11	0	55	59	1	56	59
+PLAQITILEGRSEEKKKKLIEDVSIAISESIGAPIETVRVLVQEIPPAHWGVGGKP------------------------------------------------------------------------------
+>UPI000A5FAF30	68	0.410	2.548E-11	0	55	59	1	56	59
+PFIHIEMLEGRTREQKEALVKEVTEVVSKNTGAPTEHIHIIIQEIKHENLGQNGQL------------------------------------------------------------------------------
+>UPI001BFE6196	68	0.344	2.548E-11	0	57	59	1	58	60
+PLIQVQIFEGRSDEVKREYAKAITEAAVKIMGCSAESVDVIYRDVKKSDWATAGKLWS----------------------------------------------------------------------------
+>A0A832R9X7	68	0.344	2.548E-11	0	57	59	1	58	61
+PIIRVEMYEGRTVEQKRELADVLTREACRILKCPSDHVHIVIENRSKEDWAIDGKLAS----------------------------------------------------------------------------
+>A0A2D9LXI1	68	0.241	2.548E-11	0	57	59	1	58	61
+PIVRVEMWPGRTHEQKQKLAKAITDAMVEIGKTTPEATLIVFEDVDKSNWAQSGILAS----------------------------------------------------------------------------
+>UPI001E421B9B	68	0.431	2.548E-11	0	57	59	1	58	61
+PIVQIQVLQGRTDEQINHLIKNVTEATVTSLEVKPEQVRVIVTEVPPSRWAVGGKSKD----------------------------------------------------------------------------
+>A0A358Q3Y1	68	0.456	2.548E-11	0	56	59	1	57	61
+PIVQIDLLEGRTTEQKRVLAEKVTQAIEESIGATPESISIIIRDMAKENYAKAGKLA-----------------------------------------------------------------------------
+>UPI00066FC806	68	0.310	2.548E-11	0	57	59	1	58	61
+PTLYLDMHPGRTLDQKRAFVRETTRVTAETLACPPESVEIVIREVPKDAWASGGTLRS----------------------------------------------------------------------------
+>A0A1M5LZZ5	68	0.379	2.548E-11	0	57	59	1	58	62
+PLAQLYIGKGRSYEEKEQLIQAVTQALVNTLGSNPDSTWVVINEIPRSEWGVGGKPLA----------------------------------------------------------------------------
+>UPI00099540B5	68	0.474	2.548E-11	0	58	59	1	59	63
+PIAHIHLLEGRSSEKKQVLIKNVTAAISKSLDTSPEKVRVLLLEIPKENWGTAGKTKAE---------------------------------------------------------------------------
+>A0A7Y8F9Y5	68	0.526	2.548E-11	0	56	59	1	57	63
+PIMQVYLIEGRDDEQKARLIEALTNAAIESIQAPPESVRVIITEVPKTQFGIAGKTA-----------------------------------------------------------------------------
+>C1DMU0	68	0.526	2.548E-11	0	56	59	1	57	63
+PIMQIHLIEGRSEEQKARLIEGLTRAAVDALDAPVESIRVIISEVPNTDFGIAGQTA-----------------------------------------------------------------------------
+>A0A1G6VCP6	68	0.218	2.548E-11	0	54	59	1	55	63
+PVIRIELSAGRTQEQKQKVAEEITQSMVAHCGCKPETVHVVFEDVKPSDWAVGGK-------------------------------------------------------------------------------
+>A0A0B5HU59	68	0.406	2.548E-11	0	58	59	3	61	63
+PIVRIDLWAGRTPEIKEKLIQNVSKAVAETIGKPVDHVTVIINDVPKENWGAKGIQASK---------------------------------------------------------------------------
+>A0A2E8P0P0	68	0.389	2.548E-11	0	58	59	1	59	64
+PIIQVTLVEGRTPEQLRALVSELTDAAVRAIDAPRDSVRVMLYEVPPTHFAAGDVTIQE---------------------------------------------------------------------------
+>UPI001BA86095	68	0.379	2.548E-11	0	57	59	1	58	64
+PLIQVNQVIGKTVGQKAELIRELTETYVRVTGAKPESVWVTIEETSKDNWGVGGETIA----------------------------------------------------------------------------
+>A0A6L9LWA9	68	0.338	2.548E-11	0	58	59	1	59	65
+PILTLQTWAGTPLEKKRELVDTLTREIVRMLECPKEAVTVLIEEVPKENWGAAGELCSE---------------------------------------------------------------------------
+>UPI000CFA7806	68	0.309	2.548E-11	0	54	59	1	55	65
+PIIRVELFPGRRAEVKAQLARELTETLQRVAGVPPEATTVLITEVPPHEWFVAGK-------------------------------------------------------------------------------
+>A0A6M4A776	68	0.322	2.548E-11	0	57	59	1	59	66
+PYVNIQITRdGVSAEQKAELIRATTELLVRVLNKDPATTHIVIQEVDTDNWGIAGQTVT----------------------------------------------------------------------------
+>UPI00053A0ED9	68	0.283	2.548E-11	0	58	59	1	60	66
+PYVNVKITrEGATPEQKAQVIAGVTDVLVKVLGKSPATTFVVLDEVALEDWGIGGVPVEE---------------------------------------------------------------------------
+>A0A353BBT6	68	0.285	2.548E-11	0	55	59	1	56	66
+PYVNIQITAGATREQKSQLVADATRSLVEVLNKKPEHIHVVITEVDEENWGFAGML------------------------------------------------------------------------------
+>A0A5J4K9P9	68	0.555	2.548E-11	4	57	59	5	58	66
+----VTIMEGRSEEQKERLIRLLSEAAGRELGYPVEEVRVIIYEVPKRNWGIGGRSAA----------------------------------------------------------------------------
+>UPI000F3F9BF5	68	0.406	2.548E-11	0	57	59	1	59	67
+PYVNIKITrEGASAEQKAELISGVTELLARVLDKNPQTTVVVIDEVETDNWGIGGETVT----------------------------------------------------------------------------
+>D9SK02	68	0.203	2.548E-11	0	58	59	1	59	67
+PYVNVQITKGATKSQKAEIVKGITNSLVRVLGKKPEHTHIVIQEIEEQDWGFAGLLTDE---------------------------------------------------------------------------
+>A0A3T0VRA8	68	0.285	2.548E-11	0	55	59	1	56	67
+PVVTIAQSPGRSLEQKRELVKKITDAFVTSYGVKPESVTIFLQDYDDSNWGKAGLL------------------------------------------------------------------------------
+>A0A1X7DFN5	68	0.396	2.548E-11	0	57	59	1	58	67
+PIIRVEIWEGRTIVQKRELVEVISRETARITGCGLDSIYVIIEDVKKENWGAGGELCS----------------------------------------------------------------------------
+>A0A6L7F468	68	0.322	2.548E-11	0	58	59	1	59	67
+PLVDVTLTEGRSPEQVRALISAVHDAVVTTAGARPEHVRVIVREVPRTHYASGDVTVAE---------------------------------------------------------------------------
+>A0A1Y0I5G5	68	0.203	2.548E-11	0	58	59	1	59	68
+PYVNVQITKGASRDQKRRIVEEITQSLVTNLNKSPEHIHIVLQEVNEEDWGFAGMLTDE---------------------------------------------------------------------------
+>A0A8J7CQY7	68	0.322	2.548E-11	0	58	59	1	59	68
+PFITIKMLEGRSPELKKELVEKVTAVVAETLAVPKDRIHLFLEDMKPDTYAHGGVLASE---------------------------------------------------------------------------
+>A0A7S6VXG7	68	0.333	2.548E-11	0	58	59	1	60	68
+PIVNIKVTDqSMSIEQKKALIEGATDLLVQVLNKPRETVDVIIDEINTNNWGVGGKMMSE---------------------------------------------------------------------------
+>A0A368ANT4	68	0.322	2.548E-11	0	57	59	1	59	68
+PYVHIRVTdEGVSAEHKRQLIEQTTRMLQQVLGKPPASTFVVIEEVPTDNWGVGGETVT----------------------------------------------------------------------------
+>A0A562ZEM0	68	0.300	2.548E-11	0	58	59	1	60	69
+PYVNIQVTrEGVTREQKAQVIAGVSDVLHRVLGKDPAITYVVIEEVEPDNWGVGGLPLPE---------------------------------------------------------------------------
+>UPI001BD1E36C	68	0.333	2.548E-11	0	58	59	1	60	70
+PYVNVRITkEGNTPEQKAQVIAEITETLERVLGKPPEVTFVVIDEVPMEDWGYKGLPTSK---------------------------------------------------------------------------
+>A0A1G9PGU3	68	0.316	2.548E-11	0	58	59	1	60	72
+PIVKIEVTrEGVTKAQKQALIKGVTDLITEVLNKDPQLTHVMIQEYDLDNWGYAGEQVSE---------------------------------------------------------------------------
+>A0A532EPE7	68	0.283	2.548E-11	0	58	59	1	60	72
+PYVHIQVTrEGVTVEQKEALIKGATDLLVRVLNKNPAHTFIVIEEVDTDNWGVAGMSVTK---------------------------------------------------------------------------
+>A0A6B8M7K2	68	0.327	2.548E-11	0	57	59	1	58	73
+PVITIRIGKGRPIEKKRALAEAVTKAVVEMLDVQPEWVTVLIDEYERENWATGGRLHA----------------------------------------------------------------------------
+>A0A8J2YLJ7	68	0.379	2.548E-11	0	54	59	1	58	74
+PYVNIKVTGGSeapSAEQKAELIREVTDVLVRVLGKNPATTTVIIEEIPMDNWGMGGE-------------------------------------------------------------------------------
+>A0A1L3ZVJ8	68	0.457	2.548E-11	0	58	59	1	59	77
+PIVEVHIMEGRSVAQKRAMVAAVTQAVSETMAAPLSAVRVIIHELVPEHYGIGGTTVGE---------------------------------------------------------------------------
+>UPI001F219000	68	0.372	2.548E-11	0	58	59	1	59	79
+PLVEVTLVEGRSPSQLRALIGEVTRAVARTADAPPEAVRVIVREVPASHWAAGDVTIQE---------------------------------------------------------------------------
+>A0A7W1P683	68	0.327	2.548E-11	0	58	59	1	61	80
+PYVNIKITRegGTTPEQKGDLIKGVTDVLVAVLDKSPSSTFVVIDEVDLENWGIGGMPVNE---------------------------------------------------------------------------
+>A0A4V2Y944	68	0.322	2.548E-11	0	58	59	1	59	103
+PLVQISLAAGRPPGQIRDLISEVHDAVVRATGTDPARVRVLVQEIPPAHWAAGGVTLAE---------------------------------------------------------------------------
+>A0A8G8VZF1	68	0.357	3.504E-11	0	55	59	1	56	59
+PFVHIEMLAGRTAEQKAQLVKDVTEAVMKNTGAPGENVHVIFRDMEPSDYAQNGQL------------------------------------------------------------------------------
+>A0A7X7CKS3	68	0.309	3.504E-11	0	54	59	1	55	59
+PVVDITMWKGRTVQQKSELAKSITDEMVRIFKVKEDSVQVIYHEIEKENWVIGGK-------------------------------------------------------------------------------
+>A0A2I1XP82	68	0.363	3.504E-11	0	54	59	1	55	59
+PFVHIELIKGRSPEQLENLMKDVTDAVHKNTGAPKEHIHVIINELGPHTYGQGGQ-------------------------------------------------------------------------------
+>A0A430AN51	68	0.436	3.504E-11	0	54	59	1	55	59
+PIVHIELIEGRTQEQKDAMVRDVTDAIVKNTGAQKENVHIIISDMAKGNYAVGGE-------------------------------------------------------------------------------
+>A0A2B9B725	68	0.406	3.504E-11	0	58	59	1	59	60
+PIIQIQLIEGRSTEFKKKLMREINEVVCRILDVHPAQVRILINEFEKENWSVGGVAKDE---------------------------------------------------------------------------
+>A0A165P3T2	68	0.428	3.504E-11	0	55	59	1	56	60
+PIIHVHVIEGRSDEQLSELMETLTVAAAESLDVKIEQVRVLIQEVPNKHWGVGGKP------------------------------------------------------------------------------
+>A0A0F5Q125	68	0.288	3.504E-11	0	58	59	1	59	61
+PEIYVYAVEGRTSEQKRGLMKDITDAVVKNFGTDPENVTVQIIEAPKDSKAKGGIPFSE---------------------------------------------------------------------------
+>A0A6N8B9D0	68	0.396	3.504E-11	0	57	59	1	58	61
+PIVQIDMLDGRTTEQKRKMAQEVTEAIAKNCDCPAEAVIIVLRESPREHIAKAGKLMS----------------------------------------------------------------------------
+>A0A523VUT4	68	0.474	3.504E-11	0	58	59	1	59	62
+PLVKIDMWEGRSEETKEKLIRDVSDAVARTLDISLDHVTVILYDVPKSNWGIKGVSCSK---------------------------------------------------------------------------
+>A0A8B0UAD0	68	0.482	3.504E-11	0	57	59	1	58	62
+PILQVHLLKGRTADQKRQLVREVTEAVSRSLDVRPDQVRIILSEMDREDYAIAGTLVA----------------------------------------------------------------------------
+>A0A135L6Q7	68	0.350	3.504E-11	0	56	59	1	57	63
+PFVTIELIEGRSPEQKRELVEKITKVVTETVNVPAESVYVFIEDLKKDHFARNGKLV-----------------------------------------------------------------------------
+>A0A2C9ELG7	68	0.285	3.504E-11	0	55	59	1	56	63
+PYINLQITKGATRQQKAQLVKEFTESLVRVLGKKPEHIHIVIQEIDGSDWGFAGEL------------------------------------------------------------------------------
+>J5N2A0	68	0.271	3.504E-11	0	58	59	1	59	63
+PILKVEMLSGRTKEQKRELAKALTAEMARVTGNRPETIQVIFAETSSANWATGGVLLDE---------------------------------------------------------------------------
+>I6X9J7	68	0.543	3.504E-11	0	56	59	1	57	63
+PIMQVFLVEGRSEEQKARLIAALTDAAVSSLQAPIESVRVIINEMPKTDFGIAGKTA-----------------------------------------------------------------------------
+>A0A847ZTQ8	68	0.293	3.504E-11	0	57	59	1	58	64
+PVIKVEMFEGRSADQKRAFAKAITDAFVETCGGTAQSVTVIYADVEKSDWAVAGRLAS----------------------------------------------------------------------------
+>UPI001290BF9C	68	0.310	3.504E-11	0	57	59	1	58	64
+PTFHIELFEGRTTEQKRAFVRAITEATCQSLGVAANTIDIILNEVKRENWATGGRFWS----------------------------------------------------------------------------
+>A0A4Q9DTB2	68	0.396	3.504E-11	0	57	59	1	58	64
+PIVNIQILEGRPASKVKALISRVTDTVAEELEVPKERIRVLVTEVPKTHWGIAGVPVS----------------------------------------------------------------------------
+>A0A8F0GNQ2	68	0.322	3.504E-11	0	58	59	1	59	65
+PMIRVEMFEGRTPEQKSAFARAMTEAFVTTCGGTAQSVHVVFADVAKGDWAVAGRLCSE---------------------------------------------------------------------------
+>A0A6L6YIJ7	68	0.322	3.504E-11	0	58	59	1	58	65
+PVVNIQMFEGR-DEAKPAIAKAVTDAIAEHTNVDPQYVYVIFNDVKTENWAISGELFSE---------------------------------------------------------------------------
+>A0A1M3LH74	68	0.389	3.504E-11	0	58	59	1	59	65
+PIIQVSIAEGRRPEQIRELIRGVTGAVAEALEAPVETIRVVVSEVPLTHWGSGDQTLAE---------------------------------------------------------------------------
+>UPI001BD9151A	68	0.285	3.504E-11	0	55	59	1	56	66
+PYVNIQITQGATRAQKQALVKDVTASLAKHLGKKPEYTHVVIQEIADENWGFAGQL------------------------------------------------------------------------------
+>A0A521VXQ7	68	0.418	3.504E-11	0	54	59	1	55	66
+PIVDITMIEGRTAEAKAKLIAKVTDAVVEAIGAPPEAVRVILRELPGSHFGVAGV-------------------------------------------------------------------------------
+>A0A3M7TPJ8	68	0.518	3.504E-11	0	53	59	1	54	66
+PIAHIHILEGRSREQKQHLIQDITTAISENLDVPGERVKVLLHEMPHENWGSNG--------------------------------------------------------------------------------
+>UPI000FFF2E50	68	0.327	3.504E-11	0	57	59	1	58	66
+PTVRVELCTGRSQEQKAQYVKEVTRLTADVMKCPPESVDVMFTEIAPENWAHGGRFYS----------------------------------------------------------------------------
+>A0A7W8JXI7	68	0.290	3.504E-11	0	58	59	1	60	67
+PYINVRLT--RkdiTTEQKARIVREITATMQSVLGKRPESVHVVIDEIDPDNWGYAGELTSE---------------------------------------------------------------------------
+>A0A3B7A814	68	0.305	3.504E-11	0	57	59	1	59	67
+PYVNIKITrEGATPEQKARLIQGATQLLVDVLGKNPKTTIVVIDEVDTDNWGVAGESIS----------------------------------------------------------------------------
+>W5WCE1	68	0.362	3.504E-11	0	57	59	1	58	67
+PLIHVNQPTGQTTEQKAAIVRELTEAYVRATGGKPESVWVTIEETAKDNWGIAGETLT----------------------------------------------------------------------------
+>A0A1M6R725	68	0.305	3.504E-11	0	58	59	1	59	67
+PLIQVTLAKGRTPEQLRALGQALTDAAEQAIGAKRETIRVVITECEPEHWFAGGETLAE---------------------------------------------------------------------------
+>A0A662CDL5	68	0.366	3.504E-11	0	58	59	1	60	67
+PFVNIKIARnGVTQEQKARLIRGVTDLIQEVLGKSPSSVMVMIEELDPEDVGLGGETVAE---------------------------------------------------------------------------
+>UPI000C08000A	68	0.444	3.504E-11	0	53	59	9	62	69
+PIVTVQMLEGRSDDQKRALVEKVTAAVSETIDAPKERISVVIDEMKPTNFGVAG--------------------------------------------------------------------------------
+>A0A7V8VAA7	68	0.350	3.504E-11	0	55	59	1	57	71
+PIITIQITdEGTSRQQKAELIRGVTDVVVHVLSKPPELTHVVIQEISTDNWGVAGLP------------------------------------------------------------------------------
+>A0A8J7ILY6	68	0.293	3.504E-11	0	57	59	1	58	71
+PFVTVKISRGHSIEKKRRLVEAITNALVSALDTKPEWVTIHIDEFERENWAVGGLLHS----------------------------------------------------------------------------
+>A0A1H7W935	68	0.322	3.504E-11	0	57	59	1	59	72
+PFISVRITkEGNTPEQKAQVIREITDTMERVLGKPPEVTHIVIEEVAMEDWGYRGVPTS----------------------------------------------------------------------------
+>A0A846U5I3	68	0.283	3.504E-11	0	58	59	1	60	74
+PFIRIEVTrEGVTPQQKQQLIADATEMMVRVLGKDPATTFVIIDEVETDNWGVAGRTVTE---------------------------------------------------------------------------
+>A0A6I2KSW2	68	0.338	3.504E-11	0	57	59	1	59	75
+PFVNIRVTnEGVTAEQKQELIQGVTELLQRVLNKNPATTFVIIDEVETDNWGVGGTAVT----------------------------------------------------------------------------
+>A0A354SE27	68	0.363	3.504E-11	0	54	59	20	74	84
+PFIQVTMLEGRTVEQKQELMRKLNSAAAEVLGGDPNRIRIALIEVTGDDWGIGGE-------------------------------------------------------------------------------
+>A0A2E5L2I9	68	0.305	3.504E-11	0	58	59	26	84	87
+PVVNVAMYAGRTDQQKADLAKAITKAISETAEIPDSATTVIFQEVEKTAWAVGGVMVSE---------------------------------------------------------------------------
+>UPI00128B417E	68	0.431	3.504E-11	1	58	59	30	87	94
+-VIKLTMMEGRTSEQKEALIRRLSEAAAVELDCPPEEVRMVIYEVSRQEWGIGGKSVAK---------------------------------------------------------------------------
+>A0A3S0TAY2	68	0.288	3.504E-11	0	58	59	55	113	115
+PTIQVQMLLGRSREQKREMAEVFTREMARIAKCGESDVQIIFDEVPKENWAVGGVLNDE---------------------------------------------------------------------------
+>A0A4Y4CU50	68	0.473	3.504E-11	0	56	59	1	57	128
+PFAQVHITEGHSPEQKRVLIEKITQAVHDSIGAPKPNIRVWLRELPKTDYGIGGELV-----------------------------------------------------------------------------
+>A0A847J4J8	67	0.482	4.817E-11	0	55	59	1	56	57
+PIVEVTLIEGRTFEKKKKMVEEVTNAIVSSLGAPREAVRVIIREVPAWHFAAGGEL------------------------------------------------------------------------------
+>A0A374JJZ6	67	0.438	4.817E-11	0	56	59	1	57	58
+PLVHIELLEGRSLEQKEALVKDVTEAIVKNTGAKTENVHIVISDMTKGNYAVGGKMA-----------------------------------------------------------------------------
+>A0A430AL26	67	0.446	4.817E-11	0	55	59	1	56	59
+PIVTVNLVEGRTQEQKNGLVKDVTEAIVKNTGAPAGNVHVIINDMKKGDYAVGGEM------------------------------------------------------------------------------
+>A0A1N6FJA9	67	0.339	4.817E-11	0	55	59	1	56	59
+PLVHVELVEGRTAEQKAGLVKDITQAVVKNTGATEDRVHVIIEDMKKSNYAVGGKL------------------------------------------------------------------------------
+>A0A5A9E603	67	0.446	4.817E-11	0	55	59	1	56	59
+PIAYLHILEGRSPEVKEELVKSLTQSICECLKTNPEQVRILINEVPKGNWAVGGTL------------------------------------------------------------------------------
+>UPI001CCDC893	67	0.389	4.817E-11	0	58	59	1	59	61
+PFVTVELVEGRSEEQLKKIIEEVTEVVSRNSGAPKEKVHVFIEELKKDRYAVAGKLISE---------------------------------------------------------------------------
+>A0A0F2QBG7	67	0.464	4.817E-11	0	55	59	1	56	61
+PIVQIEMIEGRTLEQKRNLVKNVTAAICESVDCPKENVSIIIREMSKEHSAKAGIL------------------------------------------------------------------------------
+>A0A0L8QUC8	67	0.338	4.817E-11	0	58	59	1	59	61
+PLVQVSWWKGAGTDQRRQLVEEVTETVARIAKCPEAAVTVIVNDVETDHWGRGGTLASE---------------------------------------------------------------------------
+>A0A2N0KT67	67	0.293	4.817E-11	0	57	59	1	58	61
+PIVRIEMWPGRSHAQKAELARVITDAMVNITQTTPDSTIIVFEDIPKDNWAQNGMLAS----------------------------------------------------------------------------
+>A0A430B1P6	67	0.436	4.817E-11	0	54	59	1	55	61
+PIVHIELLEGRTQEQKNEMVKEVTEAIVRTTGAKEEAVSIVISDMSKGNYAVGGK-------------------------------------------------------------------------------
+>UPI00036EE399	67	0.431	4.817E-11	0	57	59	1	58	61
+PIVQIDLIEGRTVEQKRELVKRVTEAISETAACPTSAVTIIMRDMPKENLGQGGKLRA----------------------------------------------------------------------------
+>A0A4U8V6Z7	67	0.293	4.817E-11	0	57	59	1	58	62
+PVIRVEMLAGRTDEQKRTFAREVTKLACETFNCKPDTLHVVFSEIPRNSWATAGTLQS----------------------------------------------------------------------------
+>A0A6N7Z724	67	0.355	4.817E-11	0	58	59	1	59	62
+PIVEINLIEGRPPEKIRELIRRVHDAVEGALEAPASSIRILVREIPPAHWAAGGVTKDE---------------------------------------------------------------------------
+>UPI0006612738	67	0.339	4.817E-11	0	55	59	1	56	62
+PVINVKLIEGRTVEQKRAMVKAVTRAVSESLGVAESAIWISIEDMKPENFAQGGEL------------------------------------------------------------------------------
+>UPI0015B9B4AA	67	0.526	4.817E-11	0	56	59	1	57	63
+PIMQVFLIEGRDEEQKARLIAALTEAVVESIQAPRESVRVIITEMPRTDFGIAGKTA-----------------------------------------------------------------------------
+>A0A0D5LXT1	67	0.440	4.817E-11	0	58	59	1	59	63
+PTVHVYMMSGRTSQQKEALISEVTDAVVSSISAPKENVRVIISEVPKSEYGIGGVTGEK---------------------------------------------------------------------------
+>A0A1I2EAK6	67	0.406	4.817E-11	0	58	59	1	59	63
+PIAHIHILEGRTTEQKKKLIEEVTGAIHSSIGADKSKIKILLHEIPEDDWATGGITKRE---------------------------------------------------------------------------
+>UPI0018690B7E	67	0.457	4.817E-11	0	58	59	1	59	63
+PTVHVYMMSGRTQQQKEALISEVTDAVVSSVSAPKENVRVIISEVPKSEYGIGGITAEK---------------------------------------------------------------------------
+>UPI000414FE1D	67	0.440	4.817E-11	0	58	59	1	59	63
+PTVHVYMMSGRTQQQKEALISEVTDAVVSSVSAPKENVRVIISEIPKSEYGIGGVTGEK---------------------------------------------------------------------------
+>UPI001BD67796	67	0.508	4.817E-11	0	56	59	1	57	63
+PIMQVFLIEGRDEEQKARLIAALTDAAVESIQAPRESVRVIITEMPKTDFGIAGKTV-----------------------------------------------------------------------------
+>A0A8I1NYL6	67	0.288	4.817E-11	0	57	59	1	59	64
+PLVKIELFPGRSPEKKAELAREITATLERVAGIKPEATTVMFAEVKPEDWFVAGEaLGS----------------------------------------------------------------------------
+>D6Z9Z6	67	0.305	4.817E-11	0	58	59	1	59	65
+PLVDVSLKAGRSPEQLRELIAELTATVQRVLGSPPEAVSVILREVAPTHWANANTTLAE---------------------------------------------------------------------------
+>UPI00115C75B2	67	0.464	4.817E-11	0	55	59	1	56	65
+PVVDITLIEGRTPEKKLALIRKVTEAVVEAIDAPRDSVRVILREVPGEHFAAGGNP------------------------------------------------------------------------------
+>A0A1P8F732	67	0.288	4.817E-11	0	58	59	1	58	65
+PVITVEMHEGRSIAQKKQLVEGITNEFVKI-GTPAEKVTIIFRDVAKTNWASGGKLSSE---------------------------------------------------------------------------
+>A0A2I7N3J6	67	0.237	4.817E-11	0	58	59	1	59	65
+PYINLQITKGATKDQKKQIVAEFSQTLVNVLGKKPEHIHIVIQEIELDDWGYAGQLTSE---------------------------------------------------------------------------
+>UPI001C3DF030	67	0.406	4.817E-11	0	58	59	1	59	66
+PIVEMTLIEGRTFEKKKAMVEAVTDAIVTTLGAPRETVRIVIREVPAWHFAAGGELKGK---------------------------------------------------------------------------
+>A0A847BUB7	67	0.333	4.817E-11	0	58	59	1	60	66
+PYVNIKITqEGATKEQKAKLIEGVTKLLVDTLGKNPATTIVVIEEIPVENWGIGGKSVEK---------------------------------------------------------------------------
+>A0A1F8Q8X2	67	0.310	4.817E-11	0	57	59	1	57	66
+PVVIVEMWEGRTIDERRQLARDLTDAFVKI-GVPADAVNVIIKENPKSCWATGGQLCS----------------------------------------------------------------------------
+>A0A832M6X8	67	0.232	4.817E-11	0	55	59	1	56	67
+PYINLQIIRGATREQKQRIVEEFTASLVKHLGKKPEHIHIVIDEVEEENWGFAGML------------------------------------------------------------------------------
+>I3ZBD1	67	0.293	4.817E-11	0	57	59	1	58	67
+PVIHVHMLGGASHEQKAQIAKEFTDTLVRVLGSNPQMTHIILDEQNPENWANAGELIS----------------------------------------------------------------------------
+>A0A2S0VQV6	67	0.300	4.817E-11	0	58	59	1	60	67
+PYINIKVTnEGVTPEQKAELVAGATNLVQQVLDKDPSTIFVIIDEVDTDNWGIAGRLVTE---------------------------------------------------------------------------
+>A0A8J8CPF5	67	0.322	4.817E-11	0	58	59	1	58	68
+PIVHVHVWEGFSEEKKKQVIEGITKMFVD-MDIPKQAVHIVIHETPKVNWGIDGKPATE---------------------------------------------------------------------------
+>A0A5M8FE65	67	0.310	4.817E-11	0	57	59	1	58	68
+PLIQATVIQGRTLAQKEAFYEGVTRVAAETLGVKPEQVRVVLTEVPAEHWAIGGVTKA----------------------------------------------------------------------------
+>UPI001F09F9ED	67	0.416	4.817E-11	0	58	59	1	60	68
+PIAHIHILEGRDAEQKQKLIEGVTNAMCHTLHADRSKIKVLLHEVPKENWGSAGMTkRSE---------------------------------------------------------------------------
+>UPI0012BBA9B4	67	0.237	4.817E-11	0	58	59	1	59	68
+PYINVQITKGASRDQKRTIVKEMTETLVKTLNKSPEHIHIVLQEIEQEDWGYSGMLTDE---------------------------------------------------------------------------
+>A0A2D5VV74	67	0.316	4.817E-11	0	58	59	1	60	68
+PYVNIKVTDlGVTRAQKAELIAGVTQLLKEVLDKDPASTFVVIDEVNTDNWGTGGEQVSE---------------------------------------------------------------------------
+>A0A095ARB8	67	0.396	4.817E-11	0	57	59	1	58	68
+PIIEVTLLEGRTPEAKEALVAALTDAAVSAVGAPIESVRVILREVPAAHFAVGGQSFA----------------------------------------------------------------------------
+>B0VXM5	67	0.474	4.817E-11	0	58	59	1	59	68
+PIVQVQLFGSLTVEQKEALIKETSDAVARVLHAPLNTIRVLIQEMPAENWGIAGESAQK---------------------------------------------------------------------------
+>H5U3H9	67	0.338	4.817E-11	0	58	59	1	59	68
+PFIDVTIAQGRSPEQIRTLMHELTEAAHRAIGAPIANIRVVVREVPTTHWAAGDVTVAE---------------------------------------------------------------------------
+>UPI001F48FC80	67	0.350	4.817E-11	0	58	59	1	60	68
+PYVLIQVTdEGVTREQKAELVRGSTELLQRVLGKDPKLTFVVIDEVATDNWGVAGELVSE---------------------------------------------------------------------------
+>A0A543DS20	67	0.300	4.817E-11	0	58	59	1	60	70
+PFVHVSITRdGTSLAQKRQLVREITDTLERVLGKQPDLTHIVIAEVDTDDWGHGGELVTE---------------------------------------------------------------------------
+>A0A6P0S7N0	67	0.232	4.817E-11	0	55	59	1	56	70
+PYINLQVTKGASREQKKQIVKDFTDSLVRHLGKKPEHIHIVIDEIDEENWGYSGML------------------------------------------------------------------------------
+>UPI000C828CAD	67	0.338	4.817E-11	0	57	59	1	59	71
+PYVNIKVTrEGVTAEQKKRLIEGTTDLLYQVLDKPKSTVFVVIDEVETDNWGVGGETVT----------------------------------------------------------------------------
+>UPI001EFDDA0F	67	0.338	4.817E-11	0	57	59	1	59	72
+PFINIHLTrEDATQEQKARLIEGVTDLVTTVLGKNRATTFVIIDEVETDNWGIGGEPVT----------------------------------------------------------------------------
+>A0A366ZS76	67	0.288	4.817E-11	0	58	59	1	59	72
+PLVEVTLGAGRTPEQVRALMHELHEAVARTVGARSDHIRVVVREVPREHWATGDVTLSE---------------------------------------------------------------------------
+>A0A1H4EY26	67	0.271	4.817E-11	0	57	59	1	59	72
+PFIKIELTrEGVTREQKQQLIKGITDLFTDILNKDPQLTHISIQEVELDNWGYAGEQVS----------------------------------------------------------------------------
+>A0A7V6YTC1	67	0.224	4.817E-11	0	57	59	1	58	72
+PFITIKLAKGRTIEQKQQFVEAITQEAVKTLNVKKEWITVVFDEYERENWATDGQLHS----------------------------------------------------------------------------
+>A0A7W0RG24	67	0.305	4.817E-11	0	58	59	1	59	73
+PFVTIEWFEGRSDEQKRAIAERVTNALAEVGEVPADQVWIRFVDASRADWAIGGEIQGE---------------------------------------------------------------------------
+>UPI00167EFF1B	67	0.263	4.817E-11	0	56	59	1	57	73
+PIVTVDWWTGFGEDERRRLVRSLTDSVVEVTGCRPDSVTVIVRDIAPDHWARGGVLA-----------------------------------------------------------------------------
+>UPI001BA62DA2	67	0.389	4.817E-11	0	58	59	1	59	74
+PVIDITLGPGRSPARLRALVREVTEATHRSIGAPVDGIRVFVREVPDTHWSVAGVLASE---------------------------------------------------------------------------
+>A0A3B0AUN9	67	0.275	4.817E-11	0	57	59	1	58	76
+PVISVDMLRGRTDAEKAALARELTDAFQRTCGSARERIYVVIHDIPQEDWAVGGEMCT----------------------------------------------------------------------------
+>A0A839AFE8	67	0.300	4.817E-11	0	58	59	1	60	79
+PYVNIRITrEGVTEDQKRALIKGATDLLVDVLNKNPATTIVTIDEVEFENWGIGGLPAEE---------------------------------------------------------------------------
+>UPI001C8B8BAB	67	0.275	4.817E-11	0	57	59	1	58	79
+PYVRIEAIAGATRDQKAALVADVTQAVVAHLGKKPEQVWVVIDDVPADNWGVAGGLAA----------------------------------------------------------------------------
+>A0A7K0TNV0	67	0.285	4.817E-11	0	55	59	11	66	81
+PLVHIEWFPGRTVDQKREVIEVLTSELSRIGNCLPETITVIFTEVSRENWGRNGRL------------------------------------------------------------------------------
+>A0A411YHU5	67	0.396	4.817E-11	0	57	59	1	58	84
+PIVEMKILEGRPPERVQELIAEVTRAVTGSLGVAPEQVRVLVTEVPPTHWGVAGTSKA----------------------------------------------------------------------------
+>A0A7D5ENJ5	67	0.333	4.817E-11	0	58	59	45	104	112
+PYVNIKVTDlGVTRQQKAELIARVTQALQDVLDKDPASTFVVIDEVNTDNWGSGGEQVSE---------------------------------------------------------------------------
+>G7H2P0	67	0.410	6.623E-11	0	55	59	1	56	59
+PLIQISQTPGLSDAIKRETIAAVTEAYARATGKNPDSVWVTITEVPRNHWGVGGEP------------------------------------------------------------------------------
+>A0A7V9VNZ1	67	0.339	6.623E-11	0	55	59	1	56	59
+PIITVEWYEGRSAEQKAEIARKLTDLLVDVGKTQREHVWVRFVESPKSEWAIGGEL------------------------------------------------------------------------------
+>A0A0V8HL70	67	0.372	6.623E-11	0	58	59	1	59	60
+PIIHIEILEGRSDEKVRELINGITKITVQTLNVKPDQVRVIIHPIPRRYWGVGGITKEE---------------------------------------------------------------------------
+>UPI00083E509C	67	0.406	6.623E-11	0	58	59	1	59	60
+PFVRIDLFEGRSLEQKKALAKEVTAAVVKHTGAPKEAVHVIINDMPEGTYFPQGEMRTK---------------------------------------------------------------------------
+>UPI000F7B13D5	67	0.396	6.623E-11	0	57	59	1	58	61
+PLVHIELIEGRNHEQLKGMVKDVTEAISKNTGAPKEHIHVVLSEMKKEHYAVGGVLKS----------------------------------------------------------------------------
+>A0A0S7WME6	67	0.474	6.623E-11	0	58	59	1	59	61
+PIVRIETWEGKTDAQKEQLIQRVSKCVADSLDVSLEHVHVVIYDVPKANWGIKGEQASK---------------------------------------------------------------------------
+>A0A0K8J9T4	67	0.379	6.623E-11	0	57	59	1	58	61
+PVVQIDMAEGRTTEQKRELAKKVTVAIAETAKCPPEAITIVIRESAKQHIAKAGILMS----------------------------------------------------------------------------
+>A0A1B9M594	67	0.362	6.623E-11	0	57	59	1	58	62
+PNVTIDFLEGRTVEQKREMAKRVTDAIVETLNCKAEAVQIIMHEISKDQIANGGVLRS----------------------------------------------------------------------------
+>A0A353N2V0	67	0.272	6.623E-11	0	54	59	1	55	62
+PVVRVDLWSGKSQEFKAELAKAITDAVVQKVGCPVEAVTVKIEESPAENWMIGGK-------------------------------------------------------------------------------
+>UPI001A9568AD	67	0.300	6.623E-11	0	58	59	1	60	62
+PYINIKVTDtGVTPEQKAQLIAGATELLVKVLNKKPETTFVIIDEINTDNWGIGHKQVSE---------------------------------------------------------------------------
+>UPI000B43EEBB	67	0.406	6.623E-11	0	58	59	1	59	63
+PIIQIQMLEGRSTELKKELMKEINEVVCRTLEVLPVQVKVLINEYPKGNWSTGGVTKAE---------------------------------------------------------------------------
+>UPI000419427B	67	0.448	6.623E-11	0	57	59	1	58	63
+PLVQISILEGRPQEAKKRLIEAVTEAVVHTLDANPGAVRVLLYEVPAAHWGVGGVTKA----------------------------------------------------------------------------
+>A0A6I5I7N2	67	0.338	6.623E-11	0	58	59	1	59	64
+PLIEVTLVEGRSPQQLRALITSVTDAVETSVGAPRDSIRVIVREVPPTHWAAGDVTIEE---------------------------------------------------------------------------
+>A0A0R1J8I8	67	0.396	6.623E-11	0	57	59	4	61	64
+PLVHIELIEGRSQEQLKSMVEDVTEAISKNVGAPKENIHVVLNEMKKDRYAVGGVLKS----------------------------------------------------------------------------
+>A0A1Y5E011	67	0.396	6.623E-11	0	57	59	1	58	64
+PIIRIEMFEGRDAAKKLELVQALTTEAVRILGGTKDGVHVVITDVAKDNWGVGGELAS----------------------------------------------------------------------------
+>A0A7C6QH97	67	0.303	6.623E-11	0	55	59	1	56	64
+PIIQVDWVEGRTVEQKRALVKKITDVVCECANCTPDRVTVIINDIPKSNHAKAGVL------------------------------------------------------------------------------
+>UPI001E34FB23	67	0.431	6.623E-11	0	57	59	1	58	65
+PIIHAHVLAGRGSEQKAAFARAVTEAAALHLGAPPAAVRVLIHETAPTDWFAAGEPKS----------------------------------------------------------------------------
+>C0LTT5	67	0.288	6.623E-11	0	58	59	1	59	66
+PLIRVTLLEGRSPQEVAALGEALTAAAHETLGTPVEAVRVIVEETPPERWFVGGRSVAE---------------------------------------------------------------------------
+>UPI0018845230	67	0.431	6.623E-11	0	57	59	1	58	66
+PIVNISILEGRDDAAKARLIAEVTDAVEHSIGASREAIRVLINEIPASHWGTAGVPKS----------------------------------------------------------------------------
+>A0A2J6N073	67	0.389	6.623E-11	0	58	59	1	58	66
+PVVHVNVWEGFGAEKTKTLIRNITRAF-EDLGIPKQAVEVIVHEIPKSHWGIGGETAAE---------------------------------------------------------------------------
+>UPI00146A740E	67	0.355	6.623E-11	0	58	59	1	59	67
+PLIQVTIGRGRSPEQLNALGQAITDAVESSIGAKRESIRVVLTECEPEHWFVGGETLAE---------------------------------------------------------------------------
+>A0A0F2PHT7	67	0.305	6.623E-11	0	57	59	1	59	67
+PFVNIKITKdGATVEQKQQLIAGVTNLLVNIMGKNPQTTVVVIEEVDTDNWGIGGESVT----------------------------------------------------------------------------
+>A0A7J5BEF6	67	0.406	6.623E-11	0	58	59	1	59	67
+PFISVTVTEGRSDEQLRRLITELTEATVRAIDAPKQNVRVVIHEVPETHWAAGDVTIQE---------------------------------------------------------------------------
+>UPI001B0F531A	67	0.300	6.623E-11	0	58	59	1	60	67
+PYVNIRITrEGATAAQKAQLIRGATQLLADVLGKDPRSTVVVIDEIDPDNWGFAGETTTE---------------------------------------------------------------------------
+>A0A7Y4Y2Y2	67	0.300	6.623E-11	0	58	59	1	60	68
+PYVNIKITRdGVTREQKAALIAGATRLLVDVLAKNPETTVVVIDEIDTDHWGIGGMPVTE---------------------------------------------------------------------------
+>UPI001BDBBA86	67	0.266	6.623E-11	0	58	59	1	60	68
+PYVNVKITRERaTPEQKAEIIKGVTQLLVDVLDKDPATTFVVIDEVELEDWGVGGVPVME---------------------------------------------------------------------------
+>A0A7C5TR33	67	0.389	6.623E-11	0	58	59	1	59	68
+PVVRIDLWQGRSPEMKEELIVKVTDAVCESLEVQKEDVFVILNEVSKDNWGMHGKTAAK---------------------------------------------------------------------------
+>A0A7X9ZXE2	67	0.316	6.623E-11	0	58	59	1	60	69
+PYVNIKITdEGVTREQKKQLIAGVTEVLQKTLGKNPKTTTVVIDEINVDNWGMGGLPVPE---------------------------------------------------------------------------
+>UPI0012B5E005	67	0.338	6.623E-11	0	57	59	1	59	69
+PYINIKVTdEGVTDDQKKRLIEGATTLLNQVLGKPRSSVFVVIDEVKTDNWGVGGETVT----------------------------------------------------------------------------
+>A0A656HN43	67	0.389	6.623E-11	0	58	59	1	57	69
+PLIQATIIAGRSQEQKEAFFEKVTAVAVETLCVKPEQVRVVINEVPAEHWAIGG--VSK---------------------------------------------------------------------------
+>UPI00065E1CC0	67	0.301	6.623E-11	0	58	59	1	63	70
+PYINIKITKeqGKvvTTEQKQALIKGATELLQNVLGKNPKTTVVVIDEVETDNWGIGGETITE---------------------------------------------------------------------------
+>A0A031JL77	67	0.288	6.623E-11	0	58	59	1	59	71
+PIISVVLAEGRTREQKRDLCRALTAAAISAVGARPEQVRIVIQETPLDNYAVAGVTFAE---------------------------------------------------------------------------
+>UPI000BBB7672	67	0.275	6.623E-11	0	57	59	1	58	72
+PIITVKLAKGRTAEQKQQFVEAITKEAAKTLQVNEEWVTVIFDEYNRENWASGGQLHS----------------------------------------------------------------------------
+>A0A837DZW6	67	0.287	6.623E-11	0	58	59	1	66	73
+PYVNIKVTReggpdgtGPSAEQKAQLIRGVTDLLQKVLGKSPATTFVVINEIPLEDWGIGGLPVQE---------------------------------------------------------------------------
+>A0A7G7MLP2	67	0.285	6.623E-11	0	55	59	1	56	74
+PFIRVDWFPGRTLEQKRELAEVLTREFSRIGDCKPETINFIFTEVDRESWGRNGKL------------------------------------------------------------------------------
+>A0A4V3HCX4	67	0.313	6.623E-11	0	58	59	1	67	78
+PIVTIQVTregsaPGRdavTPEEKAQLIKGVSDVLLNVLNKPLEATFVVIQEVEKENWGWGGLPVDE---------------------------------------------------------------------------
+>A0A3M1G0P4	67	0.362	6.623E-11	0	57	59	1	58	79
+PLIDISLIEGRAARQKRRLIELITEAAVAALAVRPQSVRVILREVPSTHWAVGGLPKA----------------------------------------------------------------------------
+>UPI00068E1F05	67	0.338	6.623E-11	0	58	59	1	59	88
+PLIEVTLVEGRTPKQLRSLIHELHGAAVRAIAAPPESVRVVIREVPPTHWAAGDVTIVE---------------------------------------------------------------------------
+>A0A0E8EFW5	67	0.310	6.623E-11	0	57	59	29	86	91
+PTVRVELSPGRSAEQKTRYMQEVTRLTVEILKCPVESVDVIFIEIPPTEWAHGGKFYA----------------------------------------------------------------------------
+>UPI000A6446BD	67	0.293	6.623E-11	0	57	59	50	107	113
+PVVRITLIAGRSPEQKRKAAEAVTQALAEHLNSTPSQTQVIFEDVSPENWAIEGKLIS----------------------------------------------------------------------------
+>UPI000CD18662	67	0.327	6.623E-11	0	57	59	62	119	135
+PYVTALVLEGRPVEQRHRLLAALTDAVVTVLGSPRELVRAQIVEVPPDDWGIAGVPAA----------------------------------------------------------------------------
+>K8Z9T7	66	0.418	9.106E-11	0	54	59	1	55	58
+PFIHVELLEGRTPEQKKALIEDITEVVSKDADVPKERIHVIIRDMKHGDYGCGGE-------------------------------------------------------------------------------
+>A0A4P6U6H9	66	0.357	9.106E-11	0	55	59	1	56	59
+PLIQISQISGLTAAQKRETIAAVTKAYAEATGKDASSVWVTITEVPREHWGVGGEP------------------------------------------------------------------------------
+>A0A849IVV1	66	0.200	9.106E-11	0	54	59	1	55	59
+PLIQVSMFEGSSADDRRLLAKRLTDVVRETLNVSPEAISVVIYEVPPEDWAVAGK-------------------------------------------------------------------------------
+>A0A6N3C5S5	66	0.423	9.106E-11	0	58	59	1	59	60
+PFVRIDLFEGRTLEQKKALAKEVTEAVVRNTGAPKSAVHVIINDMPEGTYFPQGEMRTK---------------------------------------------------------------------------
+>UPI000369AF29	66	0.303	9.106E-11	0	55	59	1	55	60
+PIITIQQGP-QPVERKRELVQRITEAMVEAYGLPPESVQVWIHEVPADSWGKAGQL------------------------------------------------------------------------------
+>A0A1M3KPX4	66	0.372	9.106E-11	0	58	59	1	59	61
+PEILIHIAEGRSAESKKALMQDITDAVVKNFGVPPDRVVVQIVESPKHNKSRGGVLFSE---------------------------------------------------------------------------
+>R5BPD1	66	0.338	9.106E-11	0	58	59	1	59	61
+PIIHVELVEGRTFEQKKKLGEAITNATVDIVGVPKEAVKVIFTDMKKDNFMEAGVMRSE---------------------------------------------------------------------------
+>A0A317DS63	66	0.413	9.106E-11	0	57	59	1	58	61
+PIINVTLIEGRSQDDKRALIEELTNAAEKAIAVPRQSVRVIIWEVPAAHFGVAGVPKS----------------------------------------------------------------------------
+>A0A221P4I3	66	0.338	9.106E-11	0	58	59	1	59	61
+PLVQVNWWKGVGAAERRQLVEEVTETVARVAKCPEAAVTVIINDVETDHWGRGGRLASE---------------------------------------------------------------------------
+>A0A2D6N742	66	0.241	9.106E-11	0	57	59	1	58	62
+PHVTVQLLAGRTVDQKRACAEAITNAIVEHLNTTPDATSVVFQEVQRHDWASAGKLIS----------------------------------------------------------------------------
+>UPI000B81721F	66	0.362	9.106E-11	0	57	59	1	58	62
+PTLHVQLLEGRSAEQKRKFIDAVTKATCESLCVEPGTVDVVLSEIRPENWAKGGQLLS----------------------------------------------------------------------------
+>G9ZJ32	66	0.375	9.106E-11	0	55	59	1	56	62
+PIVNIKIVEGRSVEQKRALAKNVTRAVAESIGVPESAIWISIEDLKAENLAQGGEL------------------------------------------------------------------------------
+>A0A1F4Q3A3	66	0.298	9.106E-11	0	56	59	1	57	63
+PFVNIRIYEGHAKERKDEIARRVTEAICEATGLPKGAVWIVFEEIDPPNWYVGGKPG-----------------------------------------------------------------------------
+>A0A1A9KDW8	66	0.508	9.106E-11	0	56	59	1	57	63
+PILQVHLIAGRSEEQKARLIEALSWAAVETLGAPIESVRVIINEVPNTDFGIAGQTA-----------------------------------------------------------------------------
+>A0A4R1PTE8	66	0.508	9.106E-11	0	56	59	1	57	63
+PIMQVYLIEGRSEEQKARLIDALTRATVDALDAPIESVRVVITEVPNTNFGIAGQTA-----------------------------------------------------------------------------
+>UPI0016799A3F	66	0.456	9.106E-11	0	56	59	1	57	63
+PLIQVQLMEGRTDEQCAALIEALTEAAHTSIGAPRESVRITLIEIPKTHFGIAGKTA-----------------------------------------------------------------------------
+>UPI00166D723F	66	0.285	9.106E-11	0	55	59	1	56	64
+PYVNVKILQGASREQKKHLVEDITKSLVERLGKKPETIHIVIDEIADENWGFSGML------------------------------------------------------------------------------
+>A0A2E0BLS0	66	0.344	9.106E-11	0	57	59	1	58	64
+PLIRVEMFKGRTDEQKKVLVKELTDSFIKSCGGNRDAVDVIITDIEQKNWGKAGELYS----------------------------------------------------------------------------
+>A0A2P2ECP9	66	0.372	9.106E-11	0	57	59	1	59	65
+PLVQISLTPdGLTTQKKETLIRKVTDLLVEELGKNPDTTVVIITEVETDNWGIGGQSVS----------------------------------------------------------------------------
+>A0A7X7QJN1	66	0.203	9.106E-11	0	58	59	1	59	65
+PILRVSLWAGKTKDEKAKLAKALTDTMVATTKVPAEAVTIMFEELPKENWATGGQLHTE---------------------------------------------------------------------------
+>A0A524H6L8	66	0.254	9.106E-11	0	58	59	1	58	65
+PVITIEMHEGRTIAQKKQLVEGITAEFGKI-GTTPEKVTIIFRDVPKHDWASGGKLAAE---------------------------------------------------------------------------
+>A0A7J2SHH9	66	0.305	9.106E-11	0	58	59	1	58	65
+PIVHVFLWEGREEEQIKEMVKKMTKVFVD-MGIPENAVEILVHEVSKARWAIGGELASE---------------------------------------------------------------------------
+>A0A2H0P0T1	66	0.293	9.106E-11	0	57	59	1	58	66
+PFINIKMTPGPTAEQKARFIAEVTKLAAEVLGKNTATTHVVIEEVPADSWGIAGETVA----------------------------------------------------------------------------
+>A0A0Q6G5X7	66	0.258	9.106E-11	0	57	59	1	58	66
+PFVRIDWFPGRTLEQKRELVDVLTPQIARIAECKPETIQFIFTDVERENWGRNGKLFT----------------------------------------------------------------------------
+>A0A2G3K0Z1	66	0.316	9.106E-11	0	58	59	1	60	67
+PIVNIKVTPpGVSKEQKMELIAGVTKLLQDVLNKNPAQTFVVIEEVETDNWGAGGEQVTE---------------------------------------------------------------------------
+>A0A4Z0MXS3	66	0.389	9.106E-11	0	58	59	1	59	67
+PLVQVTLAEGRSPEQLRTLISKITAAVVEAVDAPQQNVRVVLYEVPKTHWGAGDVTLQE---------------------------------------------------------------------------
+>A0A3B1BZY8	66	0.300	9.106E-11	0	58	59	1	60	67
+PYVNVKITkEGVTAEQKEKLIEGATELLVDVLGKKRETIFVVIDEIDTDNWGVAGQSVTK---------------------------------------------------------------------------
+>UPI001AE4BF3B	66	0.305	9.106E-11	0	57	59	1	59	67
+PFINIKITDdNVTSEQKQQLIQGVTQVMVDVLGKNPERTFVVIDEVNTDNWGIGGESIT----------------------------------------------------------------------------
+>M1WW70	66	0.338	9.106E-11	0	58	59	1	59	69
+PIFRIETWSGLSSEKKKDLVESMTREAIRILGCPAEAVTVLIDERDKENWGAAGQLCSE---------------------------------------------------------------------------
+>A0A1T5G4V2	66	0.448	9.106E-11	0	57	59	1	58	69
+PIITVNLLTGRDQAKKSALIRELADAAVRALDVPLASVRVVLNEVPPEHWGIGNETKA----------------------------------------------------------------------------
+>A0A0W1DXF0	66	0.413	9.106E-11	0	57	59	1	58	70
+PIIEVTLLEGRTPEAKEALIAELTAAAVTAIGAPVESVRVILREIPPAHFAVAGQSIA----------------------------------------------------------------------------
+>A0A0B7MHQ9	66	0.303	9.106E-11	0	55	59	1	56	71
+PVVTVKMAKGRSLEVKRRLVAELTKVIADVLDVKPEWVTVLLEEYDRENWASGGNL------------------------------------------------------------------------------
+>UPI00037897B9	66	0.338	9.106E-11	0	57	59	1	59	72
+PFIQIDVTrEGVTRAQKQALISGVTDLITEVLDKDPHLTHVVIREVEPDDWGYAGEQVS----------------------------------------------------------------------------
+>UPI000DA6DB88	66	0.317	9.106E-11	0	58	59	1	62	74
+PLVNIRLAR-RdvptTAAQKAALIAGVTQLMQQVLDKRPESVTVIIDEIDPENWGQGGEPVTE---------------------------------------------------------------------------
+>A0A7D6NWA7	66	0.338	9.106E-11	0	57	59	1	59	75
+PYINIKVTdEGVTDDQKKRLIEGATTLLNQVLGKPRSSVFVVIDEIKTDNWGVGGETVT----------------------------------------------------------------------------
+>A0A0F5P786	66	0.440	9.106E-11	0	58	59	1	59	77
+PIVEVHIMEGRTVAQKRAMVAAVTEAVSTTMIAPASAVRVIIHELTPEHYGIGGTTVGE---------------------------------------------------------------------------
+>UPI0009754D40	66	0.355	9.106E-11	0	58	59	1	59	79
+PLIEVTLVEGRSPEQLRALIRNLVKAACDAVGAPIEAVRVVIREVPATHWAAGEETIAE---------------------------------------------------------------------------
+>A1TQA9	66	0.338	9.106E-11	0	57	59	1	59	81
+PLVHIHITrEGATAEQKAELIRGATDLLVRVLDKNPATTFVLIDEIETDNWGVAGRTVT----------------------------------------------------------------------------
+>UPI0017879E1A	66	0.293	9.106E-11	0	56	59	1	58	83
+PYVNIKITrEGVTPEQKAALIKATTDLLVDVLDKDPATTSVVINEVDLEDWSVGGMPV-----------------------------------------------------------------------------
+>UPI000998B14C	66	0.380	9.106E-11	0	58	59	1	63	84
+PVIQINLMEGRTEAQKEALMREVTRAAVDTLGVKPQAVRIMLNELRSGHYAVAGEPkyveASE---------------------------------------------------------------------------
+>A0A3B9DTY2	66	0.344	9.106E-11	0	55	59	28	85	97
+PYVNIKITqEGHvTPEQKAALIRGVTDLLANVLHKNPASTVVTIDEVPLENWGLGGDP------------------------------------------------------------------------------
+>A0A3D0IEF2	66	0.314	9.106E-11	1	54	59	62	115	123
+-IIEMKLFPGRTKEQKKDLIENITGALKERLSVDPSDVFIVIQEPPLENWGIGGK-------------------------------------------------------------------------------
+>A0A4Y4CU50	66	0.456	9.106E-11	0	56	59	66	122	128
+PFAQMFMMEGRTEEQKAAVIELVSQAFVTALGTALEKTRVWITEVPKTNWGIGGKTA-----------------------------------------------------------------------------
+>A0A5D4TYQ6	66	0.446	1.252E-10	0	55	59	1	56	59
+PIAHLHILEGRSPEVKEELVKSLTLSICECLETKPEQVRILINEVPKGNWAVGGTL------------------------------------------------------------------------------
+>A0A556UCZ7	66	0.418	1.252E-10	0	54	59	1	55	59
+PFVHIELIKGRSDEQLTNLMKDVTEAVHKNTGAPKEHIHVIINELDKHTYGQGGE-------------------------------------------------------------------------------
+>A0A1F4Q1K7	66	0.298	1.252E-10	0	56	59	1	57	59
+PVIKIGMWSGRDAATKEKLIQNVTKTVCDTLKCAPEAVIIIIEDIPKENWGQGGKPG-----------------------------------------------------------------------------
+>A0A0R1UGF6	66	0.400	1.252E-10	0	54	59	1	55	59
+PFVHIELIKGRTDEQLTNLMKDVTEAVHKNTGAPKEHIHVIIDELGKHSYGQGGE-------------------------------------------------------------------------------
+>UPI0016651634	66	0.310	1.252E-10	0	57	59	1	58	59
+PLIQISQTPGLSVEQKRATIEAVTRAYCDATGKSESAVWVVINEVPREQWGVGGTPLA----------------------------------------------------------------------------
+>A0A1F4TIY0	66	0.333	1.252E-10	0	56	59	1	57	59
+PLVKIELWPGRDKETKKKLIEKVSADVAEIIECPTEAVTVVIQDIPKENWGIAGKQA-----------------------------------------------------------------------------
+>UPI001CE3C235	66	0.321	1.252E-10	0	55	59	1	55	60
+PIVTVQQGP-RTIELKRDLVRKITDAFVEALEIPAEAVQVWIHETPADSWGVGGVL------------------------------------------------------------------------------
+>A0A2V6WJ35	66	0.271	1.252E-10	0	58	59	1	59	60
+PFVNITIYEGHGKDRKDEIARRVTDTITDVCKLPREAVWVVFNEVTPPDWYVAGKPGSK---------------------------------------------------------------------------
+>A0A1F4TAC8	66	0.310	1.252E-10	0	57	59	1	58	61
+PIIRIEMWKGRDEQTKGKLIAEVTKTVCEVAKCQPEKVIVVIEDIPKENWGEAGRQAS----------------------------------------------------------------------------
+>UPI001B836F25	66	0.321	1.252E-10	0	55	59	1	55	63
+PIVTVQQGP-RDVELKRDLVARITDAFVDALNVPAESVQVWIQEVPTDSWAIGGVL------------------------------------------------------------------------------
+>UPI001BEB481B	66	0.457	1.252E-10	0	58	59	1	59	63
+PTVHVYMMEGRTQAQKESLIRKVTDAVVSSVDAPEANVRVIISEIPKSDYGIAGTTGEK---------------------------------------------------------------------------
+>A0A3Q9D9A2	66	0.491	1.252E-10	0	56	59	1	57	63
+PIMQVHLIQGRSEAQKARLIEALTRAAVETLDAPIESVRVIINEVPNTDFGIAGQTA-----------------------------------------------------------------------------
+>H1S559	66	0.473	1.252E-10	0	56	59	1	57	63
+PIMQVFLIEGRTEDQKARLIRALTDAAVASIGAPVESVRVMITEVPNTQFGIAGKTA-----------------------------------------------------------------------------
+>A0A4Q1T7T0	66	0.418	1.252E-10	0	54	59	1	55	64
+PLIQVQVLEGRSSEQISRLIQQLTISAVESLEVKPEQVRVIVNEVPKSHWGVGGV-------------------------------------------------------------------------------
+>UPI000E49CFBD	66	0.293	1.252E-10	0	57	59	1	58	65
+PTFRIELFEGRSVEDKRRLVDAITRTTCETLGVTPGSVDIILVDVKRENWATGGRLWS----------------------------------------------------------------------------
+>A0A0B0IDY6	66	0.457	1.252E-10	0	58	59	1	59	65
+PIVNVNMMEGRPKEKIEKVIAEITETISSTLEVPKESVRVLVTEVPKSHWGIAGESVEK---------------------------------------------------------------------------
+>UPI0013716EA0	66	0.350	1.252E-10	0	58	59	1	60	66
+PFVNIHITRdGVSKEQKQQLISGVTRLLEEVLQKSPALTYIIITETDTDNWGVGGEQVTE---------------------------------------------------------------------------
+>A0A840VEV7	66	0.490	1.252E-10	0	54	59	1	55	66
+PIVEITLIEGRSFELKEKLVKEVTQAVVSSIGAPKEAVRVILREVPPWHFAAGGE-------------------------------------------------------------------------------
+>A0A2U0AIT8	66	0.283	1.252E-10	0	58	59	1	60	67
+PYINIKITkEGVSKQQKQQLIAGATQLLADVLGKNPATTFVTIEEVDTDNWGVAGEQVTE---------------------------------------------------------------------------
+>A0A1Q9NLK4	66	0.355	1.252E-10	0	58	59	1	58	67
+PIVDVKMWKGLSVEAAEKIISGITKVFVE-MGIPERAVEVVIHEIPKTHWGIGGKPASK---------------------------------------------------------------------------
+>A0A1L1PGI6	66	0.327	1.252E-10	0	56	59	1	58	68
+PYVNIQVTrENVSAPQKAELIAGVTELLQRVLGKDPALTHVVIDEIDPDNWGVGGLPA-----------------------------------------------------------------------------
+>UPI001E2C672C	66	0.372	1.252E-10	0	58	59	1	59	68
+PFIEVTLTEGRTPEQIRTLISALTKAASESVDAPLASVRIVVREVPETHWAAGDVTIAE---------------------------------------------------------------------------
+>A0A432NM82	66	0.267	1.252E-10	0	55	59	1	56	69
+PIVRIELFPGRSADLKAEIAREFTEALERVAGIKPEATTVVFVEIPPHDWVVAGKP------------------------------------------------------------------------------
+>A0A4R4L3N0	66	0.283	1.252E-10	0	58	59	1	60	71
+PYVNIRVTdEGVSPAQKAALIAGATDLLCRVLDKEPATTHVVIDEIPLANWGVAGLPVGE---------------------------------------------------------------------------
+>A0A0N1L0L4	66	0.258	1.252E-10	0	57	59	1	58	72
+PTVHVQLFKGRTADQKRAAAVAITEAVVKTLGGNADTVDVIFHDIERHDWATGGVLWS----------------------------------------------------------------------------
+>UPI000C9ABD0D	66	0.272	1.252E-10	0	58	59	1	66	73
+PYVNIQVTReggpdgtGPSAEQKAQLISGVTDLLQDVLGKSPATIFVVISEVPLEDWGIGGLPVQE---------------------------------------------------------------------------
+>UPI001F334410	66	0.288	1.252E-10	0	58	59	1	59	78
+PQVTITLVEGRTPEQIRDLMHEVHSAVLRTVNTRPEHIRVVVHEVPRTHWATGDVTLTE---------------------------------------------------------------------------
+>A0A1Q9SV64	66	0.264	1.252E-10	1	53	59	2	54	82
+-IITVQLYPGRSVQQKRDLVRALTDAVVAHAGATRERCYVVLQEVPPENWGVLG--------------------------------------------------------------------------------
+>A0A2V3U430	66	0.267	1.252E-10	0	55	59	1	56	83
+PVITIRIGKGRPIETKRAAAQAITDAVVSTLGVRREWVTILFDEYDRENWATGGEL------------------------------------------------------------------------------
+>A0A2E9MBF0	66	0.310	1.252E-10	0	57	59	24	81	86
+PYVNVRILKGRSREQKAQLVDVITTALADICNAPVAGTHVVIDEVDRENWAVAGQLVA----------------------------------------------------------------------------
+>UPI001C49FA2A	66	0.379	1.252E-10	0	57	59	61	118	127
+PLVQITLAKGRTPEQLAALGEAVTAAVHESIGAPTENVRVVVTECEPDLWFVGGESLS----------------------------------------------------------------------------
+>A0A154VBY9	66	0.448	1.721E-10	0	57	59	1	58	59
+PIVDITLFEGRTPEQKKALHKAVSTAIETSIGAPPASIRIILREIPKTHLSVGGETKD----------------------------------------------------------------------------
+>A0A1H9I3A4	66	0.375	1.721E-10	0	55	59	1	56	59
+PFVHVEMLEGRTREQKENLVKDITEVVAKNTGAPTDAVHVIITDLKPENLGQKGKL------------------------------------------------------------------------------
+>A0A0U3NSH2	66	0.303	1.721E-10	0	55	59	1	55	60
+PIVTVQQGP-RDPELKRELVRRVTDAFVDAYRIPPETVQVWIHEVPADSWGAAGTL------------------------------------------------------------------------------
+>A0A4V5PWC0	66	0.224	1.721E-10	0	57	59	1	58	61
+PMIRAEFISGKTEAQKRELVEALTRETARVLEVRKESVWVVLQEVEPENWAVAGTPLS----------------------------------------------------------------------------
+>A0A0R2IVV0	66	0.327	1.721E-10	0	57	59	1	58	62
+PLVHIDLIEGRSTDQLRQLVKDVTNAVSKNTGAPAEHIHIVLNEMRPDRYSDGGVLRS----------------------------------------------------------------------------
+>UPI000DA6483E	66	0.543	1.721E-10	0	56	59	1	57	63
+PIMQVHLIAGRSEEQKARLIEALSAAAVEALDAPLESVRVIINEIPASDFGIAGQTA-----------------------------------------------------------------------------
+>UPI0003B6A069	66	0.425	1.721E-10	0	53	59	1	54	63
+PIAHVHLIEGRSDAQKAAVIAKVTAALAEAAEVSPEAVRVLIHDVPKVNWGIGG--------------------------------------------------------------------------------
+>A0A6I6SUI3	66	0.474	1.721E-10	0	58	59	1	59	63
+PTVHVYMMAGRSQDQKESLIRKVTDAIAESIDAPEANVRVIISEIPKSDYGIAGTTGEK---------------------------------------------------------------------------
+>A0A7Y7YDP6	66	0.508	1.721E-10	0	56	59	1	57	63
+PIMQVFLIEGRDEEQKARLIAALTEAAVESIQAPRESVRVLITEVPKTDFGIAGKTA-----------------------------------------------------------------------------
+>A0A2M8QJ59	66	0.396	1.721E-10	0	57	59	1	58	63
+PIIHAEIVAGRPWEKRQELIERLTAAAVDSLAVAPESVRVIVTEVQPHHWAIGGKPKS----------------------------------------------------------------------------
+>UPI000488633B	66	0.526	1.721E-10	0	56	59	1	57	63
+PIVQVEILEGRSVEQKRNMARDVTEAISTNLDCPKQAVTIIIREVKKEHLARAGDLA-----------------------------------------------------------------------------
+>M7T919	66	0.372	1.721E-10	0	58	59	1	58	63
+PIVHVNVWEGFGAEKVKTVVQEITKIFVD-LGVPEYAVEVIVHEIPKSHWGIGGEPASE---------------------------------------------------------------------------
+>UPI0016672C9E	66	0.305	1.721E-10	0	58	59	1	59	65
+PLVEVTLIQGRTAEDLRALISGLTDAVVTSIGAPKESVRVIVREIPATHWAAGDVTIAE---------------------------------------------------------------------------
+>UPI0019426656	66	0.322	1.721E-10	0	58	59	1	59	65
+PLVDVTITEGRSPEQVRALIHALHSAVVTTVDALPEHVRVIVREVPRSNWATGDVTVEE---------------------------------------------------------------------------
+>UPI000785BA98	66	0.396	1.721E-10	0	57	59	1	58	65
+PILHAHILAGRTQEQQQAFARAVTEAATTHLGVPATAVRVLIHEIPPAQWYTAGEPKA----------------------------------------------------------------------------
+>A0A419FIJ7	66	0.267	1.721E-10	0	55	59	1	56	66
+PIIRIEMFPGRTLAQKRELVRLITDAVCNVAHTDPKNTHVIFEEHSVEDWAWDGKL------------------------------------------------------------------------------
+>Q1K249	66	0.305	1.721E-10	0	57	59	1	59	66
+PYVHFRITnEGATKEQKAALIKGATQLLVDVLGKNPATTVVTIEEVDTDNWGIGGETVT----------------------------------------------------------------------------
+>A0A3D2W2N2	66	0.288	1.721E-10	0	57	59	1	59	67
+PLVTVTITrEGATPAQKARIIQGVTQLLVDVLGKNPATTHVIIEEIDADSWGIAGEPVT----------------------------------------------------------------------------
+>A0A2T0MHH6	66	0.271	1.721E-10	0	57	59	1	59	67
+PYINIKVTdEGVTKTQKKELIEGVTQVLVNVLDKDPQTTHIVIDEVPKENWGYNGKQYT----------------------------------------------------------------------------
+>A0A7Y9DTD9	66	0.355	1.721E-10	0	58	59	1	59	67
+PLVQITLARGRTPEQLAALGEKVTAAVADAVGAPAGNVRVVVTECEPEHWFVGGESLAE---------------------------------------------------------------------------
+>A0A840QB15	66	0.322	1.721E-10	0	58	59	1	59	67
+PLIQVSIVKGRSDEQLRALGAALTAATVDAIGARPESIRVVVQECEAEHWFVAGESLAE---------------------------------------------------------------------------
+>A0A1I4UKG3	66	0.322	1.721E-10	0	58	59	1	59	67
+PVIQVTLTRGRTPEQLRALGEALTAAAADTLGAKPETVRVVLNECEAEHFFVGGESLAE---------------------------------------------------------------------------
+>UPI001BDDA198	66	0.283	1.721E-10	0	58	59	1	60	68
+PYVNIKVTdEGVTSEQKRQLIKGTTELLVKVLNKDPKTTFVVIEEVNTDNWGLGYQSVSE---------------------------------------------------------------------------
+>A0A5P1DSF6	66	0.293	1.721E-10	0	57	59	1	58	68
+PTIRIELSPGRSREQKSRYVEEITRSTAEILKCPVESVDVIFVEIPPYDWARAGQFLA----------------------------------------------------------------------------
+>UPI00048F0C3A	66	0.275	1.721E-10	0	57	59	1	58	68
+PTVRVEMLSGRTPEQKKALATSLTQVMVDTAGVSPASVHVIFTDIDSTDWAVAGEMLS----------------------------------------------------------------------------
+>A0A1G1GTQ1	66	0.316	1.721E-10	0	58	59	1	60	68
+PYVNIKITkEGATAEQKKRLIQETTRMLQDILGKNPQTTVVVIEEVDTDNWGIAGETITE---------------------------------------------------------------------------
+>UPI000D0FCFB3	66	0.300	1.721E-10	0	58	59	1	60	69
+PYVNIKVTrEGVTSAQKAQLIEGVTTLLSDVLGKNPNTTFVVIDEVDLDNWGIGGLPVTE---------------------------------------------------------------------------
+>A0A4S8Q0W2	66	0.275	1.721E-10	0	57	59	1	58	70
+PFITVTTWPNQTDEQCRHLIEELTKTTHEVTGAPLDKITVVIQEIPQSRWGEAGVMAT----------------------------------------------------------------------------
+>UPI001747E69B	66	0.389	1.721E-10	0	58	59	1	59	70
+PLVEVTIAEGRPAEQIRALIHELHEAAVRALHAPPANVRVIVREVPATHWSAGDVTLAE---------------------------------------------------------------------------
+>A0A480ATF2	66	0.258	1.721E-10	0	57	59	1	58	71
+PTVHVQLFKGRTADQKRAAAAAITEAVVATLGGNAATVDVIFHDIERHDWATGGKLWS----------------------------------------------------------------------------
+>E6SE00	66	0.440	1.721E-10	0	58	59	1	59	71
+PLIEITLVEGRSPEQLRTLISKVTQAAVEAVDAPLESVRVVLREVAPTHFAAGDVTIAE---------------------------------------------------------------------------
+>UPI0006467014	66	0.300	1.721E-10	0	58	59	1	60	72
+PYVNIKITrEGATAKQKARIIKGVTDVIVKVLNKDPNGTFVVIDEVALEDWGVGGLPVAE---------------------------------------------------------------------------
+>A0A7Y2DR37	66	0.413	1.721E-10	0	57	59	1	58	72
+PLVNVHMAAGRTPEQKKALMDAITHAMETHIGAPRSSVRVWITEMENTDFMAGGELLA----------------------------------------------------------------------------
+>UPI00136A2386	66	0.232	1.721E-10	0	55	59	1	56	73
+PLVRIDMFPGRTLDQKREITEVLTKELCRIAKCRPETITVMFNEVARDDWGRAGKL------------------------------------------------------------------------------
+>G2IQ07	66	0.322	1.721E-10	0	58	59	1	59	76
+PYVKIEVIEGISREQKAGLVADVTRSLVDRLGKRPEQVFVVIQEVSADDWGYAGALISE---------------------------------------------------------------------------
+>A0A4R0YJG1	66	0.373	1.721E-10	0	58	59	1	67	78
+PIVTIQITregsgPGRdaaTAEEKAELIKGVSELLLRVLNKPLESTFVVIEEVPLDNWGWGGLPALE---------------------------------------------------------------------------
+>A0A212KBP8	66	0.321	1.721E-10	0	55	59	1	56	81
+PVIHVSILEGRSVETKRAYFKALTDASVACLGCKPESVSIVLSEMPFEHYARGGKM------------------------------------------------------------------------------
+>A0A193GCP5	66	0.268	1.721E-10	0	58	59	1	67	81
+PYVNIKVTregtaPGAtatTAEQKRALIKGVSDLLWQVMGKPPQSTFVVIEEVELENWGVGGVPTPE---------------------------------------------------------------------------
+>UPI001D1738A1	66	0.403	1.721E-10	0	56	59	66	122	128
+PFAQLFLIEGRSEEQKRAVIENVTQALEEAVGAARQVIRVWIQEVPKTNWGIAGKTA-----------------------------------------------------------------------------
+>UPI000362AFB4	66	0.310	1.721E-10	1	58	59	62	119	129
+-VIEVSMFEGRSVETKKQFYRLLFQAIQSQLGIDPQDVEITITETPRANWGIRGLPADE---------------------------------------------------------------------------
+>A0A1G1P7T7	65	0.303	2.367E-10	0	55	59	1	56	59
+PVITVELFEGRTKQQKSQYAKELTELTTRVLGTSTEHVWIIFRDTPKSEWAMGGEL------------------------------------------------------------------------------
+>A0A2N8LCL6	65	0.423	2.367E-10	0	58	59	1	59	61
+PFVTIDLFEGRSQEQKNELAREVTELVSRIAQAPKENIHVMINDMPEGSYFPAGEMKKK---------------------------------------------------------------------------
+>A0A6I4ZXP3	65	0.339	2.367E-10	0	55	59	1	56	61
+PVVNIQLLSGRSKEQKSKMAQAVTDAIVDIAGARPEGVHVIFSDIEKSDWANAGVL------------------------------------------------------------------------------
+>UPI001F00715F	65	0.344	2.367E-10	0	57	59	1	58	63
+PFITVKVLEGKSVEQKRQLIERMTQVACETLDVDPSKVFIFIEDLEKDNYGKNGELFS----------------------------------------------------------------------------
+>UPI00141F26C6	65	0.372	2.367E-10	0	58	59	1	59	63
+PIIEMKILEGRDQEVKDELIERVTQTVSETLQVSPESIRVLLYDIPLTHWGIAGKTVEK---------------------------------------------------------------------------
+>A0A510XC42	65	0.474	2.367E-10	0	58	59	1	59	63
+PTVHVYMMSGRTQSQKETLIRRVTDAVMTSVDAPEENVRVIISEIPKGDYGIAGTTGEK---------------------------------------------------------------------------
+>A0A3B8RLI2	65	0.310	2.367E-10	0	57	59	1	58	63
+PLIHVSLFEGRSIEQKRAFAEQVTKVASETLQCSPASVDVIFEDIKASDWATAGQLHS----------------------------------------------------------------------------
+>UPI0006A5B293	65	0.344	2.367E-10	0	57	59	1	58	63
+PIIRVELLPGRTQEQKTLYATEATRLAAEILKCPVESVDVIFTEIEPRDWARGGRMHS----------------------------------------------------------------------------
+>A0A1F8M7C9	65	0.379	2.367E-10	0	57	59	1	58	64
+PLVSIKILEGRTIEQKRGMAKDVTEAIVKNVGCPAAAVQIDIVELKPENISQGGKLFS----------------------------------------------------------------------------
+>UPI00097BB0E7	65	0.236	2.367E-10	0	54	59	1	55	64
+PVIRVELSAGRTHEQKQKVVDDVTKSMVEHCGCPPESVHVIFSDVKSSDWAVAGK-------------------------------------------------------------------------------
+>A0A3E0HI68	65	0.372	2.367E-10	0	58	59	1	59	64
+PLVQVSLAAGRTPEQIRSLISELTAAVVRAVDAPASNVRVIVTEVPATHWAAGDVTIDE---------------------------------------------------------------------------
+>UPI0015A4290F	65	0.271	2.367E-10	0	58	59	1	59	64
+PIVKIELFAGRSDEQKARLAKAITQQFVEQLASMPEDVIVLFQDVPPTDWFVAGRSLGK---------------------------------------------------------------------------
+>A0A1X7P6G4	65	0.357	2.367E-10	0	55	59	1	56	64
+PIIDVTILAGRPPEKRLALIQALTRAAVESFDVPPEGVRVLLREIPPEHFAVAGTP------------------------------------------------------------------------------
+>A0A366FUE0	65	0.491	2.367E-10	0	58	59	1	59	66
+PIVEITLIEGRTPEAKRRLIAKVSDAIVEAIDAPLDSIRVILREVPALHFGAGGKTKEK---------------------------------------------------------------------------
+>UPI000A190D2F	65	0.300	2.367E-10	0	58	59	1	60	66
+PFVNIKVTPdGLTPEKKAALIAGVTELLRVELNKNPETTIVIIDEVETDNWGIGGRTVTE---------------------------------------------------------------------------
+>UPI00110D5749	65	0.300	2.367E-10	0	58	59	1	60	66
+PYVNIKVTdEGVTTTQKRKLIQGVTELLVNVLDKDPETTHIVIDEVPIDNWGVRGEQYGK---------------------------------------------------------------------------
+>A0A7S7U1Z9	65	0.272	2.367E-10	0	54	59	1	55	66
+PVITIDMLPGRTTDQKQEFANVVTDAFVRICGSTPSNIHVIFNEIEGSDWFIAGV-------------------------------------------------------------------------------
+>A0A4R6USK3	65	0.440	2.367E-10	0	57	59	1	59	67
+PLVQITLARGRTPEQLAALGEEVTAAVTRAVGAPAGNVRVVVTECEPEHWFVGGEsLAS----------------------------------------------------------------------------
+>A0A0F2N485	65	0.338	2.367E-10	0	57	59	1	59	67
+PFVNIKITRdGVSPEKKALLIRGVTDLLADLLGKNPRTTVVVIDEVETDNWGIGGETVT----------------------------------------------------------------------------
+>A0A2N1HIW6	65	0.300	2.367E-10	0	58	59	1	60	68
+PYINVKITEeGVTNEQKQTIIKGCTQLMVEVLNKDPSTTFVVIDEVNTDNWGIGFEQATE---------------------------------------------------------------------------
+>A0A2L0AAD6	65	0.431	2.367E-10	0	57	59	1	58	69
+PIITVNLLTGRDASKKKALIRELADAAVRALDVPIASVRVILNEVPPEQWGIGNETKA----------------------------------------------------------------------------
+>A0A4Z0F9K7	65	0.266	2.367E-10	0	58	59	1	60	70
+PYVHIRVTDdGVSAAQKAELIERTTQMLVDVLGKNPASTFVVIEEVSTDNWGVGGISVTE---------------------------------------------------------------------------
+>UPI001CEC20DF	65	0.305	2.367E-10	0	57	59	1	59	71
+PYVNIRVTnEGVTPEQKKALIKGTTELLQQVLGKPPISTFVVIDEVETENWGWQGQTIA----------------------------------------------------------------------------
+>A0A1V4TG00	65	0.305	2.367E-10	0	58	59	1	58	71
+PTVHVNVWEGFKQENIKYLIENLTKVFVD-LGIPADAVEILIHEVPQSHWGIGGIPASE---------------------------------------------------------------------------
+>A0A556MJK0	65	0.338	2.367E-10	0	57	59	1	59	72
+PVINIELTrEGVTREQKRALIQQVSDVVTNILNKDPNLTHVVIREIDTDNWGYGGEQVS----------------------------------------------------------------------------
+>A0A840LL97	65	0.355	2.367E-10	0	57	59	1	59	73
+PYVQIQITrEGATREQKAQLMRGVTDLLEQVLDKNPATTFVVIEEVETDNWGIAGETVT----------------------------------------------------------------------------
+>UPI0014226831	65	0.344	2.367E-10	0	56	59	1	58	73
+PYVNIKITrEGASADQKRELIAGVTGLLQRVLGKNPATTVVTIDEVDFENWGIGGLPV-----------------------------------------------------------------------------
+>UPI0011A4F45B	65	0.258	2.367E-10	0	57	59	1	58	77
+PLVTVEMLPGRSTETKEKMAKAIADVMVEVGGGSREHCWVVFRETTGDNWAIGGDLLS----------------------------------------------------------------------------
+>A0A2V7E928	65	0.228	2.367E-10	0	56	59	29	85	91
+PFVNVRLYEGHGKERKDELARRITQAVTDVCKVPAQAVWVVFEDVPPADWFAGGNPG-----------------------------------------------------------------------------
+>UPI000A86844C	65	0.310	2.367E-10	0	57	59	32	89	103
+PIINIKMAKGRNIQQKQQLVEIITKASAEILNVKEEWVTVIFDEYERDSWATGGSLHS----------------------------------------------------------------------------
+>A0A2V6UIQ1	65	0.271	2.367E-10	0	58	59	135	193	194
+PFVNITIYEGHAKERKDEIARRVTDTITEVCKLPREAVWVVFNEVTPPDWYVAGTPGKK---------------------------------------------------------------------------
+>UPI001F0B71A5	65	0.377	3.255E-10	6	58	59	0	52	56
+------MFEGRSLEQKKALVKEITETMERTCNAKPDTVHIIIEDKKMENWGFKGELVSE---------------------------------------------------------------------------
+>A0A1J0A594	65	0.410	3.255E-10	0	55	59	1	56	58
+PLVHIELLEGRTAEQKESLVKDVTEAIVKNTGAKTENVHIVISDMKKGDYAVGGKM------------------------------------------------------------------------------
+>A0A8J8K747	65	0.303	3.255E-10	0	55	59	1	55	58
+PVVHVYLWEGRTDEQVAEIIEDMTEVFVKR-GTSPEAVRVLVHALPKSHWGKGGKP------------------------------------------------------------------------------
+>UPI00037DB70C	65	0.410	3.255E-10	0	55	59	1	56	59
+PLIQISQTPGLSDRVKAETIAAVTEAYARATGKSPDSVWVTITEVPRSHWGVGGEP------------------------------------------------------------------------------
+>A0A7J2UV56	65	0.344	3.255E-10	0	57	59	1	57	60
+PVIQVYMWEGRDAETKKKLIEGLTKAFTD-LGNSKESVTVILNDIPKTNWGMKGEQVS----------------------------------------------------------------------------
+>UPI001C8BF52B	65	0.440	3.255E-10	0	58	59	1	59	60
+PFVRIDLFEGRTLEQKKALAREVTEAVVRNTGAPQSAVHVIINDMPEGTYFPQGEMRKK---------------------------------------------------------------------------
+>UPI0007812B83	65	0.440	3.255E-10	0	58	59	1	59	60
+PFVRIDLFEGRSLEQKKSLAKEVTEAVVRNTGAPQSAVHVIINDMPEGTYFPQGEMRTK---------------------------------------------------------------------------
+>A0A139PYK0	65	0.423	3.255E-10	0	58	59	1	59	60
+PFVRIDLFEGRTLEQKKTLAKEVTEAVVRNTGAPQSAVHVIINDMPEGTYFPQGKMRTK---------------------------------------------------------------------------
+>UPI0005E382D6	65	0.440	3.255E-10	0	58	59	1	59	60
+PFVRIDLFEGRTLEQKKALAKEVTEAIVRNTGAPQSAVHVIISDMPEGTYFPQGEMRTK---------------------------------------------------------------------------
+>A0A1G9M357	65	0.448	3.255E-10	0	57	59	1	58	61
+PIVQIDMLEGRTVDQRRELVKKVTEAITESVSCPASAVTIIIREMTKEHLGQAGKLRA----------------------------------------------------------------------------
+>UPI0010AB0EB7	65	0.322	3.255E-10	0	58	59	1	59	61
+PIVKIELLEGRSDEVKDRLAQAVTEAFTEIAGTPPDATTVVFVDVSPANWFVAGKSMRK---------------------------------------------------------------------------
+>A0A3C1YF75	65	0.285	3.255E-10	0	55	59	1	56	61
+PVVQVEMFAGRTLEQKRAMVKDVTEVFVKTINCKAEDVKIIIRELSRENLAEGGTL------------------------------------------------------------------------------
+>A0A426QU41	65	0.440	3.255E-10	0	58	59	1	59	61
+PIIDVTIAEGRSPEQLRALIHELTEGAQRALGVPVSTVRVIIREVRKTHFAAGDVTIAE---------------------------------------------------------------------------
+>UPI00131C3142	65	0.310	3.255E-10	0	57	59	1	58	61
+PVVNVNWWKGAGEQQRRELVEEVTKTVSRIAGCPAAAVTVIVSDVEQDHWGTGGRLAA----------------------------------------------------------------------------
+>A0A8J7AWV3	65	0.258	3.255E-10	0	57	59	1	58	62
+PLITIQQSPGRTLDQRRLLVKRITEAFQEAYGLPAEAVTIFLQDYEDDMWGKGGLLKS----------------------------------------------------------------------------
+>A0A292YNP5	65	0.368	3.255E-10	0	56	59	1	57	62
+PFITIEMKEGRTLEQKRRLTAEVTRLVSEICEVPEDRVWVFIEDLKSDSFGKGGKLV-----------------------------------------------------------------------------
+>A0A537N061	65	0.338	3.255E-10	0	58	59	1	59	63
+PEVYVYAVEGRTLDQKRALIKDITDAVARNFKVDPEVVMVQIMESPKTHKAKGGVLFSE---------------------------------------------------------------------------
+>A0A2V6S6D0	65	0.280	3.255E-10	0	56	59	1	57	63
+PFVNIRIYEGWGKERKDEIAKRVTGAITEVTGLPKEAVWVVIEEVKPADWYAAGRPG-----------------------------------------------------------------------------
+>UPI001E45AC83	65	0.491	3.255E-10	0	56	59	1	57	63
+PIMQVHLVAGRSEAQKARLIEALTAAAVEALDAPIESVRVIINEVPNTDFGIAGQTA-----------------------------------------------------------------------------
+>A0A8J7J3F9	65	0.327	3.255E-10	0	57	59	1	58	64
+PIVTIQQSPGRTKEQRQLLIRRITEAFEEAYGLGPEAVTVFFQNFDDSHWGKGGLLHD----------------------------------------------------------------------------
+>UPI001F32CE27	65	0.344	3.255E-10	0	57	59	1	58	64
+PYVKIEMLGGRDQQQKRALVASVTEAVCTSVGCNADAVWVVIDEKTTENWGAGGKLIA----------------------------------------------------------------------------
+>UPI001CBFF127	65	0.293	3.255E-10	0	57	59	1	58	66
+PMIRVELLSGRTVEQKRDFAQAITRAASEILGCGAAAVAVVFDDIAPENWANGGRLES----------------------------------------------------------------------------
+>A0A3M0CXA0	65	0.214	3.255E-10	0	55	59	1	56	66
+PYVRVEITRGATRDQKKQLVGDITDSLVGRLGKKPEHIHIVIDEVDEDNWGFAGML------------------------------------------------------------------------------
+>A0A521KBL4	65	0.267	3.255E-10	0	55	59	1	56	66
+PIIRIEMFPGRTLAQKRELVRLITDAVCNVAHTDPKNTHVIFSETSVEDWAWDGKL------------------------------------------------------------------------------
+>A0A0M0GGZ1	65	0.431	3.255E-10	0	57	59	1	58	66
+PIIQVHLLEGRTDEQLKDLIGSLTEVTVNSLNVRADQVRVVVQPVPKTHWGVGGITKS----------------------------------------------------------------------------
+>A0A212JD03	65	0.338	3.255E-10	0	57	59	1	59	66
+PYVNIKITKdGVTPEKKAQLIKETTDMLARVLDKNPATTFVLIEEVDTDNWGIGGETVT----------------------------------------------------------------------------
+>S7U0I3	65	0.305	3.255E-10	0	57	59	1	59	67
+PYVNIKVTrEEVTAEQKAGLIKGVTTLLTEILGKNPETTVVVIEEIDTDNWGIGGEPVT----------------------------------------------------------------------------
+>A0A7X0HNJ6	65	0.250	3.255E-10	0	58	59	1	60	67
+PFVNIKVTkENLTPEKKAELIKGATQLLVDVLGKNPNTTVVVIDEIDTDNWGIAGETVTE---------------------------------------------------------------------------
+>UPI000E3424BC	65	0.316	3.255E-10	0	58	59	1	60	67
+PYVRIEVTdEGVSDDAKADLIAGTTELLQRVLGKDPATTFVVIDEVPLANWGIGGVPVAE---------------------------------------------------------------------------
+>A0A150IJ85	65	0.450	3.255E-10	0	58	59	7	66	68
+PLVEIYLWKENSDETKKErLIREVSKCVSEVTGAPLDAVEILITEVPKSNWGKGGIPASK---------------------------------------------------------------------------
+>A0A5S3WP24	65	0.288	3.255E-10	0	57	59	1	59	68
+PYIHIQVTdEGVTNAQKQSLIKGVTQLMVDVLGKNPQTTFVVIDEVPTDNWGIGFEQVT----------------------------------------------------------------------------
+>UPI000A27817B	65	0.316	3.255E-10	0	58	59	1	60	68
+PYVNIKVTdEGVTKEQKARLIKGVTDLLQNVLDKDPNTTYVVIDEVALENWGAGGLQTDE---------------------------------------------------------------------------
+>A0A848L093	65	0.285	3.255E-10	0	55	59	1	56	69
+PFVRIDWFPGRTLEQKRELVATLTPQIARIADCKPETIQFIFTDVTREDWGRNGKL------------------------------------------------------------------------------
+>A0A255ZJ14	65	0.350	3.255E-10	0	56	59	1	57	69
+PIVNLHIVRGLSVEQKRTLVAEITQTLARVAGAKPARTHIVIQEVADEDWGLEGQLV-----------------------------------------------------------------------------
+>A0A2D3VZ96	65	0.327	3.255E-10	0	57	59	1	61	70
+PFINVKMTHedgGATKEQKEALAKELTDAFVRIFGRGEKSTVVIIEEIPTDNYAIGGESVS----------------------------------------------------------------------------
+>A0A7K3PD11	65	0.305	3.255E-10	0	58	59	1	59	72
+PHIDITIGQGRTPSQLRGLIEEVHAAVERAVGARPEHIRIAVHEVPRTHWSTGGITLAE---------------------------------------------------------------------------
+>UPI00129592C0	65	0.310	3.255E-10	0	57	59	1	58	72
+PIISVTTWDGQDDAQCQELMEELTRTVRRVTGAPLDKITVYIQEVPRHRWAEGGALGS----------------------------------------------------------------------------
+>A0A1I3CJT0	65	0.316	3.255E-10	0	58	59	1	60	72
+PIVTIQITrEGTTPEQKAALIQGATKLLQDVLQKPPSLTFVLIQEVELEDWGVNGLPAAE---------------------------------------------------------------------------
+>UPI0003F7F92D	65	0.267	3.255E-10	0	55	59	1	56	72
+PVVKIELAKGRTIAQKREMVKLITDAVVKTAGVKSENVWIIINEFEPDNFSSGGNL------------------------------------------------------------------------------
+>A0A233RR18	65	0.338	3.255E-10	0	58	59	1	59	72
+PLVEVTLVDGRTPDQIRSLIHEVTAAVVKALDVPRQSVRVAVRELPKTHWAAGDVTIAE---------------------------------------------------------------------------
+>A0A2N6F677	65	0.315	3.255E-10	0	56	59	1	57	73
+PYIEINMTAGATKEQKEKLIEGITDLMVNILDKNPASTQVVIKELTAENWGIAGRSV-----------------------------------------------------------------------------
+>A0A532DM17	65	0.333	3.255E-10	0	58	59	1	60	74
+PYVHIQVTrEGVTLEQKEALIKGVTDLLQQILNKKPAQTLVVIDEVATDNWGIAGMTVTK---------------------------------------------------------------------------
+>A0A7G5BWC5	65	0.344	3.255E-10	0	57	59	1	58	75
+PIINVDCWEGFNEEQKKQWIKELTDATVNLFNIPPDKVLVILRETSVTNWGQGGVAAS----------------------------------------------------------------------------
+>A0A193FSM6	65	0.283	3.255E-10	0	58	59	1	67	80
+PYVNIKvtregTFPGAsatTPEQKAALIQGVSQLLLDVMGKPLDSTFVVIDEVEMENWGVGGVPVRE---------------------------------------------------------------------------
+>A0A0R1YY31	65	0.379	3.255E-10	0	57	59	19	76	80
+PIVNIQLIAGRSQDQLKALVADVTAAVVKDTGAPAEHVHVILDEMQKNRYSVGGVLKS----------------------------------------------------------------------------
+>UPI000A0358F7	65	0.370	3.255E-10	4	57	59	2	55	80
+----VHLLRGRSAELKHRLLRELTDHVAVTLGVDPQTVRVFIVELEPDNWGIAGVPVS----------------------------------------------------------------------------
+>A0A4R1DGC3	65	0.283	3.255E-10	0	58	59	1	59	83
+PVVTVDWWKG-NDRQKRAdLVHELTSTLVRIAGCPREAVTVLVRDVEQDHWGRGGTLADE---------------------------------------------------------------------------
+>A0A292YE98	65	0.431	3.255E-10	1	58	59	2	59	87
+-IVRVHMLRGRSTELKHQLLRQLTEQTATTLGVERQSIRVFIVELEPDHWGIAGEPASK---------------------------------------------------------------------------
+>UPI00197F1477	65	0.440	3.255E-10	0	58	59	28	86	88
+PIIDVTIAEGRSPEQLRALIHELTEGAQRALGVPVSTVRVIIREVRKTHFAAGDVTIAE---------------------------------------------------------------------------
+>UPI001F31EBA2	65	0.316	3.255E-10	0	58	59	25	84	91
+PYVNIQVTdEKVTKEQKQELIKEVTNLLYRILNKDPKLTHVVIQEIHLDNWGVAGEQATE---------------------------------------------------------------------------
+>A0A497L1S8	65	0.310	3.255E-10	0	57	59	38	95	96
+PLNYIKWWKGRDNATKAKTIELVTKAICEACGCPPEAVTVIIQDIDKASWGRGGKPYA----------------------------------------------------------------------------
+>UPI00123DDB64	65	0.431	3.255E-10	0	57	59	72	129	143
+PFIQMVILEGRTKEQHHALIAQVTEAVGNALGADKQRIRIHISETKPDLWGIGGVPAS----------------------------------------------------------------------------
+>A0A2R7ZW33	64	0.444	4.475E-10	0	53	59	1	54	59
+PFVHIELIEGRSKEQKENLVKEVTEAVVRNTGAAGESVHVILQEMKASDYAQNG--------------------------------------------------------------------------------
+>A0A1E7HS45	64	0.350	4.475E-10	0	56	59	1	57	60
+PLVTVHADEGRTIEQKRGLVRDITDAVCKHFNVPPEAVSIHIREGKKENRAKGGKLA-----------------------------------------------------------------------------
+>A0A096AMA4	64	0.288	4.475E-10	0	58	59	1	59	61
+PMIHVELVEGRTKEQKKELASAITKATVDIIGVPVEAVKVMFVDLKADEFMEGGVLRSE---------------------------------------------------------------------------
+>A0A0U4WZ49	64	0.338	4.475E-10	0	58	59	1	59	61
+PEVVVHAVKGRSAEQKKLLMKRITEAVVDSFGVPADRVVVQIVEAEPEDKARGGVPYSE---------------------------------------------------------------------------
+>A0A3A6P807	64	0.357	4.475E-10	0	55	59	1	56	61
+PFVTINWIEGRSLEQKREIAKRVTEVISEVGKVDPDAVRIFFAEHSKDQYAIAGKL------------------------------------------------------------------------------
+>A0A8I1QJ31	64	0.275	4.475E-10	0	57	59	1	58	61
+PMIKVELLKGRSIEQKREFAEVVTRETARILKCRPEVVDIVFHDIEPHDWANGGKLNS----------------------------------------------------------------------------
+>A0A1H2UWN3	64	0.327	4.475E-10	0	57	59	1	58	61
+PVVNVNWWKGAGEPERRQLVSELTETVSRLAKCPPEAVTVLISDVEKDHWGIGGKLAA----------------------------------------------------------------------------
+>A0A3P1VDU1	64	0.406	4.475E-10	0	58	59	1	59	61
+PFVTIELFEGRTDEQKTELAREVTEVVSRVAKAPKEAIHVFIHDLPEGTYFPAGEAKKK---------------------------------------------------------------------------
+>A0A101VAW2	64	0.482	4.475E-10	0	55	59	1	56	61
+PIVQIDLLEGRTLEQKRAMVEKVTEAISETATCPKENVTIIIREMAQQHLGKAGKL------------------------------------------------------------------------------
+>A0A239Z6A5	64	0.305	4.475E-10	0	58	59	1	59	61
+PLIHVELVEGRTKEQKKQLGEAITKAAVEIVKVPADAVKIIFVDMKKDDYMEGGILRSE---------------------------------------------------------------------------
+>A0A1H8NKI9	64	0.410	4.475E-10	0	55	59	1	56	61
+PIVQIDMLEGRSTEQKRELAKKITEVIVETAKCQPDAVTIVIREAAKQHISKAGVL------------------------------------------------------------------------------
+>A0A6G2INV4	64	0.423	4.475E-10	0	58	59	1	59	61
+PFVTIDLFEGRSDEQKAQLAREVTEVVSRVAGAPKEAIHIFINDMPEGSYFPQGEVKKK---------------------------------------------------------------------------
+>UPI0004AA49A6	64	0.344	4.475E-10	0	57	59	1	58	61
+PVVTVDWWSGSKQESRRELVEEVTATVSRIAGCPQDAVTVIIRDVEQSHWGKGGRLAS----------------------------------------------------------------------------
+>A0A3G1KZ18	64	0.229	4.475E-10	0	58	59	1	61	62
+PFINVRIFEGHSKERKARIAEKITEIVNQETGVPKEYIWVTFQDIPADEWSIGGKMcgKSE---------------------------------------------------------------------------
+>A0A6I4Q7R8	64	0.362	4.475E-10	0	57	59	1	58	62
+PNVVIDFLEGRTIEQKREMAKRVTNAIAETLNCKPEAVQIIMHEISKDQIANGGILRS----------------------------------------------------------------------------
+>A0A7G6E2D1	64	0.392	4.475E-10	0	55	59	1	56	62
+PIVQIEMIGGRTIEQKRAMVKEVTEALVKTINCKRESVKIIIRDMEKHNIADGGVL------------------------------------------------------------------------------
+>A0A368TUQ3	64	0.457	4.475E-10	0	58	59	1	59	63
+PTVHVYMMSGRTQTQKETLIRRVTDAVTTSVDAPEENVRVIISEIPKSDYGIAGTTGEK---------------------------------------------------------------------------
+>UPI0013312934	64	0.362	4.475E-10	0	57	59	1	58	64
+PHVTIELLAGRTEEQKAAVSRAVTEALQAHAGASPASTSIVFRDVAKENWAAGGELMS----------------------------------------------------------------------------
+>W7S7D4	64	0.372	4.475E-10	0	58	59	1	59	64
+PFVQVSLAAGRTPEQIRALISEVTAAVARAVDAPVSNVRVVVTEVQPSHWAAGDVTLEE---------------------------------------------------------------------------
+>UPI001D093642	64	0.271	4.475E-10	0	57	59	1	59	65
+PFVHIRVTDtGVTSEQKARLIAGTTQLLQDVLNKAPEKTFVVIDEVATDNWGVAGLPVS----------------------------------------------------------------------------
+>A0A2A4VG79	64	0.372	4.475E-10	0	58	59	1	57	65
+PLIQVTIIEGRTLEQKNSFFEKVTAVAVETLNVKEAQVRVVINEVPATHWAIGG--VSK---------------------------------------------------------------------------
+>A0A351SF20	64	0.338	4.475E-10	0	57	59	1	59	65
+PYVHIKLTPeGLTKEKKATLIRKVTELLRDELDKNPETTIITIEEVPTDNWGIGGESVT----------------------------------------------------------------------------
+>A0A0M8X4Y4	64	0.271	4.475E-10	0	58	59	1	59	66
+PLIRVTLLQGRTPQEVAALGRALTAAAHEALGAPAEAVRVIVEDTPPDRWFVGGRSVAE---------------------------------------------------------------------------
+>A0A1H6KCX2	64	0.232	4.475E-10	0	55	59	1	56	66
+PLVRIELFPGRTHEQKMEIAQAVTRALEQTAGVPPSATTIMFSEVAPSDWVVAGKP------------------------------------------------------------------------------
+>K9SKK5	64	0.214	4.475E-10	0	55	59	1	56	66
+PYVNVQITRGASRSQKAEIVKQITNTLVSTLGKQPEHIHIVIQEIEEEDWGFAGLL------------------------------------------------------------------------------
+>UPI0004192BDE	64	0.436	4.475E-10	0	54	59	1	55	67
+PLVQITLATGRTAEQLDALGKAVTAAVGESIGAKPESVRVIITECEPEKWFIGGE-------------------------------------------------------------------------------
+>A0A7X8HWX0	64	0.438	4.475E-10	0	56	59	1	57	67
+PILNIALIEGRSNEQKEALIKEVTDACVKALDVKPETVRILLQDIATQDFGVAGESV-----------------------------------------------------------------------------
+>A0A1M7TC02	64	0.354	4.475E-10	0	58	59	1	62	67
+PFINIKLTGGSeapSKEQKAELIKGVTEVMVRVLNKNPASTVVIIEEIDMDNYGLGGESITE---------------------------------------------------------------------------
+>UPI001962C35F	64	0.283	4.475E-10	0	58	59	1	60	67
+PYVNIKITdEGVTAEQKHQLVQGTTQLLVDVLGKSPATTFVLIEEVSTDNWGIGYQLVTE---------------------------------------------------------------------------
+>A0A3A6P1Q2	64	0.305	4.475E-10	0	57	59	1	59	67
+PFVNVKIAKGpVTAEQKQQVIAGMTEVLFRVLGKKPESTVVLIEEISSDNWGKGGESLT----------------------------------------------------------------------------
+>A0A429Y7N0	64	0.406	4.475E-10	0	58	59	1	59	68
+PIFQVQVLKGRSREQIKGLIADVTEAAVKNLAVKPEQVRVLVTEIDHSHWGTGGLPMEE---------------------------------------------------------------------------
+>UPI000486AB07	64	0.266	4.475E-10	0	58	59	1	60	68
+PYVNIKVTNdGVTPQQKQRLIEGTTKLLVEVLDKDPATTFVVIDEVDTENWGIGYDQVSE---------------------------------------------------------------------------
+>A0A2M8HCV2	64	0.355	4.475E-10	0	57	59	1	59	68
+PYVNIKITdEQVTAQQKQALIQGVTSLLERVLNKPPATTFVVIDEVATDNWGVGGETVS----------------------------------------------------------------------------
+>A0A0A7Q1N9	64	0.233	4.475E-10	0	58	59	1	60	69
+PFVNVRITRdGVTRDQKAQVIKEITETLQRVLGKKPELTHIVIEEVDTDNWGYAGMTTTE---------------------------------------------------------------------------
+>A0A2A5BXG1	64	0.362	4.475E-10	0	56	59	1	58	69
+PYINIKITrEGVSKEQKAKLIDGVTKLLSDVLNKKPAATFVVIDEVELENWGIGGLPV-----------------------------------------------------------------------------
+>UPI001E60D1F0	64	0.355	4.475E-10	0	57	59	1	59	69
+PYVKIQITrEGATPEQKAELIAQSTQMLQRVLDKDPATTFVIIEEVELEDWGIGGLPVD----------------------------------------------------------------------------
+>A0A1H2U2E1	64	0.322	4.475E-10	0	58	59	1	59	70
+PLIDVSLGSGRTPEQIRRLITELTEATHHAIGAPLANIRVIVREVDPNLWAAGGVTIAE---------------------------------------------------------------------------
+>A0A0H2QCZ7	64	0.338	4.475E-10	0	57	59	1	59	70
+PLVNIRITrEGVSAKQKQQLIAGVTQLLVDVLGKNPATTVVIIDEVDTDNWGIGGQTIT----------------------------------------------------------------------------
+>UPI001C2FCBDF	64	0.355	4.475E-10	0	58	59	1	59	71
+PLIEVTLVNGRTPEEIRLLIHEVTEAVVEALDVPKQSVRVAVRELPKTHWAAGDVTIAE---------------------------------------------------------------------------
+>A0A1V9FFH8	64	0.271	4.475E-10	0	57	59	1	59	72
+PYIKVELTrEGVTREQKQQLIKGITDLFTNILNKDPHLTHVVIQEIELDDWGYAGEQSS----------------------------------------------------------------------------
+>UPI000A3BB36C	64	0.305	4.475E-10	0	58	59	1	59	73
+PQVTVTLAEGRSPAQIRELIHEVHEAVLRTVNTRPEYIRVVVHEVPRTHWATGDLTLTE---------------------------------------------------------------------------
+>UPI000DD44712	64	0.241	4.475E-10	0	57	59	1	58	74
+PFITVTTWPNQTDEQRQKLIEALTATTHEVTGAPLDKITVVVHEIPQARWGEAGVMAT----------------------------------------------------------------------------
+>UPI0003198968	64	0.338	4.475E-10	0	58	59	1	59	76
+PNIRVELLPGRTVDQRRRFAEEVTRAAVEALGARRQDVRIMFEEVAADHVANGGVLASE---------------------------------------------------------------------------
+>A0A519IKE8	64	0.316	4.475E-10	0	58	59	1	60	76
+PYIRIEVTrEGVTLAQKKQLIAEATELMVRVLNKDPAATFVVIQEIATDDWGVGGRTVTE---------------------------------------------------------------------------
+>UPI00131D8BC7	64	0.358	4.475E-10	0	58	59	1	67	77
+PIVNIQITregtaPGRdapTDEEKAALIKGVSEVLLNVLNKPLDSTFVVIEEVPLENWGWGGLPVPE---------------------------------------------------------------------------
+>A0A524JYH5	64	0.338	4.475E-10	0	58	59	1	59	79
+PVVIVNMLSGRDAATKKTLLKKMTAALTSTLAVAPESVRIIIQEMPSEHYGIAGLPVEE---------------------------------------------------------------------------
+>A0A4R4RHA5	64	0.305	4.475E-10	0	58	59	1	59	80
+PSITVQLLRGRTVEQKRAFAEAVTSAAVETLGARPGDVRIAFEHIEPDDVANGGVLASE---------------------------------------------------------------------------
+>UPI00122C8620	64	0.410	4.475E-10	0	55	59	32	87	92
+PIVQIDMLEGRSTEQKRELAKKITEVIVETAKCQPDAVTIVIREAAKQHISKAGVL------------------------------------------------------------------------------
+>A0A831X253	64	0.363	4.475E-10	4	58	59	29	83	95
+----VTMLEGRTTGQKAELIRRLTASAARHLGWPAEEIRVIIYEVGRNEWGSGGRTMAE---------------------------------------------------------------------------
+>A0A511DCW4	64	0.327	4.475E-10	0	57	59	62	119	135
+PYVTALVLRGRPVEQRHRLIAAFTDVLVDVLGVARESVRVRIEQVDPDDWGIAGVPAS----------------------------------------------------------------------------
+>A0A3D5K965	64	0.362	4.475E-10	0	56	59	1	58	142
+PYINIKITrEGVTAEQKAELIKGATELLARVLNKNPKTTIVIIEEVDMDSWGIGGDPV-----------------------------------------------------------------------------
+>A0A3A6NL81	64	0.303	6.154E-10	0	55	59	1	56	58
+PIVSIQLFPGRTYEMKKKAAERITDIIVEELKAKKEDVRVVYQDIDKENWCIGGKM------------------------------------------------------------------------------
+>UPI001AE3D227	64	0.345	6.154E-10	0	54	59	1	55	58
+PTITVQLKEGQSEEQRTRIIQGLTDEFVRLTDINPEKVHVIIEEVKSGNWGIGGK-------------------------------------------------------------------------------
+>A0A2X4EL40	64	0.423	6.154E-10	0	58	59	1	59	61
+PFVTIDLFEGRSQEQKIELAREVTEVVSRIAQAPKENIHVMINDMPEGSYFPHGEMKTK---------------------------------------------------------------------------
+>A0A075KCV9	64	0.357	6.154E-10	0	55	59	1	56	61
+PIVQIDMIEGRTVEQKREMAKKVTQAITETANCPADAVTIVIRDAAKSNIAKAGVL------------------------------------------------------------------------------
+>A0A3L8GIM8	64	0.423	6.154E-10	0	58	59	1	59	61
+PFVTIDLFEGRSQEQKKQLAREVTEVVSRIANAPKENIHVIINDLPEGTYFPQGEMKTK---------------------------------------------------------------------------
+>UPI0005564EB1	64	0.351	6.154E-10	0	53	59	1	54	61
+PIIQVQVLEGRSDEKIKDLVAGITQTAVETLGVKPEQVRVIVQPIPHKYWGVGG--------------------------------------------------------------------------------
+>I9NSD6	64	0.410	6.154E-10	0	55	59	1	56	61
+PIVQIDLIEGRTTEQKREMVKRVTEAITQTANCPAEAVTIVIREAAKQHIAKAGTL------------------------------------------------------------------------------
